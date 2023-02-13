@@ -29,6 +29,7 @@
 ## APIs To Add
 
 - Model Count with Filters
+- Model CreateMany & UpdateMany APIs
 - All Stats APIs
 
 ## Future Works
