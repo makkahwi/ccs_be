@@ -4,7 +4,8 @@
   "info": {
     "singularName": "collection",
     "pluralName": "collections",
-    "displayName": "collection"
+    "displayName": "collection",
+    "description": ""
   },
   "options": {
     "draftAndPublish": false
@@ -12,18 +13,20 @@
   "pluginOptions": {},
   "attributes": {
     "frontPhoto": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
       "allowedTypes": [
         "images"
-      ],
-      "type": "media",
-      "multiple": true
+      ]
     },
     "backPhoto": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
       "allowedTypes": [
         "images"
-      ],
-      "type": "media",
-      "multiple": true
+      ]
     },
     "date": {
       "type": "date"
@@ -33,6 +36,12 @@
       "required": true,
       "min": 1,
       "default": 1
+    },
+    "piece": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::piece.piece",
+      "inversedBy": "collection"
     }
   }
 }

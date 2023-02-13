@@ -4,7 +4,8 @@
   "info": {
     "singularName": "exchange-rate",
     "pluralName": "exchange-rates",
-    "displayName": "exchangeRate"
+    "displayName": "exchangeRate",
+    "description": ""
   },
   "options": {
     "draftAndPublish": false
@@ -18,6 +19,12 @@
     "valuePerUsd": {
       "type": "decimal",
       "required": true
+    },
+    "currency": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::currency.currency",
+      "inversedBy": "exchange_rate"
     }
   }
 }
