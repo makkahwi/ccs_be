@@ -4,7 +4,8 @@
   "info": {
     "singularName": "currency-edition",
     "pluralName": "currency-editions",
-    "displayName": "currencyEdition"
+    "displayName": "CurrencyEdition",
+    "description": ""
   },
   "options": {
     "draftAndPublish": false
