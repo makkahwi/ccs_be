@@ -1,0 +1,38 @@
+{
+  "kind": "collectionType",
+  "collectionName": "currency_editions",
+  "info": {
+    "singularName": "currency-edition",
+    "pluralName": "currency-editions",
+    "displayName": "currencyEdition"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "order": {
+      "type": "integer",
+      "min": 1,
+      "required": true
+    },
+    "year": {
+      "type": "integer",
+      "required": true,
+      "min": 1000,
+      "max": 2050
+    },
+    "currency": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::currency.currency",
+      "inversedBy": "editions"
+    },
+    "pieces": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::piece.piece",
+      "mappedBy": "currency_edition"
+    }
+  }
+}

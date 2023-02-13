@@ -1,0 +1,40 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pieces",
+  "info": {
+    "singularName": "piece",
+    "pluralName": "pieces",
+    "displayName": "piece",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "value": {
+      "type": "decimal",
+      "required": true
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "Coin",
+        "Banknote"
+      ],
+      "required": true
+    },
+    "collection": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::collection.collection",
+      "mappedBy": "piece"
+    },
+    "currency_edition": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::currency-edition.currency-edition",
+      "inversedBy": "pieces"
+    }
+  }
+}

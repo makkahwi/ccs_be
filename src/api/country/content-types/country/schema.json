@@ -1,0 +1,44 @@
+{
+  "kind": "collectionType",
+  "collectionName": "countries",
+  "info": {
+    "singularName": "country",
+    "pluralName": "countries",
+    "displayName": "Country",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "fullName": {
+      "type": "string",
+      "required": true
+    },
+    "mapCode": {
+      "type": "string"
+    },
+    "continent": {
+      "type": "enumeration",
+      "enum": [
+        "Africa",
+        "Asia",
+        "Americas",
+        "Europe",
+        "Oceania"
+      ],
+      "required": true
+    },
+    "currencies": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::currency.currency",
+      "mappedBy": "country"
+    }
+  }
+}
