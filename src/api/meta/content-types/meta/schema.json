@@ -1,0 +1,28 @@
+{
+  "kind": "singleType",
+  "collectionName": "metas",
+  "info": {
+    "singularName": "meta",
+    "pluralName": "metas",
+    "displayName": "meta"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "threshold": {
+      "type": "decimal",
+      "required": true,
+      "min": 1
+    },
+    "currency": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::currency.currency"
+    },
+    "ratesUpdate": {
+      "type": "date"
+    }
+  }
+}
