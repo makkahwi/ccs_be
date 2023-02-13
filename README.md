@@ -30,3 +30,8 @@
 
 - Model Count with Filters
 - All Stats APIs
+
+## Future Works
+
+- Platform for several users
+  - Model CRUD mine APIs
