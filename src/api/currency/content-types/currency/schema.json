@@ -31,16 +31,16 @@
       "target": "api::country.country",
       "inversedBy": "currencies"
     },
-    "pieces": {
-      "type": "relation",
-      "relation": "oneToMany",
-      "target": "api::piece.piece",
-      "mappedBy": "currency"
-    },
     "exchange_rate": {
       "type": "relation",
       "relation": "oneToOne",
       "target": "api::exchange-rate.exchange-rate",
+      "mappedBy": "currency"
+    },
+    "editions": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::currency-edition.currency-edition",
       "mappedBy": "currency"
     }
   }
