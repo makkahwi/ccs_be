@@ -1,4 +1,6 @@
-'use strict';
+"use strict";
+// const list = require("../database/seeds/countries.json");
+// const codes = require("../database/seeds/countries.json");
 
 module.exports = {
   /**
@@ -16,5 +18,16 @@ module.exports = {
    * This gives you an opportunity to set up your data model,
    * run jobs, or perform some special logic.
    */
+
   bootstrap(/*{ strapi }*/) {},
+
+  // For creating entries
+  // async bootstrap({ strapi }) {
+  //   await strapi.db.query("api::country.country").createMany({
+  //     data: list.map((ele) => ({
+  //       ...ele,
+  //       mapCode: codes.find((c) => c.name === ele.name)?.code.toLowerCase(),
+  //     })),
+  //   });
+  // },
 };

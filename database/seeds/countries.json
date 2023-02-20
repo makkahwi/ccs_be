@@ -1,0 +1,2233 @@
+[
+  {
+    "id": 1,
+    "name": "Algeria",
+    "fullName": "People's Democratic Republic of Algeria",
+    "mapCode": "dz",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 2,
+    "name": "Angola",
+    "fullName": "Republic of Angola",
+    "mapCode": "ao",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 3,
+    "name": "Botswana",
+    "fullName": "Republic of Botswana",
+    "mapCode": "bw",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 4,
+    "name": "Burundi",
+    "fullName": "Republic of Burundi",
+    "mapCode": "bi",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 5,
+    "name": "Cape Verde",
+    "fullName": "Republic of Cabo Verde",
+    "mapCode": "cv",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:25:48.140Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 6,
+    "name": "Central Africa",
+    "fullName": "Central Africa",
+    "mapCode": "CA",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:25:52.616Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 7,
+    "name": "Comoros",
+    "fullName": "Union of the Comoros",
+    "mapCode": "km",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 8,
+    "name": "Congo",
+    "fullName": "Democratic Republic of the Congo",
+    "mapCode": "cg",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 9,
+    "name": "Djibouti",
+    "fullName": "Republic of Djibouti",
+    "mapCode": "dj",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 10,
+    "name": "Egypt",
+    "fullName": "Arab Republic of Egypt",
+    "mapCode": "eg",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 11,
+    "name": "Eritrea",
+    "fullName": "State of Eritrea",
+    "mapCode": "er",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 12,
+    "name": "Ethiopia",
+    "fullName": "Federal Democratic Republic of Ethiopia",
+    "mapCode": "et",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 13,
+    "name": "Gambia",
+    "fullName": "Republic of The Gambia",
+    "mapCode": "gm",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 14,
+    "name": "Ghana",
+    "fullName": "Republic of Ghana",
+    "mapCode": "gh",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 15,
+    "name": "Guinea",
+    "fullName": "Republic of Guinea",
+    "mapCode": "gn",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 16,
+    "name": "Kenya",
+    "fullName": "Republic of Kenya",
+    "mapCode": "ke",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 17,
+    "name": "Liberia",
+    "fullName": "Republic of Liberia",
+    "mapCode": "lr",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 18,
+    "name": "Libya",
+    "fullName": "State of Libya",
+    "mapCode": "ly",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 19,
+    "name": "Madagascar",
+    "fullName": "Republic of Madagascar",
+    "mapCode": "mg",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 20,
+    "name": "Malawi",
+    "fullName": "Republic of Malawi",
+    "mapCode": "mw",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 21,
+    "name": "Mauritania",
+    "fullName": "Islamic Republic of Mauritania",
+    "mapCode": "mr",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 22,
+    "name": "Mauritius",
+    "fullName": "Republic of Mauritius",
+    "mapCode": "mu",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 23,
+    "name": "Morocco",
+    "fullName": "Kingdom of Morocco",
+    "mapCode": "ma",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 24,
+    "name": "Mozambique",
+    "fullName": "Republic of Mozambique",
+    "mapCode": "mz",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 25,
+    "name": "Namibia",
+    "fullName": "Republic of Namibia",
+    "mapCode": "na",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 26,
+    "name": "Nigeria",
+    "fullName": "Federal Republic of Nigeria",
+    "mapCode": "ng",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 27,
+    "name": "Rwanda",
+    "fullName": "Republic of Rwanda",
+    "mapCode": "rw",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 28,
+    "name": "Sao Tome",
+    "fullName": "Democratic Republic of Sao Tome and Principe",
+    "mapCode": "st",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:24:55.553Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 29,
+    "name": "Sierra Leone",
+    "fullName": "Republic of Sierra Leone",
+    "mapCode": "sl",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 30,
+    "name": "Somalia",
+    "fullName": "Federal Republic of Somalia",
+    "mapCode": "so",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 31,
+    "name": "Seychelles",
+    "fullName": "Republic of Seychelles",
+    "mapCode": "sc",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 32,
+    "name": "South Africa",
+    "fullName": "Republic of South Africa",
+    "mapCode": "za",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 33,
+    "name": "South Sudan",
+    "fullName": "Republic of South Sudan",
+    "mapCode": "ss",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 34,
+    "name": "Sudan",
+    "fullName": "Republic of the Sudan",
+    "mapCode": "sd",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 35,
+    "name": "Swaziland",
+    "fullName": "Kingdom of Swaziland",
+    "mapCode": "sz",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:26:01.819Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 36,
+    "name": "Tanzania",
+    "fullName": "The United Republic Of Tanzania",
+    "mapCode": "tz",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:26:07.176Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 37,
+    "name": "Tunisia",
+    "fullName": "Republic of Tunisia",
+    "mapCode": "tn",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 38,
+    "name": "Uganda",
+    "fullName": "Republic of Uganda",
+    "mapCode": "ug",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 39,
+    "name": "West Africa",
+    "fullName": "West Africa",
+    "mapCode": "wa",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:26:12.685Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 40,
+    "name": "Zambia",
+    "fullName": "Republic of Zambia",
+    "mapCode": "zm",
+    "continent": "Africa",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 41,
+    "name": "Argentina",
+    "fullName": "Argentine Republic",
+    "mapCode": "ar",
+    "continent": "Americas",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 42,
+    "name": "Aruba",
+    "fullName": "Aruba",
+    "mapCode": "aw",
+    "continent": "Americas",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 43,
+    "name": "Bahamas",
+    "fullName": "Commonwealth of the Bahamas",
+    "mapCode": "bs",
+    "continent": "Americas",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 44,
+    "name": "Barbados",
+    "fullName": "Barbados",
+    "mapCode": "bb",
+    "continent": "Americas",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 45,
+    "name": "Belize",
+    "fullName": "Belize",
+    "mapCode": "bz",
+    "continent": "Americas",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 46,
+    "name": "Bermuda",
+    "fullName": "Bermuda",
+    "mapCode": "bm",
+    "continent": "Americas",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 47,
+    "name": "Bolivia",
+    "fullName": "Plurinational State of Bolivia",
+    "mapCode": "bo",
+    "continent": "Americas",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:26:19.114Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 48,
+    "name": "Brazil",
+    "fullName": "Federative Republic of Brazil",
+    "mapCode": "br",
+    "continent": "Americas",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 49,
+    "name": "Canada",
+    "fullName": "Canada",
+    "mapCode": "ca",
+    "continent": "Americas",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 50,
+    "name": "Cayman Islands",
+    "fullName": "Cayman Islands",
+    "mapCode": "ky",
+    "continent": "Americas",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 51,
+    "name": "Chile",
+    "fullName": "Republic of Chile",
+    "mapCode": "cl",
+    "continent": "Americas",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 52,
+    "name": "Colombia",
+    "fullName": "Republic of Colombia",
+    "mapCode": "co",
+    "continent": "Americas",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 53,
+    "name": "Costa Rica",
+    "fullName": "Republic of Costa Rica",
+    "mapCode": "cr",
+    "continent": "Americas",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 54,
+    "name": "Cuba",
+    "fullName": "Republic of Cuba",
+    "mapCode": "cu",
+    "continent": "Americas",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 55,
+    "name": "Dominican Republic",
+    "fullName": "Dominican Republic",
+    "mapCode": "do",
+    "continent": "Americas",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 56,
+    "name": "Guatemala",
+    "fullName": "Republic of Guatemala",
+    "mapCode": "gt",
+    "continent": "Americas",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 57,
+    "name": "Guyana",
+    "fullName": "Co-operative Republic of Guyana",
+    "mapCode": "gy",
+    "continent": "Americas",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 58,
+    "name": "Haiti",
+    "fullName": "Republic of Haiti",
+    "mapCode": "ht",
+    "continent": "Americas",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 59,
+    "name": "Honduras",
+    "fullName": "Republic of Honduras",
+    "mapCode": "hn",
+    "continent": "Americas",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 60,
+    "name": "Jamaica",
+    "fullName": "Jamaica",
+    "mapCode": "jm",
+    "continent": "Americas",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 61,
+    "name": "Mexico",
+    "fullName": "United Mexican States",
+    "mapCode": "mx",
+    "continent": "Americas",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 62,
+    "name": "Nicaragua",
+    "fullName": "Republic of Paraguay",
+    "mapCode": "ni",
+    "continent": "Americas",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 63,
+    "name": "Panama",
+    "fullName": "Republic of Panama",
+    "mapCode": "pa",
+    "continent": "Americas",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 64,
+    "name": "Paraguay",
+    "fullName": "Republic of Paraguay",
+    "mapCode": "py",
+    "continent": "Americas",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 65,
+    "name": "Peru",
+    "fullName": "Republic of Peru",
+    "mapCode": "pe",
+    "continent": "Americas",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 66,
+    "name": "Suriname",
+    "fullName": "Republic of Suriname",
+    "mapCode": "sr",
+    "continent": "Americas",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 67,
+    "name": "United States of America",
+    "fullName": "United States of America",
+    "mapCode": "us",
+    "continent": "Americas",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 68,
+    "name": "Uruguay",
+    "fullName": "Oriental Republic of Uruguay",
+    "mapCode": "uy",
+    "continent": "Americas",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 69,
+    "name": "Venezuela",
+    "fullName": "Bolivarian Republic of Venezuela",
+    "mapCode": "vn",
+    "continent": "Americas",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:26:24.031Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 70,
+    "name": "Afghanistan",
+    "fullName": "Islamic Republic of Afghanistan",
+    "mapCode": "af",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 71,
+    "name": "Armenia",
+    "fullName": "Republic of Armenia",
+    "mapCode": "am",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 72,
+    "name": "Azerbaijan",
+    "fullName": "Republic of Azerbaijan",
+    "mapCode": "az",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 73,
+    "name": "Bahrain",
+    "fullName": "Kingdom of Bahrain",
+    "mapCode": "bh",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 74,
+    "name": "Bangladesh",
+    "fullName": "People's Republic of Bangladesh",
+    "mapCode": "bd",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:25:07.738Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 75,
+    "name": "Bhutan",
+    "fullName": "Kingdom of Bhutan",
+    "mapCode": "bt",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 76,
+    "name": "Brunei",
+    "fullName": "Negara Brunei Darussalam",
+    "mapCode": "bn",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:26:34.748Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 77,
+    "name": "Cambodia",
+    "fullName": "Kingdom of Cambodia",
+    "mapCode": "kh",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 78,
+    "name": "China",
+    "fullName": "People's Republic of China",
+    "mapCode": "cn",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 79,
+    "name": "Emirates",
+    "fullName": "United Arab Emirates",
+    "mapCode": "ae",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:26:38.576Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 80,
+    "name": "Georgia",
+    "fullName": "Georgia",
+    "mapCode": "ge",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 81,
+    "name": "Hong Kong",
+    "fullName": "Hong Kong Special Administrative Region",
+    "mapCode": "hk",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 82,
+    "name": "India",
+    "fullName": "Republic of India",
+    "mapCode": "in",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 83,
+    "name": "Indonesia",
+    "fullName": "Republic of Indonesia",
+    "mapCode": "id",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 84,
+    "name": "Iran",
+    "fullName": "Islamic Republic of Iran",
+    "mapCode": "ir",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:26:45.291Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 85,
+    "name": "Iraq",
+    "fullName": "Republic of Iraq",
+    "mapCode": "iq",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 86,
+    "name": "Israel",
+    "fullName": "State of Israel",
+    "mapCode": "il",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 87,
+    "name": "Japan",
+    "fullName": "Japan",
+    "mapCode": "jp",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 88,
+    "name": "Jordan",
+    "fullName": "The Hashemite Kingdom of Jordan",
+    "mapCode": "jo",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 89,
+    "name": "Kazakhstan",
+    "fullName": "Republic of Kazakhstan",
+    "mapCode": "kz",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 90,
+    "name": "Kuwait",
+    "fullName": "State of Kuwait",
+    "mapCode": "kw",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 91,
+    "name": "Kyrgyzstan",
+    "fullName": "Kyrgyz Republic",
+    "mapCode": "kg",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 92,
+    "name": "Laos",
+    "fullName": "Lao People's Democratic Republic",
+    "mapCode": "la",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:29:25.550Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 93,
+    "name": "Lebanon",
+    "fullName": "Lebanese Republic",
+    "mapCode": "lb",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 94,
+    "name": "Macau",
+    "fullName": "Macao Special Administrative Region of the People's Republic of China",
+    "mapCode": "mo",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:26:58.594Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 95,
+    "name": "Malaysia",
+    "fullName": "Malaysia",
+    "mapCode": "my",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 96,
+    "name": "Maldives",
+    "fullName": "Republic of Maldives",
+    "mapCode": "mv",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 97,
+    "name": "Mongolia",
+    "fullName": "Mongolia",
+    "mapCode": "mn",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 98,
+    "name": "Myanmar",
+    "fullName": "Republic of the Union of Myanmar",
+    "mapCode": "mm",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 99,
+    "name": "Nepal",
+    "fullName": "Federal Democratic Republic of Nepal",
+    "mapCode": "np",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 100,
+    "name": "North Korea",
+    "fullName": "Democratic People's Republic of Korea",
+    "mapCode": "kp",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:29:01.433Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 101,
+    "name": "Oman",
+    "fullName": "Sultanate of Oman",
+    "mapCode": "om",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 102,
+    "name": "Pakistan",
+    "fullName": "Islamic Republic of Pakistan",
+    "mapCode": "pk",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 103,
+    "name": "Philippine",
+    "fullName": "Republic of the Philippines",
+    "mapCode": "ph",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:27:05.557Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 104,
+    "name": "Qatar",
+    "fullName": "State of Qatar",
+    "mapCode": "qa",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 105,
+    "name": "Russia",
+    "fullName": "Russian Federation",
+    "mapCode": "ru",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:27:10.046Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 106,
+    "name": "Saudi Arabia",
+    "fullName": "Kingdom of Saudi Arabia",
+    "mapCode": "sa",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 107,
+    "name": "Singapore",
+    "fullName": "Republic of Singapore",
+    "mapCode": "sg",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 108,
+    "name": "South Korea",
+    "fullName": "Republic of Korea",
+    "mapCode": "kr",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:27:18.242Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 109,
+    "name": "Sri Lanka",
+    "fullName": "Democratic Socialist Republic of Sri Lanka",
+    "mapCode": "lk",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 110,
+    "name": "Syria",
+    "fullName": "Syrian Arab Republic",
+    "mapCode": "sy",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:27:25.030Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 111,
+    "name": "Taiwan",
+    "fullName": "Republic of China",
+    "mapCode": "tw",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:27:30.602Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 112,
+    "name": "Tajikistan",
+    "fullName": "Republic of Tajikistan",
+    "mapCode": "tj",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 113,
+    "name": "Thailand",
+    "fullName": "Kingdom of Thailand",
+    "mapCode": "th",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 114,
+    "name": "Turkey",
+    "fullName": "Republic of Turkey",
+    "mapCode": "tr",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 115,
+    "name": "Turkmenistan",
+    "fullName": "Turkmenistan",
+    "mapCode": "tm",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 116,
+    "name": "Uzbekistan",
+    "fullName": "Republic of Uzbekistan",
+    "mapCode": "uz",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 117,
+    "name": "Vietnam",
+    "fullName": "Socialist Republic of Vietnam",
+    "mapCode": "vn",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:27:41.697Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 118,
+    "name": "Yemen",
+    "fullName": "Republic of Yemen",
+    "mapCode": "ye",
+    "continent": "Asia",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 119,
+    "name": "Albania",
+    "fullName": "Republic of Albania",
+    "mapCode": "al",
+    "continent": "Europe",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 120,
+    "name": "Belarus",
+    "fullName": "Republic of Belarus",
+    "mapCode": "by",
+    "continent": "Europe",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 121,
+    "name": "Bosnia",
+    "fullName": "Bosnia and Herzegovina",
+    "mapCode": "ba",
+    "continent": "Europe",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:27:48.937Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 122,
+    "name": "Bulgaria",
+    "fullName": "Republic of Bulgaria",
+    "mapCode": "bg",
+    "continent": "Europe",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 123,
+    "name": "Croatia",
+    "fullName": "Republic of Croatia",
+    "mapCode": "hr",
+    "continent": "Europe",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 124,
+    "name": "Czech",
+    "fullName": "Czech Republic",
+    "mapCode": "cz",
+    "continent": "Europe",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:27:57.180Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 125,
+    "name": "Denmark",
+    "fullName": "Kingdom of Denmark",
+    "mapCode": "dk",
+    "continent": "Europe",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 126,
+    "name": "European Union",
+    "fullName": "European Union",
+    "mapCode": "eu",
+    "continent": "Europe",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:28:02.924Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 127,
+    "name": "Falkland Islands",
+    "fullName": "Falkland Islands",
+    "mapCode": "fk",
+    "continent": "Europe",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:28:32.445Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 128,
+    "name": "Gibraltar",
+    "fullName": "Gibraltar",
+    "mapCode": "gi",
+    "continent": "Europe",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 129,
+    "name": "Hungary",
+    "fullName": "Hungary",
+    "mapCode": "hu",
+    "continent": "Europe",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 130,
+    "name": "Iceland",
+    "fullName": "Iceland",
+    "mapCode": "is",
+    "continent": "Europe",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 131,
+    "name": "Macedonia",
+    "fullName": "Republic of Macedonia",
+    "mapCode": "mk",
+    "continent": "Europe",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:28:21.818Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 132,
+    "name": "Moldova",
+    "fullName": "Republic of Moldova",
+    "mapCode": "md",
+    "continent": "Europe",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:28:45.635Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 133,
+    "name": "Norway",
+    "fullName": "Kingdom of Norway",
+    "mapCode": "no",
+    "continent": "Europe",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 134,
+    "name": "Poland",
+    "fullName": "Republic of Poland",
+    "mapCode": "pl",
+    "continent": "Europe",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 135,
+    "name": "Romania",
+    "fullName": "Romania",
+    "mapCode": "ro",
+    "continent": "Europe",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 136,
+    "name": "Serbia",
+    "fullName": "Republic of Serbia",
+    "mapCode": "rs",
+    "continent": "Europe",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 137,
+    "name": "Sweden",
+    "fullName": "Kingdom of Sweden",
+    "mapCode": "se",
+    "continent": "Europe",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 138,
+    "name": "Switzerland",
+    "fullName": "Swiss Confederation",
+    "mapCode": "ch",
+    "continent": "Europe",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 139,
+    "name": "Ukraine",
+    "fullName": "Ukraine",
+    "mapCode": "ua",
+    "continent": "Europe",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 140,
+    "name": "United Kingdom",
+    "fullName": "United Kingdom of Great\nBritain and Northern Ireland",
+    "mapCode": "gb",
+    "continent": "Europe",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:29:15.005Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 141,
+    "name": "Australia",
+    "fullName": "Commonwealth of Australia",
+    "mapCode": "au",
+    "continent": "Oceania",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 142,
+    "name": "Central Pacific",
+    "fullName": "Central Pacific",
+    "mapCode": "cp",
+    "continent": "Oceania",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:29:19.961Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 143,
+    "name": "Fiji",
+    "fullName": "Republic of Fiji",
+    "mapCode": "fj",
+    "continent": "Oceania",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 144,
+    "name": "New Zealand",
+    "fullName": "New Zealand",
+    "mapCode": "nz",
+    "continent": "Oceania",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 145,
+    "name": "Papua New Guinea",
+    "fullName": "Independent State of Papua New Guinea",
+    "mapCode": "pg",
+    "continent": "Oceania",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 146,
+    "name": "Samoa",
+    "fullName": "Independent State of Samoa",
+    "mapCode": "ws",
+    "continent": "Oceania",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 147,
+    "name": "Solomon Islands",
+    "fullName": "Solomon Islands",
+    "mapCode": "sb",
+    "continent": "Oceania",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 148,
+    "name": "Tonga",
+    "fullName": "Kingdom of Tonga",
+    "mapCode": "to",
+    "continent": "Oceania",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 149,
+    "name": "Vanuatu",
+    "fullName": "Republic of Vanuatu",
+    "mapCode": "vu",
+    "continent": "Oceania",
+    "createdAt": "2023-02-20T21:22:34.653Z",
+    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "currencies": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  }
+]
