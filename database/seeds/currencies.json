@@ -1,0 +1,4174 @@
+[
+  {
+    "id": 1,
+    "name": "Algerian Dinar",
+    "code": "DZD",
+    "mostRecentEdition": 4,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:03:45.988Z",
+    "country": {
+      "id": 1,
+      "name": "Algeria",
+      "fullName": "People's Democratic Republic of Algeria",
+      "mapCode": "dz",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 2,
+    "name": "Angolan Kwanza",
+    "code": "AOA",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:03:51.812Z",
+    "country": {
+      "id": 2,
+      "name": "Angola",
+      "fullName": "Republic of Angola",
+      "mapCode": "ao",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 3,
+    "name": "Botswana Pula",
+    "code": "BWP",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:04:02.928Z",
+    "country": {
+      "id": 3,
+      "name": "Botswana",
+      "fullName": "Republic of Botswana",
+      "mapCode": "bw",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 4,
+    "name": "Burundian Franc",
+    "code": "BIF",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:04:12.634Z",
+    "country": {
+      "id": 4,
+      "name": "Burundi",
+      "fullName": "Republic of Burundi",
+      "mapCode": "bi",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 5,
+    "name": "Cape Verdean Escudo",
+    "code": "CVE",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:04:20.745Z",
+    "country": {
+      "id": 5,
+      "name": "Cape Verde",
+      "fullName": "Republic of Cabo Verde",
+      "mapCode": "cv",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 6,
+    "name": "Central African CFA Franc BEAC",
+    "code": "XAF",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:04:27.387Z",
+    "country": {
+      "id": 6,
+      "name": "Central Africa",
+      "fullName": "Central Africa",
+      "mapCode": "cf",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 7,
+    "name": "Comorian Franc",
+    "code": "KMF",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:04:35.072Z",
+    "country": {
+      "id": 7,
+      "name": "Comoros",
+      "fullName": "Union of the Comoros",
+      "mapCode": "km",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 8,
+    "name": "Congolese Franc",
+    "code": "CDF",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:04:43.258Z",
+    "country": {
+      "id": 8,
+      "name": "Congo",
+      "fullName": "Democratic Republic of the Congo",
+      "mapCode": "cg",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 9,
+    "name": "Djiboutian Franc",
+    "code": "DJF",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:04:49.503Z",
+    "country": {
+      "id": 9,
+      "name": "Djibouti",
+      "fullName": "Republic of Djibouti",
+      "mapCode": "dj",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 10,
+    "name": "Egyptian Pound",
+    "code": "EGP",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:04:53.870Z",
+    "country": {
+      "id": 10,
+      "name": "Egypt",
+      "fullName": "Arab Republic of Egypt",
+      "mapCode": "eg",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 11,
+    "name": "Eritrean Nakfa",
+    "code": "ERN",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:05:07.498Z",
+    "country": {
+      "id": 11,
+      "name": "Eritrea",
+      "fullName": "State of Eritrea",
+      "mapCode": "er",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 12,
+    "name": "Ethiopian Birr",
+    "code": "ETB",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:05:11.841Z",
+    "country": {
+      "id": 12,
+      "name": "Ethiopia",
+      "fullName": "Federal Democratic Republic of Ethiopia",
+      "mapCode": "et",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 13,
+    "name": "Gambian Dalasi",
+    "code": "GMD",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:05:17.949Z",
+    "country": {
+      "id": 13,
+      "name": "Gambia",
+      "fullName": "Republic of The Gambia",
+      "mapCode": "gm",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 14,
+    "name": "Ghanaian Cedi",
+    "code": "GHS",
+    "mostRecentEdition": 5,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:05:23.407Z",
+    "country": {
+      "id": 14,
+      "name": "Ghana",
+      "fullName": "Republic of Ghana",
+      "mapCode": "gh",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 15,
+    "name": "Guinean Franc",
+    "code": "GNF",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:05:32.306Z",
+    "country": {
+      "id": 15,
+      "name": "Guinea",
+      "fullName": "Republic of Guinea",
+      "mapCode": "gn",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 16,
+    "name": "Kenyan Shilling",
+    "code": "KES",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:05:38.879Z",
+    "country": {
+      "id": 16,
+      "name": "Kenya",
+      "fullName": "Republic of Kenya",
+      "mapCode": "ke",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 17,
+    "name": "Liberian Dollar",
+    "code": "LRD",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:05:45.251Z",
+    "country": {
+      "id": 17,
+      "name": "Liberia",
+      "fullName": "Republic of Liberia",
+      "mapCode": "lr",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 18,
+    "name": "Libyan Dinar",
+    "code": "LYD",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:05:52.890Z",
+    "country": {
+      "id": 18,
+      "name": "Libya",
+      "fullName": "State of Libya",
+      "mapCode": "ly",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 19,
+    "name": "Malagasy Ariary",
+    "code": "MGA",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:06:31.375Z",
+    "country": {
+      "id": 19,
+      "name": "Madagascar",
+      "fullName": "Republic of Madagascar",
+      "mapCode": "mg",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 20,
+    "name": "Malawian Kwacha",
+    "code": "MWK",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:06:16.765Z",
+    "country": {
+      "id": 20,
+      "name": "Malawi",
+      "fullName": "Republic of Malawi",
+      "mapCode": "mw",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 21,
+    "name": "Mauritanian Ouguiya",
+    "code": "MRU",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:06:39.469Z",
+    "country": {
+      "id": 21,
+      "name": "Mauritania",
+      "fullName": "Islamic Republic of Mauritania",
+      "mapCode": "mr",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 22,
+    "name": "Mauritian Rupee",
+    "code": "MUR",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:06:48.370Z",
+    "country": {
+      "id": 22,
+      "name": "Mauritius",
+      "fullName": "Republic of Mauritius",
+      "mapCode": "mu",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 23,
+    "name": "Moroccan Dirham",
+    "code": "MAD",
+    "mostRecentEdition": 4,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:06:55.142Z",
+    "country": {
+      "id": 23,
+      "name": "Morocco",
+      "fullName": "Kingdom of Morocco",
+      "mapCode": "ma",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 24,
+    "name": "Mozambican Metical",
+    "code": "MZN",
+    "mostRecentEdition": 3,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:07:00.761Z",
+    "country": {
+      "id": 24,
+      "name": "Mozambique",
+      "fullName": "Republic of Mozambique",
+      "mapCode": "mz",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 25,
+    "name": "Namibian Dollar",
+    "code": "NAD",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:07:15.128Z",
+    "country": {
+      "id": 25,
+      "name": "Namibia",
+      "fullName": "Republic of Namibia",
+      "mapCode": "na",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 26,
+    "name": "Nigerian Naira",
+    "code": "NGN",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:07:22.618Z",
+    "country": {
+      "id": 26,
+      "name": "Nigeria",
+      "fullName": "Federal Republic of Nigeria",
+      "mapCode": "ng",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 27,
+    "name": "Rwandan Franc",
+    "code": "RWF",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:07:28.472Z",
+    "country": {
+      "id": 27,
+      "name": "Rwanda",
+      "fullName": "Republic of Rwanda",
+      "mapCode": "rw",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 28,
+    "name": "Sao Tomean Dobra",
+    "code": "STN",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:07:33.877Z",
+    "country": {
+      "id": 28,
+      "name": "Sao Tome",
+      "fullName": "Democratic Republic of Sao Tome and Principe",
+      "mapCode": "st",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 29,
+    "name": "Sierra Leonean Leone",
+    "code": "SLL",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:07:40.335Z",
+    "country": {
+      "id": 29,
+      "name": "Sierra Leone",
+      "fullName": "Republic of Sierra Leone",
+      "mapCode": "sl",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 30,
+    "name": "Somali Shilling",
+    "code": "SOS",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:07:48.197Z",
+    "country": {
+      "id": 30,
+      "name": "Somalia",
+      "fullName": "Federal Republic of Somalia",
+      "mapCode": "so",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 31,
+    "name": "Seychellois Rupee",
+    "code": "SCR",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:09:17.496Z",
+    "country": {
+      "id": 31,
+      "name": "Seychelles",
+      "fullName": "Republic of Seychelles",
+      "mapCode": "sc",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 32,
+    "name": "South African Rand",
+    "code": "ZAR",
+    "mostRecentEdition": 8,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:09:24.474Z",
+    "country": {
+      "id": 32,
+      "name": "South Africa",
+      "fullName": "Republic of South Africa",
+      "mapCode": "za",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 33,
+    "name": "South Sudanese Pound",
+    "code": "SSP",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:09:31.801Z",
+    "country": {
+      "id": 33,
+      "name": "South Sudan",
+      "fullName": "Republic of South Sudan",
+      "mapCode": "ss",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 34,
+    "name": "Sudanese Pound",
+    "code": "SDG",
+    "mostRecentEdition": 3,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:09:37.817Z",
+    "country": {
+      "id": 34,
+      "name": "Sudan",
+      "fullName": "Republic of the Sudan",
+      "mapCode": "sd",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 35,
+    "name": "Swazi Lilangeni",
+    "code": "SZL",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:09:43.229Z",
+    "country": {
+      "id": 35,
+      "name": "Swaziland",
+      "fullName": "Kingdom of Swaziland",
+      "mapCode": "sz",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 36,
+    "name": "Tanzanian Shilling",
+    "code": "TZS",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:09:57.749Z",
+    "country": {
+      "id": 36,
+      "name": "Tanzania",
+      "fullName": "The United Republic Of Tanzania",
+      "mapCode": "tz",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 37,
+    "name": "Tunisian Dinar",
+    "code": "TND",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:10:05.204Z",
+    "country": {
+      "id": 37,
+      "name": "Tunisia",
+      "fullName": "Republic of Tunisia",
+      "mapCode": "tn",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 38,
+    "name": "Ugandan Shilling",
+    "code": "UGX",
+    "mostRecentEdition": 2,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:10:11.139Z",
+    "country": {
+      "id": 38,
+      "name": "Uganda",
+      "fullName": "Republic of Uganda",
+      "mapCode": "ug",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 39,
+    "name": "CFA Franc",
+    "code": "XOF",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:10:30.681Z",
+    "country": {
+      "id": 6,
+      "name": "Central Africa",
+      "fullName": "Central Africa",
+      "mapCode": "cf",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 40,
+    "name": "Zambian Kwacha",
+    "code": "ZMW",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:10:37.583Z",
+    "country": {
+      "id": 40,
+      "name": "Zambia",
+      "fullName": "Republic of Zambia",
+      "mapCode": "zm",
+      "continent": "Africa",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 41,
+    "name": "Argentine Peso",
+    "code": "ARS",
+    "mostRecentEdition": 4,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:10:45.945Z",
+    "country": {
+      "id": 41,
+      "name": "Argentina",
+      "fullName": "Argentine Republic",
+      "mapCode": "ar",
+      "continent": "Americas",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 42,
+    "name": "Aruban or Dutch Guilder",
+    "code": "AWG",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:10:51.736Z",
+    "country": {
+      "id": 42,
+      "name": "Aruba",
+      "fullName": "Aruba",
+      "mapCode": "aw",
+      "continent": "Americas",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 43,
+    "name": "Bahamian Dollar",
+    "code": "BSD",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:10:58.620Z",
+    "country": {
+      "id": 43,
+      "name": "Bahamas",
+      "fullName": "Commonwealth of the Bahamas",
+      "mapCode": "bs",
+      "continent": "Americas",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 44,
+    "name": "Barbadian or Bajan Dollar",
+    "code": "BBD",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:11:03.540Z",
+    "country": {
+      "id": 44,
+      "name": "Barbados",
+      "fullName": "Barbados",
+      "mapCode": "bb",
+      "continent": "Americas",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 45,
+    "name": "Belizean Dollar",
+    "code": "BZD",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:11:20.763Z",
+    "country": {
+      "id": 45,
+      "name": "Belize",
+      "fullName": "Belize",
+      "mapCode": "bz",
+      "continent": "Americas",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 46,
+    "name": "Bermudian Dollar",
+    "code": "BMD",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:11:28.727Z",
+    "country": {
+      "id": 46,
+      "name": "Bermuda",
+      "fullName": "Bermuda",
+      "mapCode": "bm",
+      "continent": "Americas",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 47,
+    "name": "Bolivian Boloviano",
+    "code": "BOB",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:11:49.038Z",
+    "country": {
+      "id": 47,
+      "name": "Bolivia",
+      "fullName": "Plurinational State of Bolivia",
+      "mapCode": "bo",
+      "continent": "Americas",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 48,
+    "name": "Brazilian Real",
+    "code": "BRL",
+    "mostRecentEdition": 2,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:11:55.873Z",
+    "country": {
+      "id": 48,
+      "name": "Brazil",
+      "fullName": "Federative Republic of Brazil",
+      "mapCode": "br",
+      "continent": "Americas",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 49,
+    "name": "Canadian Dollar",
+    "code": "CAD",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:12:01.693Z",
+    "country": {
+      "id": 49,
+      "name": "Canada",
+      "fullName": "Canada",
+      "mapCode": "ca",
+      "continent": "Americas",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 50,
+    "name": "Caymanian Dollar",
+    "code": "KYD",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:12:06.950Z",
+    "country": {
+      "id": 50,
+      "name": "Cayman Islands",
+      "fullName": "Cayman Islands",
+      "mapCode": "ky",
+      "continent": "Americas",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 51,
+    "name": "Chilean Peso",
+    "code": "CLP",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:12:29.872Z",
+    "country": {
+      "id": 51,
+      "name": "Chile",
+      "fullName": "Republic of Chile",
+      "mapCode": "cl",
+      "continent": "Americas",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 52,
+    "name": "Colombian Peso",
+    "code": "COP",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:12:36.864Z",
+    "country": {
+      "id": 52,
+      "name": "Colombia",
+      "fullName": "Republic of Colombia",
+      "mapCode": "co",
+      "continent": "Americas",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 53,
+    "name": "Costa Rican Colon",
+    "code": "CRC",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:12:42.661Z",
+    "country": {
+      "id": 53,
+      "name": "Costa Rica",
+      "fullName": "Republic of Costa Rica",
+      "mapCode": "cr",
+      "continent": "Americas",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 54,
+    "name": "Cuban Peso",
+    "code": "CUP",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:12:49.568Z",
+    "country": {
+      "id": 54,
+      "name": "Cuba",
+      "fullName": "Republic of Cuba",
+      "mapCode": "cu",
+      "continent": "Americas",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 55,
+    "name": "Dominican Peso",
+    "code": "DOP",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:12:55.384Z",
+    "country": {
+      "id": 55,
+      "name": "Dominican Republic",
+      "fullName": "Dominican Republic",
+      "mapCode": "do",
+      "continent": "Americas",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 56,
+    "name": "Guatemalan Quetzal",
+    "code": "GTQ",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:13:01.784Z",
+    "country": {
+      "id": 56,
+      "name": "Guatemala",
+      "fullName": "Republic of Guatemala",
+      "mapCode": "gt",
+      "continent": "Americas",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 57,
+    "name": "Guyanese Dollar",
+    "code": "GYD",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:13:06.972Z",
+    "country": {
+      "id": 57,
+      "name": "Guyana",
+      "fullName": "Co-operative Republic of Guyana",
+      "mapCode": "gy",
+      "continent": "Americas",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 58,
+    "name": "Haitian Gourde",
+    "code": "HTG",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:13:12.895Z",
+    "country": {
+      "id": 58,
+      "name": "Haiti",
+      "fullName": "Republic of Haiti",
+      "mapCode": "ht",
+      "continent": "Americas",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 59,
+    "name": "Honduran Lempira",
+    "code": "HNL",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:13:19.640Z",
+    "country": {
+      "id": 59,
+      "name": "Honduras",
+      "fullName": "Republic of Honduras",
+      "mapCode": "hn",
+      "continent": "Americas",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 60,
+    "name": "Jamaican Dollar",
+    "code": "JMD",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:13:26.199Z",
+    "country": {
+      "id": 60,
+      "name": "Jamaica",
+      "fullName": "Jamaica",
+      "mapCode": "jm",
+      "continent": "Americas",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 61,
+    "name": "Mexican Peso",
+    "code": "MXN",
+    "mostRecentEdition": 4,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:13:33.315Z",
+    "country": {
+      "id": 61,
+      "name": "Mexico",
+      "fullName": "United Mexican States",
+      "mapCode": "mx",
+      "continent": "Americas",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 62,
+    "name": "Nicaraguan Cordoba",
+    "code": "NIO",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:13:38.784Z",
+    "country": {
+      "id": 62,
+      "name": "Nicaragua",
+      "fullName": "Republic of Paraguay",
+      "mapCode": "ni",
+      "continent": "Americas",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 63,
+    "name": "Panamanian Balboa",
+    "code": "PAB",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:13:43.198Z",
+    "country": {
+      "id": 63,
+      "name": "Panama",
+      "fullName": "Republic of Panama",
+      "mapCode": "pa",
+      "continent": "Americas",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 64,
+    "name": "Paraguayan Guarani",
+    "code": "PYG",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:13:47.904Z",
+    "country": {
+      "id": 64,
+      "name": "Paraguay",
+      "fullName": "Republic of Paraguay",
+      "mapCode": "py",
+      "continent": "Americas",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 65,
+    "name": "Peruvian Sol",
+    "code": "PEN",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:13:52.608Z",
+    "country": {
+      "id": 65,
+      "name": "Peru",
+      "fullName": "Republic of Peru",
+      "mapCode": "pe",
+      "continent": "Americas",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 66,
+    "name": "Surinamese Dollar",
+    "code": "SRD",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:13:57.143Z",
+    "country": {
+      "id": 66,
+      "name": "Suriname",
+      "fullName": "Republic of Suriname",
+      "mapCode": "sr",
+      "continent": "Americas",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 67,
+    "name": "US Dollar",
+    "code": "USD",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:14:04.216Z",
+    "country": {
+      "id": 67,
+      "name": "United States of America",
+      "fullName": "United States of America",
+      "mapCode": "us",
+      "continent": "Americas",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 68,
+    "name": "Uruguayan Peso",
+    "code": "UYU",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:14:18.065Z",
+    "country": {
+      "id": 68,
+      "name": "Uruguay",
+      "fullName": "Oriental Republic of Uruguay",
+      "mapCode": "uy",
+      "continent": "Americas",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 69,
+    "name": "Venezuelan Bolovar",
+    "code": "VEF",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:14:25.664Z",
+    "country": {
+      "id": 69,
+      "name": "Venezuela",
+      "fullName": "Bolivarian Republic of Venezuela",
+      "mapCode": "vn",
+      "continent": "Americas",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 70,
+    "name": "Afghan Afghani",
+    "code": "AFN",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:14:32.984Z",
+    "country": {
+      "id": 70,
+      "name": "Afghanistan",
+      "fullName": "Islamic Republic of Afghanistan",
+      "mapCode": "af",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 71,
+    "name": "Armenian Dram",
+    "code": "AMD",
+    "mostRecentEdition": 3,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:14:40.536Z",
+    "country": {
+      "id": 71,
+      "name": "Armenia",
+      "fullName": "Republic of Armenia",
+      "mapCode": "am",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 72,
+    "name": "Azerbaijan Manat",
+    "code": "AZN",
+    "mostRecentEdition": 3,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:14:44.648Z",
+    "country": {
+      "id": 72,
+      "name": "Azerbaijan",
+      "fullName": "Republic of Azerbaijan",
+      "mapCode": "az",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 73,
+    "name": "Bahraini Dinar",
+    "code": "BHD",
+    "mostRecentEdition": 4,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:14:50.256Z",
+    "country": {
+      "id": 73,
+      "name": "Bahrain",
+      "fullName": "Kingdom of Bahrain",
+      "mapCode": "bh",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 74,
+    "name": "Bangladeshi Taka",
+    "code": "BDT",
+    "mostRecentEdition": 4,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:14:55.067Z",
+    "country": {
+      "id": 74,
+      "name": "Bangladesh",
+      "fullName": "People's Republic of Bangladesh",
+      "mapCode": "bd",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 75,
+    "name": "Bhutanese Ngultrum",
+    "code": "BTN",
+    "mostRecentEdition": 2,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:14:59.825Z",
+    "country": {
+      "id": 75,
+      "name": "Bhutan",
+      "fullName": "Kingdom of Bhutan",
+      "mapCode": "bt",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 76,
+    "name": "Bruneian Dollar",
+    "code": "BND",
+    "mostRecentEdition": 6,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:15:06.960Z",
+    "country": {
+      "id": 76,
+      "name": "Brunei",
+      "fullName": "Negara Brunei Darussalam",
+      "mapCode": "bn",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 77,
+    "name": "Cambodian Riel",
+    "code": "KHR",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:15:12.016Z",
+    "country": {
+      "id": 77,
+      "name": "Cambodia",
+      "fullName": "Kingdom of Cambodia",
+      "mapCode": "kh",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 78,
+    "name": "Chinese Yuan Renminbi",
+    "code": "CNY",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:15:17.817Z",
+    "country": {
+      "id": 78,
+      "name": "China",
+      "fullName": "People's Republic of China",
+      "mapCode": "cn",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 79,
+    "name": "Emirati Dirham",
+    "code": "AED",
+    "mostRecentEdition": 3,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:15:25.585Z",
+    "country": {
+      "id": 79,
+      "name": "Emirates",
+      "fullName": "United Arab Emirates",
+      "mapCode": "ae",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 80,
+    "name": "Georgian Lari",
+    "code": "GEL",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:15:32.513Z",
+    "country": {
+      "id": 80,
+      "name": "Georgia",
+      "fullName": "Georgia",
+      "mapCode": "ge",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 81,
+    "name": "Hong Kong Dollar",
+    "code": "HKD",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:15:41.352Z",
+    "country": {
+      "id": 81,
+      "name": "Hong Kong",
+      "fullName": "Hong Kong Special Administrative Region",
+      "mapCode": "hk",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 82,
+    "name": "Indian Rupee",
+    "code": "INR",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:15:47.162Z",
+    "country": {
+      "id": 82,
+      "name": "India",
+      "fullName": "Republic of India",
+      "mapCode": "in",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 83,
+    "name": "Indonesian Rupiah",
+    "code": "IDR",
+    "mostRecentEdition": 9,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:15:52.168Z",
+    "country": {
+      "id": 83,
+      "name": "Indonesia",
+      "fullName": "Republic of Indonesia",
+      "mapCode": "nevermind6",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 84,
+    "name": "Iranian Rial",
+    "code": "IRR",
+    "mostRecentEdition": 3,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:15:55.880Z",
+    "country": {
+      "id": 84,
+      "name": "Iran",
+      "fullName": "Islamic Republic of Iran",
+      "mapCode": "ir",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 85,
+    "name": "Iraqi Dinar",
+    "code": "IQD",
+    "mostRecentEdition": 3,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:16:00.623Z",
+    "country": {
+      "id": 85,
+      "name": "Iraq",
+      "fullName": "Republic of Iraq",
+      "mapCode": "iq",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 86,
+    "name": "Israeli Shekel",
+    "code": "ILS",
+    "mostRecentEdition": 3,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:16:05.401Z",
+    "country": {
+      "id": 86,
+      "name": "Israel",
+      "fullName": "State of Israel",
+      "mapCode": "il",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 87,
+    "name": "Japanese Yen",
+    "code": "JPY",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:16:09.851Z",
+    "country": {
+      "id": 87,
+      "name": "Japan",
+      "fullName": "Japan",
+      "mapCode": "jp",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 88,
+    "name": "Jordanian Dinar",
+    "code": "JOD",
+    "mostRecentEdition": 4,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:16:14.520Z",
+    "country": {
+      "id": 88,
+      "name": "Jordan",
+      "fullName": "The Hashemite Kingdom of Jordan",
+      "mapCode": "jo",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 89,
+    "name": "Kazakhstani Tenge",
+    "code": "KZT",
+    "mostRecentEdition": 3,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:16:19.192Z",
+    "country": {
+      "id": 89,
+      "name": "Kazakhstan",
+      "fullName": "Republic of Kazakhstan",
+      "mapCode": "kz",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 90,
+    "name": "Kuwaiti Dinar",
+    "code": "KWD",
+    "mostRecentEdition": 6,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:16:23.785Z",
+    "country": {
+      "id": 90,
+      "name": "Kuwait",
+      "fullName": "State of Kuwait",
+      "mapCode": "kw",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 91,
+    "name": "Kyrgyzstani Som",
+    "code": "KGS",
+    "mostRecentEdition": 4,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:16:32.090Z",
+    "country": {
+      "id": 91,
+      "name": "Kyrgyzstan",
+      "fullName": "Kyrgyz Republic",
+      "mapCode": "kg",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 92,
+    "name": "Lao Kip",
+    "code": "LAK",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:16:37.425Z",
+    "country": {
+      "id": 92,
+      "name": "Laos",
+      "fullName": "Lao People's Democratic Republic",
+      "mapCode": "la",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 93,
+    "name": "Lebanese Pound",
+    "code": "LBP",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:16:44.520Z",
+    "country": {
+      "id": 93,
+      "name": "Lebanon",
+      "fullName": "Lebanese Republic",
+      "mapCode": "lb",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 94,
+    "name": "Macau Pataca",
+    "code": "MOP",
+    "mostRecentEdition": 2,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:16:49.391Z",
+    "country": {
+      "id": 94,
+      "name": "Macau",
+      "fullName": "Macao Special Administrative Region of the People's Republic of China",
+      "mapCode": "mo",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 95,
+    "name": "Malaysian Ringgit",
+    "code": "MYR",
+    "mostRecentEdition": 4,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:17:02.046Z",
+    "country": {
+      "id": 95,
+      "name": "Malaysia",
+      "fullName": "Malaysia",
+      "mapCode": "my",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 96,
+    "name": "Maldivian Rufiyaa",
+    "code": "MVR",
+    "mostRecentEdition": 3,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:17:11.864Z",
+    "country": {
+      "id": 96,
+      "name": "Maldives",
+      "fullName": "Republic of Maldives",
+      "mapCode": "mv",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 97,
+    "name": "Mongolian Tughrik",
+    "code": "MNT",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:17:17.144Z",
+    "country": {
+      "id": 97,
+      "name": "Mongolia",
+      "fullName": "Mongolia",
+      "mapCode": "mn",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 98,
+    "name": "Burmese Kyat",
+    "code": "MMK",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:17:24.585Z",
+    "country": {
+      "id": 98,
+      "name": "Myanmar",
+      "fullName": "Republic of the Union of Myanmar",
+      "mapCode": "mm",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 99,
+    "name": "Nepalese Rupee",
+    "code": "NPR",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:17:30.273Z",
+    "country": {
+      "id": 99,
+      "name": "Nepal",
+      "fullName": "Federal Democratic Republic of Nepal",
+      "mapCode": "np",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 100,
+    "name": "North Korean Won",
+    "code": "KPW",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:17:35.690Z",
+    "country": {
+      "id": 100,
+      "name": "North Korea",
+      "fullName": "Democratic People's Republic of Korea",
+      "mapCode": "kp",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 101,
+    "name": "Omani Rial",
+    "code": "OMR",
+    "mostRecentEdition": 6,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:17:42.456Z",
+    "country": {
+      "id": 101,
+      "name": "Oman",
+      "fullName": "Sultanate of Oman",
+      "mapCode": "om",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 102,
+    "name": "Pakistani Rupee",
+    "code": "PKR",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:17:47.048Z",
+    "country": {
+      "id": 102,
+      "name": "Pakistan",
+      "fullName": "Islamic Republic of Pakistan",
+      "mapCode": "pk",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 103,
+    "name": "Philippine Peso",
+    "code": "PHP",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:17:52.353Z",
+    "country": {
+      "id": 103,
+      "name": "Philippine",
+      "fullName": "Republic of the Philippines",
+      "mapCode": "ph",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 104,
+    "name": "Qatari Riyal",
+    "code": "QAR",
+    "mostRecentEdition": 4,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:17:56.288Z",
+    "country": {
+      "id": 104,
+      "name": "Qatar",
+      "fullName": "State of Qatar",
+      "mapCode": "qa",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 105,
+    "name": "Russian Ruble",
+    "code": "RUB",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:18:05.432Z",
+    "country": {
+      "id": 105,
+      "name": "Russia",
+      "fullName": "Russian Federation",
+      "mapCode": "ru",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 106,
+    "name": "Saudi Arabian Riyal",
+    "code": "SAR",
+    "mostRecentEdition": 6,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:18:10.831Z",
+    "country": {
+      "id": 106,
+      "name": "Saudi Arabia",
+      "fullName": "Kingdom of Saudi Arabia",
+      "mapCode": "sa",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 107,
+    "name": "Singapore Dollar",
+    "code": "SGD",
+    "mostRecentEdition": 4,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:18:15.321Z",
+    "country": {
+      "id": 107,
+      "name": "Singapore",
+      "fullName": "Republic of Singapore",
+      "mapCode": "sg",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 108,
+    "name": "South Korean Won",
+    "code": "KRW",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:18:21.296Z",
+    "country": {
+      "id": 108,
+      "name": "South Korea",
+      "fullName": "Republic of Korea",
+      "mapCode": "kr",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 109,
+    "name": "Sri Lankan Rupee",
+    "code": "LKR",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:18:26.127Z",
+    "country": {
+      "id": 109,
+      "name": "Sri Lanka",
+      "fullName": "Democratic Socialist Republic of Sri Lanka",
+      "mapCode": "lk",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 110,
+    "name": "Syrian Pound",
+    "code": "SYP",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:18:31.378Z",
+    "country": {
+      "id": 110,
+      "name": "Syria",
+      "fullName": "Syrian Arab Republic",
+      "mapCode": "sy",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 111,
+    "name": "Taiwan New Dollar",
+    "code": "TWD",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:18:37.191Z",
+    "country": {
+      "id": 111,
+      "name": "Taiwan",
+      "fullName": "Republic of China",
+      "mapCode": "tw",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 112,
+    "name": "Tajikistani Somoni",
+    "code": "TJS",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:18:50.361Z",
+    "country": {
+      "id": 112,
+      "name": "Tajikistan",
+      "fullName": "Republic of Tajikistan",
+      "mapCode": "tj",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 113,
+    "name": "Thai Baht",
+    "code": "THB",
+    "mostRecentEdition": 17,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:18:59.096Z",
+    "country": {
+      "id": 113,
+      "name": "Thailand",
+      "fullName": "Kingdom of Thailand",
+      "mapCode": "th",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 114,
+    "name": "Turkish Lira",
+    "code": "TRY",
+    "mostRecentEdition": 9,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:19:05.096Z",
+    "country": {
+      "id": 114,
+      "name": "Turkey",
+      "fullName": "Republic of Turkey",
+      "mapCode": "tr",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 115,
+    "name": "Turkmenistani Manat",
+    "code": "TMT",
+    "mostRecentEdition": 3,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:19:14.873Z",
+    "country": {
+      "id": 115,
+      "name": "Turkmenistan",
+      "fullName": "Turkmenistan",
+      "mapCode": "tm",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 116,
+    "name": "Uzbekistani Som",
+    "code": "UZS",
+    "mostRecentEdition": 2,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:19:20.168Z",
+    "country": {
+      "id": 116,
+      "name": "Uzbekistan",
+      "fullName": "Republic of Uzbekistan",
+      "mapCode": "uz",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 117,
+    "name": "Vietnamese Dong",
+    "code": "VND",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:19:26.145Z",
+    "country": {
+      "id": 117,
+      "name": "Vietnam",
+      "fullName": "Socialist Republic of Vietnam",
+      "mapCode": "vn",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 118,
+    "name": "Yemeni Rial",
+    "code": "YER",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:19:31.416Z",
+    "country": {
+      "id": 118,
+      "name": "Yemen",
+      "fullName": "Republic of Yemen",
+      "mapCode": "ye",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 119,
+    "name": "Albanian Lek",
+    "code": "ALL",
+    "mostRecentEdition": 3,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:19:37.090Z",
+    "country": {
+      "id": 119,
+      "name": "Albania",
+      "fullName": "Republic of Albania",
+      "mapCode": "al",
+      "continent": "Europe",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 120,
+    "name": "Belarusian Ruble",
+    "code": "BYN",
+    "mostRecentEdition": 3,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:19:42.120Z",
+    "country": {
+      "id": 120,
+      "name": "Belarus",
+      "fullName": "Republic of Belarus",
+      "mapCode": "by",
+      "continent": "Europe",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 121,
+    "name": "Bosnian Convertible Mark",
+    "code": "BAM",
+    "mostRecentEdition": 1,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:19:48.697Z",
+    "country": {
+      "id": 121,
+      "name": "Bosnia",
+      "fullName": "Bosnia and Herzegovina",
+      "mapCode": "ba",
+      "continent": "Europe",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 122,
+    "name": "Bulgarian Lev",
+    "code": "BGN",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:19:53.209Z",
+    "country": {
+      "id": 122,
+      "name": "Bulgaria",
+      "fullName": "Republic of Bulgaria",
+      "mapCode": "bg",
+      "continent": "Europe",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 123,
+    "name": "Croatian Kuna",
+    "code": "HRK",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:19:57.760Z",
+    "country": {
+      "id": 123,
+      "name": "Croatia",
+      "fullName": "Republic of Croatia",
+      "mapCode": "hr",
+      "continent": "Europe",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 124,
+    "name": "Czech Koruna",
+    "code": "CZK",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:20:02.800Z",
+    "country": {
+      "id": 124,
+      "name": "Czech",
+      "fullName": "Czech Republic",
+      "mapCode": "cz",
+      "continent": "Europe",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 125,
+    "name": "Danish Krone",
+    "code": "DKK",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:20:08.633Z",
+    "country": {
+      "id": 125,
+      "name": "Denmark",
+      "fullName": "Kingdom of Denmark",
+      "mapCode": "dk",
+      "continent": "Europe",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 126,
+    "name": "Euro",
+    "code": "EUR",
+    "mostRecentEdition": 2,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:20:14.105Z",
+    "country": {
+      "id": 126,
+      "name": "European Union",
+      "fullName": "European Union",
+      "mapCode": "eu",
+      "continent": "Europe",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 127,
+    "name": "Falkland Island Pound",
+    "code": "FKP",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:20:17.928Z",
+    "country": {
+      "id": 127,
+      "name": "Falkland Islands",
+      "fullName": "Falkland Islands",
+      "mapCode": "fk",
+      "continent": "Europe",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 128,
+    "name": "Gibraltar Pound",
+    "code": "GIP",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:20:23.145Z",
+    "country": {
+      "id": 128,
+      "name": "Gibraltar",
+      "fullName": "Gibraltar",
+      "mapCode": "gi",
+      "continent": "Europe",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 129,
+    "name": "Hungarian Forint",
+    "code": "HUF",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:20:30.952Z",
+    "country": {
+      "id": 129,
+      "name": "Hungary",
+      "fullName": "Hungary",
+      "mapCode": "hu",
+      "continent": "Europe",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 130,
+    "name": "Icelandic Krona",
+    "code": "ISK",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:20:35.343Z",
+    "country": {
+      "id": 130,
+      "name": "Iceland",
+      "fullName": "Iceland",
+      "mapCode": "is",
+      "continent": "Europe",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 131,
+    "name": "Macedonian Denar",
+    "code": "MKD",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:20:43.800Z",
+    "country": {
+      "id": 131,
+      "name": "Macedonia",
+      "fullName": "Republic of Macedonia",
+      "mapCode": "mk",
+      "continent": "Europe",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 132,
+    "name": "Moldovan Leu",
+    "code": "MDL",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:20:48.592Z",
+    "country": {
+      "id": 132,
+      "name": "Moldova",
+      "fullName": "Republic of Moldova",
+      "mapCode": "md",
+      "continent": "Europe",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 133,
+    "name": "Norwegian Krone",
+    "code": "NOK",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:20:54.976Z",
+    "country": {
+      "id": 133,
+      "name": "Norway",
+      "fullName": "Kingdom of Norway",
+      "mapCode": "no",
+      "continent": "Europe",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 134,
+    "name": "Polish Zloty",
+    "code": "PLN",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:21:02.284Z",
+    "country": {
+      "id": 134,
+      "name": "Poland",
+      "fullName": "Republic of Poland",
+      "mapCode": "pl",
+      "continent": "Europe",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 135,
+    "name": "Romanian Leu",
+    "code": "RON",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:21:08.000Z",
+    "country": {
+      "id": 135,
+      "name": "Romania",
+      "fullName": "Romania",
+      "mapCode": "ro",
+      "continent": "Europe",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 136,
+    "name": "Serbian Dinar",
+    "code": "RSD",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:21:12.473Z",
+    "country": {
+      "id": 136,
+      "name": "Serbia",
+      "fullName": "Republic of Serbia",
+      "mapCode": "rs",
+      "continent": "Europe",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 137,
+    "name": "Swedish Krona",
+    "code": "SEK",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:21:19.578Z",
+    "country": {
+      "id": 137,
+      "name": "Sweden",
+      "fullName": "Kingdom of Sweden",
+      "mapCode": "se",
+      "continent": "Europe",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 138,
+    "name": "Swiss Franc",
+    "code": "CHF",
+    "mostRecentEdition": 9,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:21:28.576Z",
+    "country": {
+      "id": 138,
+      "name": "Switzerland",
+      "fullName": "Swiss Confederation",
+      "mapCode": "ch",
+      "continent": "Europe",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 139,
+    "name": "Ukrainian Hryvnia",
+    "code": "UAH",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:21:33.216Z",
+    "country": {
+      "id": 139,
+      "name": "Ukraine",
+      "fullName": "Ukraine",
+      "mapCode": "ua",
+      "continent": "Europe",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 140,
+    "name": "British Pound",
+    "code": "GBP",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:21:39.426Z",
+    "country": {
+      "id": 140,
+      "name": "United Kingdom",
+      "fullName": "United Kingdom of Great\nBritain and Northern Ireland",
+      "mapCode": "gb",
+      "continent": "Europe",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 141,
+    "name": "Australian Dollar",
+    "code": "AUD",
+    "mostRecentEdition": 4,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:21:49.002Z",
+    "country": {
+      "id": 141,
+      "name": "Australia",
+      "fullName": "Commonwealth of Australia",
+      "mapCode": "au",
+      "continent": "Oceania",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 142,
+    "name": "CFP Franc",
+    "code": "XPF",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:22:02.152Z",
+    "country": {
+      "id": 142,
+      "name": "Central Pacific",
+      "fullName": "Central Pacific",
+      "mapCode": "cp",
+      "continent": "Oceania",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 143,
+    "name": "Fijian Dollar",
+    "code": "FJD",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:22:07.152Z",
+    "country": {
+      "id": 143,
+      "name": "Fiji",
+      "fullName": "Republic of Fiji",
+      "mapCode": "fj",
+      "continent": "Oceania",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 144,
+    "name": "New Zealand Dollar",
+    "code": "NZD",
+    "mostRecentEdition": 7,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:22:11.463Z",
+    "country": {
+      "id": 144,
+      "name": "New Zealand",
+      "fullName": "New Zealand",
+      "mapCode": "nz",
+      "continent": "Oceania",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 145,
+    "name": "Papua New Guinean Kina",
+    "code": "PGK",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:22:16.681Z",
+    "country": {
+      "id": 145,
+      "name": "Papua New Guinea",
+      "fullName": "Independent State of Papua New Guinea",
+      "mapCode": "pg",
+      "continent": "Oceania",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 146,
+    "name": "Samoan Tala",
+    "code": "WST",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:22:23.586Z",
+    "country": {
+      "id": 146,
+      "name": "Samoa",
+      "fullName": "Independent State of Samoa",
+      "mapCode": "ws",
+      "continent": "Oceania",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 147,
+    "name": "Solomon Islander Dollar",
+    "code": "SBD",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:22:27.984Z",
+    "country": {
+      "id": 147,
+      "name": "Solomon Islands",
+      "fullName": "Solomon Islands",
+      "mapCode": "sb",
+      "continent": "Oceania",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 148,
+    "name": "Tongan Pa'anga",
+    "code": "TOP",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:22:33.449Z",
+    "country": {
+      "id": 148,
+      "name": "Tonga",
+      "fullName": "Kingdom of Tonga",
+      "mapCode": "to",
+      "continent": "Oceania",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 149,
+    "name": "Ni-Vanuatu Vatu",
+    "code": "VUV",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:03:09.054Z",
+    "updatedAt": "2023-02-22T06:22:38.859Z",
+    "country": {
+      "id": 149,
+      "name": "Vanuatu",
+      "fullName": "Republic of Vanuatu",
+      "mapCode": "vu",
+      "continent": "Oceania",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  }
+]

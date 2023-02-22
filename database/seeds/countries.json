@@ -5,8 +5,8 @@
     "fullName": "People's Democratic Republic of Algeria",
     "mapCode": "dz",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -19,8 +19,8 @@
     "fullName": "Republic of Angola",
     "mapCode": "ao",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -33,8 +33,8 @@
     "fullName": "Republic of Botswana",
     "mapCode": "bw",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -47,8 +47,8 @@
     "fullName": "Republic of Burundi",
     "mapCode": "bi",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -61,18 +61,13 @@
     "fullName": "Republic of Cabo Verde",
     "mapCode": "cv",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:25:48.140Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
     "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    }
+    "updatedBy": null
   },
   {
     "id": 6,
@@ -80,18 +75,13 @@
     "fullName": "Central Africa",
     "mapCode": "cf",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:25:52.616Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
     "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    }
+    "updatedBy": null
   },
   {
     "id": 7,
@@ -99,8 +89,8 @@
     "fullName": "Union of the Comoros",
     "mapCode": "km",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -113,8 +103,8 @@
     "fullName": "Democratic Republic of the Congo",
     "mapCode": "cg",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -127,8 +117,8 @@
     "fullName": "Republic of Djibouti",
     "mapCode": "dj",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -141,8 +131,8 @@
     "fullName": "Arab Republic of Egypt",
     "mapCode": "eg",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -155,8 +145,8 @@
     "fullName": "State of Eritrea",
     "mapCode": "er",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -169,8 +159,8 @@
     "fullName": "Federal Democratic Republic of Ethiopia",
     "mapCode": "et",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -183,8 +173,8 @@
     "fullName": "Republic of The Gambia",
     "mapCode": "gm",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -197,8 +187,8 @@
     "fullName": "Republic of Ghana",
     "mapCode": "gh",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -211,8 +201,8 @@
     "fullName": "Republic of Guinea",
     "mapCode": "gn",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -225,8 +215,8 @@
     "fullName": "Republic of Kenya",
     "mapCode": "ke",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -239,8 +229,8 @@
     "fullName": "Republic of Liberia",
     "mapCode": "lr",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -253,8 +243,8 @@
     "fullName": "State of Libya",
     "mapCode": "ly",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -267,8 +257,8 @@
     "fullName": "Republic of Madagascar",
     "mapCode": "mg",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -281,8 +271,8 @@
     "fullName": "Republic of Malawi",
     "mapCode": "mw",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -295,8 +285,8 @@
     "fullName": "Islamic Republic of Mauritania",
     "mapCode": "mr",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -309,8 +299,8 @@
     "fullName": "Republic of Mauritius",
     "mapCode": "mu",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -323,8 +313,8 @@
     "fullName": "Kingdom of Morocco",
     "mapCode": "ma",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -337,8 +327,8 @@
     "fullName": "Republic of Mozambique",
     "mapCode": "mz",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -351,8 +341,8 @@
     "fullName": "Republic of Namibia",
     "mapCode": "na",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -365,8 +355,8 @@
     "fullName": "Federal Republic of Nigeria",
     "mapCode": "ng",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -379,8 +369,8 @@
     "fullName": "Republic of Rwanda",
     "mapCode": "rw",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -393,18 +383,13 @@
     "fullName": "Democratic Republic of Sao Tome and Principe",
     "mapCode": "st",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:24:55.553Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
     "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    }
+    "updatedBy": null
   },
   {
     "id": 29,
@@ -412,8 +397,8 @@
     "fullName": "Republic of Sierra Leone",
     "mapCode": "sl",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -426,8 +411,8 @@
     "fullName": "Federal Republic of Somalia",
     "mapCode": "so",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -440,8 +425,8 @@
     "fullName": "Republic of Seychelles",
     "mapCode": "sc",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -454,8 +439,8 @@
     "fullName": "Republic of South Africa",
     "mapCode": "za",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -468,8 +453,8 @@
     "fullName": "Republic of South Sudan",
     "mapCode": "ss",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -482,8 +467,8 @@
     "fullName": "Republic of the Sudan",
     "mapCode": "sd",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -496,18 +481,13 @@
     "fullName": "Kingdom of Swaziland",
     "mapCode": "sz",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:26:01.819Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
     "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    }
+    "updatedBy": null
   },
   {
     "id": 36,
@@ -515,18 +495,13 @@
     "fullName": "The United Republic Of Tanzania",
     "mapCode": "tz",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:26:07.176Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
     "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    }
+    "updatedBy": null
   },
   {
     "id": 37,
@@ -534,8 +509,8 @@
     "fullName": "Republic of Tunisia",
     "mapCode": "tn",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -548,8 +523,8 @@
     "fullName": "Republic of Uganda",
     "mapCode": "ug",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -562,18 +537,13 @@
     "fullName": "West Africa",
     "mapCode": "wa",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:26:12.685Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
     "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    }
+    "updatedBy": null
   },
   {
     "id": 40,
@@ -581,8 +551,8 @@
     "fullName": "Republic of Zambia",
     "mapCode": "zm",
     "continent": "Africa",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -595,8 +565,8 @@
     "fullName": "Argentine Republic",
     "mapCode": "ar",
     "continent": "Americas",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -609,8 +579,8 @@
     "fullName": "Aruba",
     "mapCode": "aw",
     "continent": "Americas",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -623,8 +593,8 @@
     "fullName": "Commonwealth of the Bahamas",
     "mapCode": "bs",
     "continent": "Americas",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -637,8 +607,8 @@
     "fullName": "Barbados",
     "mapCode": "bb",
     "continent": "Americas",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -651,8 +621,8 @@
     "fullName": "Belize",
     "mapCode": "bz",
     "continent": "Americas",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -665,8 +635,8 @@
     "fullName": "Bermuda",
     "mapCode": "bm",
     "continent": "Americas",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -679,18 +649,13 @@
     "fullName": "Plurinational State of Bolivia",
     "mapCode": "bo",
     "continent": "Americas",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:26:19.114Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
     "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    }
+    "updatedBy": null
   },
   {
     "id": 48,
@@ -698,8 +663,8 @@
     "fullName": "Federative Republic of Brazil",
     "mapCode": "br",
     "continent": "Americas",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -712,8 +677,8 @@
     "fullName": "Canada",
     "mapCode": "ca",
     "continent": "Americas",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -726,8 +691,8 @@
     "fullName": "Cayman Islands",
     "mapCode": "ky",
     "continent": "Americas",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -740,8 +705,8 @@
     "fullName": "Republic of Chile",
     "mapCode": "cl",
     "continent": "Americas",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -754,8 +719,8 @@
     "fullName": "Republic of Colombia",
     "mapCode": "co",
     "continent": "Americas",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -768,8 +733,8 @@
     "fullName": "Republic of Costa Rica",
     "mapCode": "cr",
     "continent": "Americas",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -782,8 +747,8 @@
     "fullName": "Republic of Cuba",
     "mapCode": "cu",
     "continent": "Americas",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -796,8 +761,8 @@
     "fullName": "Dominican Republic",
     "mapCode": "do",
     "continent": "Americas",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -810,8 +775,8 @@
     "fullName": "Republic of Guatemala",
     "mapCode": "gt",
     "continent": "Americas",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -824,8 +789,8 @@
     "fullName": "Co-operative Republic of Guyana",
     "mapCode": "gy",
     "continent": "Americas",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -838,8 +803,8 @@
     "fullName": "Republic of Haiti",
     "mapCode": "ht",
     "continent": "Americas",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -852,8 +817,8 @@
     "fullName": "Republic of Honduras",
     "mapCode": "hn",
     "continent": "Americas",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -866,8 +831,8 @@
     "fullName": "Jamaica",
     "mapCode": "jm",
     "continent": "Americas",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -880,8 +845,8 @@
     "fullName": "United Mexican States",
     "mapCode": "mx",
     "continent": "Americas",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -894,8 +859,8 @@
     "fullName": "Republic of Paraguay",
     "mapCode": "ni",
     "continent": "Americas",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -908,8 +873,8 @@
     "fullName": "Republic of Panama",
     "mapCode": "pa",
     "continent": "Americas",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -922,8 +887,8 @@
     "fullName": "Republic of Paraguay",
     "mapCode": "py",
     "continent": "Americas",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -936,8 +901,8 @@
     "fullName": "Republic of Peru",
     "mapCode": "pe",
     "continent": "Americas",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -950,8 +915,8 @@
     "fullName": "Republic of Suriname",
     "mapCode": "sr",
     "continent": "Americas",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -964,8 +929,8 @@
     "fullName": "United States of America",
     "mapCode": "us",
     "continent": "Americas",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -978,8 +943,8 @@
     "fullName": "Oriental Republic of Uruguay",
     "mapCode": "uy",
     "continent": "Americas",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -992,18 +957,13 @@
     "fullName": "Bolivarian Republic of Venezuela",
     "mapCode": "vn",
     "continent": "Americas",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:26:24.031Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
     "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    }
+    "updatedBy": null
   },
   {
     "id": 70,
@@ -1011,8 +971,8 @@
     "fullName": "Islamic Republic of Afghanistan",
     "mapCode": "af",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1025,8 +985,8 @@
     "fullName": "Republic of Armenia",
     "mapCode": "am",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1039,8 +999,8 @@
     "fullName": "Republic of Azerbaijan",
     "mapCode": "az",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1053,8 +1013,8 @@
     "fullName": "Kingdom of Bahrain",
     "mapCode": "bh",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1067,18 +1027,13 @@
     "fullName": "People's Republic of Bangladesh",
     "mapCode": "bd",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:25:07.738Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
     "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    }
+    "updatedBy": null
   },
   {
     "id": 75,
@@ -1086,8 +1041,8 @@
     "fullName": "Kingdom of Bhutan",
     "mapCode": "bt",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1100,18 +1055,13 @@
     "fullName": "Negara Brunei Darussalam",
     "mapCode": "bn",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:26:34.748Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
     "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    }
+    "updatedBy": null
   },
   {
     "id": 77,
@@ -1119,8 +1069,8 @@
     "fullName": "Kingdom of Cambodia",
     "mapCode": "kh",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1133,8 +1083,8 @@
     "fullName": "People's Republic of China",
     "mapCode": "cn",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1147,18 +1097,13 @@
     "fullName": "United Arab Emirates",
     "mapCode": "ae",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:26:38.576Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
     "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    }
+    "updatedBy": null
   },
   {
     "id": 80,
@@ -1166,8 +1111,8 @@
     "fullName": "Georgia",
     "mapCode": "ge",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1180,8 +1125,8 @@
     "fullName": "Hong Kong Special Administrative Region",
     "mapCode": "hk",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1194,8 +1139,8 @@
     "fullName": "Republic of India",
     "mapCode": "in",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1206,10 +1151,10 @@
     "id": 83,
     "name": "Indonesia",
     "fullName": "Republic of Indonesia",
-    "mapCode": "id",
+    "mapCode": "nevermind6",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1222,18 +1167,13 @@
     "fullName": "Islamic Republic of Iran",
     "mapCode": "ir",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:26:45.291Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
     "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    }
+    "updatedBy": null
   },
   {
     "id": 85,
@@ -1241,8 +1181,8 @@
     "fullName": "Republic of Iraq",
     "mapCode": "iq",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1255,8 +1195,8 @@
     "fullName": "State of Israel",
     "mapCode": "il",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1269,8 +1209,8 @@
     "fullName": "Japan",
     "mapCode": "jp",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1283,8 +1223,8 @@
     "fullName": "The Hashemite Kingdom of Jordan",
     "mapCode": "jo",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1297,8 +1237,8 @@
     "fullName": "Republic of Kazakhstan",
     "mapCode": "kz",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1311,8 +1251,8 @@
     "fullName": "State of Kuwait",
     "mapCode": "kw",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1325,8 +1265,8 @@
     "fullName": "Kyrgyz Republic",
     "mapCode": "kg",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1339,18 +1279,13 @@
     "fullName": "Lao People's Democratic Republic",
     "mapCode": "la",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:29:25.550Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
     "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    }
+    "updatedBy": null
   },
   {
     "id": 93,
@@ -1358,8 +1293,8 @@
     "fullName": "Lebanese Republic",
     "mapCode": "lb",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1372,18 +1307,13 @@
     "fullName": "Macao Special Administrative Region of the People's Republic of China",
     "mapCode": "mo",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:26:58.594Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
     "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    }
+    "updatedBy": null
   },
   {
     "id": 95,
@@ -1391,8 +1321,8 @@
     "fullName": "Malaysia",
     "mapCode": "my",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1405,8 +1335,8 @@
     "fullName": "Republic of Maldives",
     "mapCode": "mv",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1419,8 +1349,8 @@
     "fullName": "Mongolia",
     "mapCode": "mn",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1433,8 +1363,8 @@
     "fullName": "Republic of the Union of Myanmar",
     "mapCode": "mm",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1447,8 +1377,8 @@
     "fullName": "Federal Democratic Republic of Nepal",
     "mapCode": "np",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1461,18 +1391,13 @@
     "fullName": "Democratic People's Republic of Korea",
     "mapCode": "kp",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:29:01.433Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
     "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    }
+    "updatedBy": null
   },
   {
     "id": 101,
@@ -1480,8 +1405,8 @@
     "fullName": "Sultanate of Oman",
     "mapCode": "om",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1494,8 +1419,8 @@
     "fullName": "Islamic Republic of Pakistan",
     "mapCode": "pk",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1508,18 +1433,13 @@
     "fullName": "Republic of the Philippines",
     "mapCode": "ph",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:27:05.557Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
     "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    }
+    "updatedBy": null
   },
   {
     "id": 104,
@@ -1527,8 +1447,8 @@
     "fullName": "State of Qatar",
     "mapCode": "qa",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1541,18 +1461,13 @@
     "fullName": "Russian Federation",
     "mapCode": "ru",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:27:10.046Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
     "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    }
+    "updatedBy": null
   },
   {
     "id": 106,
@@ -1560,8 +1475,8 @@
     "fullName": "Kingdom of Saudi Arabia",
     "mapCode": "sa",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1574,8 +1489,8 @@
     "fullName": "Republic of Singapore",
     "mapCode": "sg",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1588,18 +1503,13 @@
     "fullName": "Republic of Korea",
     "mapCode": "kr",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:27:18.242Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
     "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    }
+    "updatedBy": null
   },
   {
     "id": 109,
@@ -1607,8 +1517,8 @@
     "fullName": "Democratic Socialist Republic of Sri Lanka",
     "mapCode": "lk",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1621,18 +1531,13 @@
     "fullName": "Syrian Arab Republic",
     "mapCode": "sy",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:27:25.030Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
     "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    }
+    "updatedBy": null
   },
   {
     "id": 111,
@@ -1640,18 +1545,13 @@
     "fullName": "Republic of China",
     "mapCode": "tw",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:27:30.602Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
     "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    }
+    "updatedBy": null
   },
   {
     "id": 112,
@@ -1659,8 +1559,8 @@
     "fullName": "Republic of Tajikistan",
     "mapCode": "tj",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1673,8 +1573,8 @@
     "fullName": "Kingdom of Thailand",
     "mapCode": "th",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1687,8 +1587,8 @@
     "fullName": "Republic of Turkey",
     "mapCode": "tr",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1701,8 +1601,8 @@
     "fullName": "Turkmenistan",
     "mapCode": "tm",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1715,8 +1615,8 @@
     "fullName": "Republic of Uzbekistan",
     "mapCode": "uz",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1729,18 +1629,13 @@
     "fullName": "Socialist Republic of Vietnam",
     "mapCode": "vn",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:27:41.697Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
     "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    }
+    "updatedBy": null
   },
   {
     "id": 118,
@@ -1748,8 +1643,8 @@
     "fullName": "Republic of Yemen",
     "mapCode": "ye",
     "continent": "Asia",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1762,8 +1657,8 @@
     "fullName": "Republic of Albania",
     "mapCode": "al",
     "continent": "Europe",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1776,8 +1671,8 @@
     "fullName": "Republic of Belarus",
     "mapCode": "by",
     "continent": "Europe",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1790,18 +1685,13 @@
     "fullName": "Bosnia and Herzegovina",
     "mapCode": "ba",
     "continent": "Europe",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:27:48.937Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
     "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    }
+    "updatedBy": null
   },
   {
     "id": 122,
@@ -1809,8 +1699,8 @@
     "fullName": "Republic of Bulgaria",
     "mapCode": "bg",
     "continent": "Europe",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1823,8 +1713,8 @@
     "fullName": "Republic of Croatia",
     "mapCode": "hr",
     "continent": "Europe",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1837,18 +1727,13 @@
     "fullName": "Czech Republic",
     "mapCode": "cz",
     "continent": "Europe",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:27:57.180Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
     "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    }
+    "updatedBy": null
   },
   {
     "id": 125,
@@ -1856,8 +1741,8 @@
     "fullName": "Kingdom of Denmark",
     "mapCode": "dk",
     "continent": "Europe",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1870,18 +1755,13 @@
     "fullName": "European Union",
     "mapCode": "eu",
     "continent": "Europe",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:28:02.924Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
     "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    }
+    "updatedBy": null
   },
   {
     "id": 127,
@@ -1889,18 +1769,13 @@
     "fullName": "Falkland Islands",
     "mapCode": "fk",
     "continent": "Europe",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:28:32.445Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
     "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    }
+    "updatedBy": null
   },
   {
     "id": 128,
@@ -1908,8 +1783,8 @@
     "fullName": "Gibraltar",
     "mapCode": "gi",
     "continent": "Europe",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1922,8 +1797,8 @@
     "fullName": "Hungary",
     "mapCode": "hu",
     "continent": "Europe",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1936,8 +1811,8 @@
     "fullName": "Iceland",
     "mapCode": "is",
     "continent": "Europe",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -1950,18 +1825,13 @@
     "fullName": "Republic of Macedonia",
     "mapCode": "mk",
     "continent": "Europe",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:28:21.818Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
     "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    }
+    "updatedBy": null
   },
   {
     "id": 132,
@@ -1969,18 +1839,13 @@
     "fullName": "Republic of Moldova",
     "mapCode": "md",
     "continent": "Europe",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:28:45.635Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
     "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    }
+    "updatedBy": null
   },
   {
     "id": 133,
@@ -1988,8 +1853,8 @@
     "fullName": "Kingdom of Norway",
     "mapCode": "no",
     "continent": "Europe",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -2002,8 +1867,8 @@
     "fullName": "Republic of Poland",
     "mapCode": "pl",
     "continent": "Europe",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -2016,8 +1881,8 @@
     "fullName": "Romania",
     "mapCode": "ro",
     "continent": "Europe",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -2030,8 +1895,8 @@
     "fullName": "Republic of Serbia",
     "mapCode": "rs",
     "continent": "Europe",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -2044,8 +1909,8 @@
     "fullName": "Kingdom of Sweden",
     "mapCode": "se",
     "continent": "Europe",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -2058,8 +1923,8 @@
     "fullName": "Swiss Confederation",
     "mapCode": "ch",
     "continent": "Europe",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -2072,8 +1937,8 @@
     "fullName": "Ukraine",
     "mapCode": "ua",
     "continent": "Europe",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -2086,18 +1951,13 @@
     "fullName": "United Kingdom of Great\nBritain and Northern Ireland",
     "mapCode": "gb",
     "continent": "Europe",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:29:15.005Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
     "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    }
+    "updatedBy": null
   },
   {
     "id": 141,
@@ -2105,8 +1965,8 @@
     "fullName": "Commonwealth of Australia",
     "mapCode": "au",
     "continent": "Oceania",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -2119,18 +1979,13 @@
     "fullName": "Central Pacific",
     "mapCode": "cp",
     "continent": "Oceania",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:29:19.961Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
     "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    }
+    "updatedBy": null
   },
   {
     "id": 143,
@@ -2138,8 +1993,8 @@
     "fullName": "Republic of Fiji",
     "mapCode": "fj",
     "continent": "Oceania",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -2152,8 +2007,8 @@
     "fullName": "New Zealand",
     "mapCode": "nz",
     "continent": "Oceania",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -2166,8 +2021,8 @@
     "fullName": "Independent State of Papua New Guinea",
     "mapCode": "pg",
     "continent": "Oceania",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -2180,8 +2035,8 @@
     "fullName": "Independent State of Samoa",
     "mapCode": "ws",
     "continent": "Oceania",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -2194,8 +2049,8 @@
     "fullName": "Solomon Islands",
     "mapCode": "sb",
     "continent": "Oceania",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -2208,8 +2063,8 @@
     "fullName": "Kingdom of Tonga",
     "mapCode": "to",
     "continent": "Oceania",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
@@ -2222,8 +2077,8 @@
     "fullName": "Republic of Vanuatu",
     "mapCode": "vu",
     "continent": "Oceania",
-    "createdAt": "2023-02-20T21:22:34.653Z",
-    "updatedAt": "2023-02-20T21:22:34.653Z",
+    "createdAt": "2023-02-22T06:01:07.423Z",
+    "updatedAt": "2023-02-22T06:01:07.423Z",
     "currencies": {
       "count": 0
     },
