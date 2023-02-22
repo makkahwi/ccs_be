@@ -4170,5 +4170,137 @@
       "lastname": "Ahmad",
       "username": null
     }
+  },
+  {
+    "id": 150,
+    "name": "Hong Kong Dollar (BoC)",
+    "code": "HKD",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:28:31.485Z",
+    "updatedAt": "2023-02-22T06:28:31.485Z",
+    "country": {
+      "id": 81,
+      "name": "Hong Kong",
+      "fullName": "Hong Kong Special Administrative Region",
+      "mapCode": "hk",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    },
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 151,
+    "name": "Hong Kong Dollar (HSBC)",
+    "code": "HKD",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:28:55.419Z",
+    "updatedAt": "2023-02-22T06:28:55.419Z",
+    "country": {
+      "id": 81,
+      "name": "Hong Kong",
+      "fullName": "Hong Kong Special Administrative Region",
+      "mapCode": "hk",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    },
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 152,
+    "name": "Hong Kong Dollar (SCB)",
+    "code": "HKD",
+    "mostRecentEdition": 111,
+    "createdAt": "2023-02-22T06:29:11.332Z",
+    "updatedAt": "2023-02-22T06:29:11.332Z",
+    "country": {
+      "id": 81,
+      "name": "Hong Kong",
+      "fullName": "Hong Kong Special Administrative Region",
+      "mapCode": "hk",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    },
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 153,
+    "name": "Macau Pataca (BoC)",
+    "code": "MOP",
+    "mostRecentEdition": 2,
+    "createdAt": "2023-02-22T06:29:49.110Z",
+    "updatedAt": "2023-02-22T06:29:49.110Z",
+    "country": {
+      "id": 94,
+      "name": "Macau",
+      "fullName": "Macao Special Administrative Region of the People's Republic of China",
+      "mapCode": "mo",
+      "continent": "Asia",
+      "createdAt": "2023-02-22T06:01:07.423Z",
+      "updatedAt": "2023-02-22T06:01:07.423Z"
+    },
+    "exchange_rate": null,
+    "editions": {
+      "count": 0
+    },
+    "createdBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    },
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
   }
 ]
