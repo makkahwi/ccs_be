@@ -1,0 +1,3282 @@
+[
+  {
+    "id": 1,
+    "order": 4,
+    "year": 1996,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:48:55.376Z",
+    "currency": {
+      "id": 1,
+      "name": "Algerian Dinar",
+      "code": "DZD",
+      "mostRecentEdition": 4,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:03:45.988Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 2,
+    "order": 5,
+    "year": 2007,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:51:53.212Z",
+    "currency": {
+      "id": 14,
+      "name": "Ghanaian Cedi",
+      "code": "GHS",
+      "mostRecentEdition": 5,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:05:23.407Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 3,
+    "order": 4,
+    "year": 2013,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:55:31.472Z",
+    "currency": {
+      "id": 23,
+      "name": "Moroccan Dirham",
+      "code": "MAD",
+      "mostRecentEdition": 4,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:06:55.142Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 4,
+    "order": 3,
+    "year": 2011,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:54:00.846Z",
+    "currency": {
+      "id": 24,
+      "name": "Mozambican Metical",
+      "code": "MZN",
+      "mostRecentEdition": 3,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:07:00.761Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 5,
+    "order": 8,
+    "year": 2018,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:58:00.555Z",
+    "currency": {
+      "id": 32,
+      "name": "South African Rand",
+      "code": "ZAR",
+      "mostRecentEdition": 8,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:09:24.474Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 6,
+    "order": 3,
+    "year": 2011,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:54:24.667Z",
+    "currency": {
+      "id": 34,
+      "name": "Sudanese Pound",
+      "code": "SDG",
+      "mostRecentEdition": 3,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:09:37.817Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 7,
+    "order": 2,
+    "year": 2010,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:53:33.419Z",
+    "currency": {
+      "id": 38,
+      "name": "Ugandan Shilling",
+      "code": "UGX",
+      "mostRecentEdition": 2,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:10:11.139Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 8,
+    "order": 4,
+    "year": 2016,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:56:52.180Z",
+    "currency": {
+      "id": 41,
+      "name": "Argentine Peso",
+      "code": "ARS",
+      "mostRecentEdition": 4,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:10:45.945Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 9,
+    "order": 2,
+    "year": 2010,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:53:45.873Z",
+    "currency": {
+      "id": 48,
+      "name": "Brazilian Real",
+      "code": "BRL",
+      "mostRecentEdition": 2,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:11:55.873Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 10,
+    "order": 4,
+    "year": 2007,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:52:03.922Z",
+    "currency": {
+      "id": 61,
+      "name": "Mexican Peso",
+      "code": "MXN",
+      "mostRecentEdition": 4,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:13:33.315Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 11,
+    "order": 3,
+    "year": 2018,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:58:08.307Z",
+    "currency": {
+      "id": 71,
+      "name": "Armenian Dram",
+      "code": "AMD",
+      "mostRecentEdition": 3,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:14:40.536Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 12,
+    "order": 3,
+    "year": 2006,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:51:25.977Z",
+    "currency": {
+      "id": 72,
+      "name": "Azerbaijan Manat",
+      "code": "AZN",
+      "mostRecentEdition": 3,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:14:44.648Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 13,
+    "order": 4,
+    "year": 2008,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:52:18.468Z",
+    "currency": {
+      "id": 73,
+      "name": "Bahraini Dinar",
+      "code": "BHD",
+      "mostRecentEdition": 4,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:14:50.256Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 14,
+    "order": 4,
+    "year": 2011,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:54:35.909Z",
+    "currency": {
+      "id": 74,
+      "name": "Bangladeshi Taka",
+      "code": "BDT",
+      "mostRecentEdition": 4,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:14:55.067Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 15,
+    "order": 2,
+    "year": 2006,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:51:39.658Z",
+    "currency": {
+      "id": 75,
+      "name": "Bhutanese Ngultrum",
+      "code": "BTN",
+      "mostRecentEdition": 2,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:14:59.825Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 16,
+    "order": 6,
+    "year": 2011,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:54:47.641Z",
+    "currency": {
+      "id": 76,
+      "name": "Bruneian Dollar",
+      "code": "BND",
+      "mostRecentEdition": 6,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:15:06.960Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 17,
+    "order": 3,
+    "year": 2003,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:50:15.489Z",
+    "currency": {
+      "id": 79,
+      "name": "Emirati Dirham",
+      "code": "AED",
+      "mostRecentEdition": 3,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:15:25.585Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 18,
+    "order": 9,
+    "year": 2016,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:57:02.273Z",
+    "currency": {
+      "id": 83,
+      "name": "Indonesian Rupiah",
+      "code": "IDR",
+      "mostRecentEdition": 9,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:15:52.168Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 19,
+    "order": 3,
+    "year": 1992,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:48:16.914Z",
+    "currency": {
+      "id": 84,
+      "name": "Iranian Rial",
+      "code": "IRR",
+      "mostRecentEdition": 3,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:15:55.880Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 20,
+    "order": 3,
+    "year": 2003,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:50:26.454Z",
+    "currency": {
+      "id": 85,
+      "name": "Iraqi Dinar",
+      "code": "IQD",
+      "mostRecentEdition": 3,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:16:00.623Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 21,
+    "order": 3,
+    "year": 2014,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:55:52.723Z",
+    "currency": {
+      "id": 86,
+      "name": "Israeli Shekel",
+      "code": "ILS",
+      "mostRecentEdition": 3,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:16:05.401Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 22,
+    "order": 5,
+    "year": 2022,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:49:45.004Z",
+    "currency": {
+      "id": 88,
+      "name": "Jordanian Dinar",
+      "code": "JOD",
+      "mostRecentEdition": 5,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:16:14.520Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 23,
+    "order": 3,
+    "year": 2011,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:54:57.665Z",
+    "currency": {
+      "id": 89,
+      "name": "Kazakhstani Tenge",
+      "code": "KZT",
+      "mostRecentEdition": 3,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:16:19.192Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 24,
+    "order": 6,
+    "year": 2014,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:56:00.204Z",
+    "currency": {
+      "id": 90,
+      "name": "Kuwaiti Dinar",
+      "code": "KWD",
+      "mostRecentEdition": 6,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:16:23.785Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 25,
+    "order": 4,
+    "year": 2009,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:52:43.468Z",
+    "currency": {
+      "id": 91,
+      "name": "Kyrgyzstani Som",
+      "code": "KGS",
+      "mostRecentEdition": 4,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:16:32.090Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 26,
+    "order": 2,
+    "year": 2005,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:51:11.490Z",
+    "currency": {
+      "id": 94,
+      "name": "Macau Pataca",
+      "code": "MOP",
+      "mostRecentEdition": 2,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:16:49.391Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 27,
+    "order": 2,
+    "year": 2008,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:52:30.331Z",
+    "currency": {
+      "id": 153,
+      "name": "Macau Pataca (BoC)",
+      "code": "MOP",
+      "mostRecentEdition": 2,
+      "createdAt": "2023-02-22T06:29:49.110Z",
+      "updatedAt": "2023-02-22T06:29:49.110Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 28,
+    "order": 4,
+    "year": 2012,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:55:12.591Z",
+    "currency": {
+      "id": 95,
+      "name": "Malaysian Ringgit",
+      "code": "MYR",
+      "mostRecentEdition": 4,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:17:02.046Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 29,
+    "order": 3,
+    "year": 2015,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:56:19.196Z",
+    "currency": {
+      "id": 96,
+      "name": "Maldivian Rufiyaa",
+      "code": "MVR",
+      "mostRecentEdition": 3,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:17:11.864Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 30,
+    "order": 6,
+    "year": 2020,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:58:22.724Z",
+    "currency": {
+      "id": 101,
+      "name": "Omani Rial",
+      "code": "OMR",
+      "mostRecentEdition": 6,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:17:42.456Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 31,
+    "order": 4,
+    "year": 2003,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:50:35.272Z",
+    "currency": {
+      "id": 104,
+      "name": "Qatari Riyal",
+      "code": "QAR",
+      "mostRecentEdition": 4,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:17:56.288Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 32,
+    "order": 6,
+    "year": 2016,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:57:11.058Z",
+    "currency": {
+      "id": 106,
+      "name": "Saudi Arabian Riyal",
+      "code": "SAR",
+      "mostRecentEdition": 6,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:18:10.831Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 33,
+    "order": 4,
+    "year": 1999,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:49:27.519Z",
+    "currency": {
+      "id": 107,
+      "name": "Singapore Dollar",
+      "code": "SGD",
+      "mostRecentEdition": 4,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:18:15.321Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 34,
+    "order": 17,
+    "year": 2017,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:57:43.459Z",
+    "currency": {
+      "id": 113,
+      "name": "Thai Baht",
+      "code": "THB",
+      "mostRecentEdition": 17,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:18:59.096Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 35,
+    "order": 9,
+    "year": 2009,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:52:53.499Z",
+    "currency": {
+      "id": 114,
+      "name": "Turkish Lira",
+      "code": "TRY",
+      "mostRecentEdition": 9,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:19:05.096Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 36,
+    "order": 3,
+    "year": 2009,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:53:08.533Z",
+    "currency": {
+      "id": 115,
+      "name": "Turkmenistani Manat",
+      "code": "TMT",
+      "mostRecentEdition": 3,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:19:14.873Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 37,
+    "order": 2,
+    "year": 1994,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:48:28.791Z",
+    "currency": {
+      "id": 116,
+      "name": "Uzbekistani Som",
+      "code": "UZS",
+      "mostRecentEdition": 2,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:19:20.168Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 38,
+    "order": 3,
+    "year": 1996,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:48:42.135Z",
+    "currency": {
+      "id": 119,
+      "name": "Albanian Lek",
+      "code": "ALL",
+      "mostRecentEdition": 3,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:19:37.090Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 39,
+    "order": 3,
+    "year": 2009,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:53:21.028Z",
+    "currency": {
+      "id": 120,
+      "name": "Belarusian Ruble",
+      "code": "BYN",
+      "mostRecentEdition": 3,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:19:42.120Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 40,
+    "order": 1,
+    "year": 1998,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:49:08.618Z",
+    "currency": {
+      "id": 121,
+      "name": "Bosnian Convertible Mark",
+      "code": "BAM",
+      "mostRecentEdition": 1,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:19:48.697Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 41,
+    "order": 2,
+    "year": 2013,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:55:41.746Z",
+    "currency": {
+      "id": 126,
+      "name": "Euro",
+      "code": "EUR",
+      "mostRecentEdition": 2,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:20:14.105Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 42,
+    "order": 9,
+    "year": 2016,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:57:20.875Z",
+    "currency": {
+      "id": 138,
+      "name": "Swiss Franc",
+      "code": "CHF",
+      "mostRecentEdition": 9,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:21:28.576Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 43,
+    "order": 4,
+    "year": 2016,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:57:28.162Z",
+    "currency": {
+      "id": 141,
+      "name": "Australian Dollar",
+      "code": "AUD",
+      "mostRecentEdition": 4,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:21:49.002Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 44,
+    "order": 7,
+    "year": 2015,
+    "createdAt": "2023-02-24T19:47:48.433Z",
+    "updatedAt": "2023-02-24T19:56:27.650Z",
+    "currency": {
+      "id": 144,
+      "name": "New Zealand Dollar",
+      "code": "NZD",
+      "mostRecentEdition": 7,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-22T06:22:11.463Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": {
+      "id": 1,
+      "firstname": "Suhaib",
+      "lastname": "Ahmad",
+      "username": null
+    }
+  },
+  {
+    "id": 45,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 70,
+      "name": "Afghan Afghani",
+      "code": "AFN",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:02:54.839Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 46,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 2,
+      "name": "Angolan Kwanza",
+      "code": "AOA",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:03:25.376Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 47,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 42,
+      "name": "Aruban or Dutch Guilder",
+      "code": "AWG",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:03:31.180Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 48,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 43,
+      "name": "Bahamian Dollar",
+      "code": "BSD",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:03:36.457Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 49,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 44,
+      "name": "Barbadian or Bajan Dollar",
+      "code": "BBD",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:03:45.901Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 50,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 45,
+      "name": "Belizean Dollar",
+      "code": "BZD",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:03:53.475Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 51,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 46,
+      "name": "Bermudian Dollar",
+      "code": "BMD",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:03:57.898Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 52,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 47,
+      "name": "Bolivian Boloviano",
+      "code": "BOB",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:04:06.055Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 53,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 3,
+      "name": "Botswana Pula",
+      "code": "BWP",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:04:15.505Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 54,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 140,
+      "name": "British Pound",
+      "code": "GBP",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:04:22.528Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 55,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 122,
+      "name": "Bulgarian Lev",
+      "code": "BGN",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:04:27.634Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 56,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 98,
+      "name": "Burmese Kyat",
+      "code": "MMK",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:04:32.610Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 57,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 4,
+      "name": "Burundian Franc",
+      "code": "BIF",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:04:38.088Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 58,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 39,
+      "name": "CFA Franc",
+      "code": "XOF",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:04:43.954Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 59,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 142,
+      "name": "CFP Franc",
+      "code": "XPF",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:04:49.291Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 60,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 77,
+      "name": "Cambodian Riel",
+      "code": "KHR",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:04:55.550Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 61,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 49,
+      "name": "Canadian Dollar",
+      "code": "CAD",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:05:00.963Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 62,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 5,
+      "name": "Cape Verdean Escudo",
+      "code": "CVE",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:05:10.235Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 63,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 50,
+      "name": "Caymanian Dollar",
+      "code": "KYD",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:05:23.065Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 64,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 6,
+      "name": "Central African CFA Franc BEAC",
+      "code": "XAF",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:05:28.317Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 65,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 51,
+      "name": "Chilean Peso",
+      "code": "CLP",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:05:32.578Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 66,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 78,
+      "name": "Chinese Yuan Renminbi",
+      "code": "CNY",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:05:37.868Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 67,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 52,
+      "name": "Colombian Peso",
+      "code": "COP",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:05:43.051Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 68,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 7,
+      "name": "Comorian Franc",
+      "code": "KMF",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:05:47.029Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 69,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 8,
+      "name": "Congolese Franc",
+      "code": "CDF",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:05:51.719Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 70,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 53,
+      "name": "Costa Rican Colon",
+      "code": "CRC",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:05:56.708Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 71,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 123,
+      "name": "Croatian Kuna",
+      "code": "HRK",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:06:01.853Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 72,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 54,
+      "name": "Cuban Peso",
+      "code": "CUP",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:06:07.444Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 73,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 124,
+      "name": "Czech Koruna",
+      "code": "CZK",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:06:11.619Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 74,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 125,
+      "name": "Danish Krone",
+      "code": "DKK",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:06:14.859Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 75,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 9,
+      "name": "Djiboutian Franc",
+      "code": "DJF",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:06:19.459Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 76,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 55,
+      "name": "Dominican Peso",
+      "code": "DOP",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:06:23.722Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 77,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 10,
+      "name": "Egyptian Pound",
+      "code": "EGP",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:06:27.486Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 78,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 11,
+      "name": "Eritrean Nakfa",
+      "code": "ERN",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:06:32.987Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 79,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 12,
+      "name": "Ethiopian Birr",
+      "code": "ETB",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:06:38.150Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 80,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 127,
+      "name": "Falkland Island Pound",
+      "code": "FKP",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:06:43.887Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 81,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 13,
+      "name": "Gambian Dalasi",
+      "code": "GMD",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:06:52.389Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 82,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 143,
+      "name": "Fijian Dollar",
+      "code": "FJD",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:06:49.107Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 83,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 80,
+      "name": "Georgian Lari",
+      "code": "GEL",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:06:56.426Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 84,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 128,
+      "name": "Gibraltar Pound",
+      "code": "GIP",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:07:02.153Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 85,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 56,
+      "name": "Guatemalan Quetzal",
+      "code": "GTQ",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:07:07.499Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 86,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 15,
+      "name": "Guinean Franc",
+      "code": "GNF",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:07:11.587Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 87,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 57,
+      "name": "Guyanese Dollar",
+      "code": "GYD",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:07:16.635Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 88,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 58,
+      "name": "Haitian Gourde",
+      "code": "HTG",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:07:20.286Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 89,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 59,
+      "name": "Honduran Lempira",
+      "code": "HNL",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:07:25.171Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 90,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 81,
+      "name": "Hong Kong Dollar",
+      "code": "HKD",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:07:30.378Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 91,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 150,
+      "name": "Hong Kong Dollar (BoC)",
+      "code": "HKD",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:28:31.485Z",
+      "updatedAt": "2023-02-24T20:07:36.149Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 92,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 151,
+      "name": "Hong Kong Dollar (HSBC)",
+      "code": "HKD",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:28:55.419Z",
+      "updatedAt": "2023-02-24T20:07:39.219Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 93,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 152,
+      "name": "Hong Kong Dollar (SCB)",
+      "code": "HKD",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:29:11.332Z",
+      "updatedAt": "2023-02-24T20:07:42.886Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 94,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 130,
+      "name": "Icelandic Krona",
+      "code": "ISK",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:07:46.484Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 95,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 129,
+      "name": "Hungarian Forint",
+      "code": "HUF",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:07:51.141Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 96,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 82,
+      "name": "Indian Rupee",
+      "code": "INR",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:07:56.162Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 97,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 60,
+      "name": "Jamaican Dollar",
+      "code": "JMD",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:08:02.422Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 98,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 87,
+      "name": "Japanese Yen",
+      "code": "JPY",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:08:07.060Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 99,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 16,
+      "name": "Kenyan Shilling",
+      "code": "KES",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:08:11.844Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 100,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 92,
+      "name": "Lao Kip",
+      "code": "LAK",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:08:18.194Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 101,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 93,
+      "name": "Lebanese Pound",
+      "code": "LBP",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:08:23.890Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 102,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 17,
+      "name": "Liberian Dollar",
+      "code": "LRD",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:08:29.377Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 103,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 18,
+      "name": "Libyan Dinar",
+      "code": "LYD",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:08:33.178Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 104,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 131,
+      "name": "Macedonian Denar",
+      "code": "MKD",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:08:37.477Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 105,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 19,
+      "name": "Malagasy Ariary",
+      "code": "MGA",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:08:41.485Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 106,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 20,
+      "name": "Malawian Kwacha",
+      "code": "MWK",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:08:45.414Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 107,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 21,
+      "name": "Mauritanian Ouguiya",
+      "code": "MRU",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:08:52.058Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 108,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 22,
+      "name": "Mauritian Rupee",
+      "code": "MUR",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:08:55.692Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 109,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 132,
+      "name": "Moldovan Leu",
+      "code": "MDL",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:08:58.963Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 110,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 97,
+      "name": "Mongolian Tughrik",
+      "code": "MNT",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:09:03.046Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 111,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 25,
+      "name": "Namibian Dollar",
+      "code": "NAD",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:09:46.621Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 112,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 99,
+      "name": "Nepalese Rupee",
+      "code": "NPR",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:09:50.426Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 113,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 149,
+      "name": "Ni-Vanuatu Vatu",
+      "code": "VUV",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:09:55.115Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 114,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 62,
+      "name": "Nicaraguan Cordoba",
+      "code": "NIO",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:09:58.691Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 115,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 26,
+      "name": "Nigerian Naira",
+      "code": "NGN",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:10:02.372Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 116,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 100,
+      "name": "North Korean Won",
+      "code": "KPW",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:10:06.131Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 117,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 133,
+      "name": "Norwegian Krone",
+      "code": "NOK",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:10:09.226Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 118,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 102,
+      "name": "Pakistani Rupee",
+      "code": "PKR",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:10:12.914Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 119,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 63,
+      "name": "Panamanian Balboa",
+      "code": "PAB",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:10:17.589Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 120,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 145,
+      "name": "Papua New Guinean Kina",
+      "code": "PGK",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:10:21.642Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 121,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 64,
+      "name": "Paraguayan Guarani",
+      "code": "PYG",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:10:25.157Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 122,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 65,
+      "name": "Peruvian Sol",
+      "code": "PEN",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:10:30.275Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 123,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 103,
+      "name": "Philippine Peso",
+      "code": "PHP",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:10:33.474Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 124,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 134,
+      "name": "Polish Zloty",
+      "code": "PLN",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:10:36.731Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 125,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 135,
+      "name": "Romanian Leu",
+      "code": "RON",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:10:39.741Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 126,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 105,
+      "name": "Russian Ruble",
+      "code": "RUB",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:10:42.859Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 127,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 27,
+      "name": "Rwandan Franc",
+      "code": "RWF",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:10:47.794Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 128,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 146,
+      "name": "Samoan Tala",
+      "code": "WST",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:10:51.515Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 129,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 28,
+      "name": "Sao Tomean Dobra",
+      "code": "STN",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:10:55.186Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 130,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 136,
+      "name": "Serbian Dinar",
+      "code": "RSD",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:11:00.797Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 131,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 31,
+      "name": "Seychellois Rupee",
+      "code": "SCR",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:11:04.836Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 132,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 29,
+      "name": "Sierra Leonean Leone",
+      "code": "SLL",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:11:08.314Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 133,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 147,
+      "name": "Solomon Islander Dollar",
+      "code": "SBD",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:11:10.907Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 134,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 30,
+      "name": "Somali Shilling",
+      "code": "SOS",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:11:13.877Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 135,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 108,
+      "name": "South Korean Won",
+      "code": "KRW",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:11:20.228Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 136,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 33,
+      "name": "South Sudanese Pound",
+      "code": "SSP",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:11:24.678Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 137,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 109,
+      "name": "Sri Lankan Rupee",
+      "code": "LKR",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:11:28.898Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 138,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 66,
+      "name": "Surinamese Dollar",
+      "code": "SRD",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:11:34.877Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 139,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 35,
+      "name": "Swazi Lilangeni",
+      "code": "SZL",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:11:40.060Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 140,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 137,
+      "name": "Swedish Krona",
+      "code": "SEK",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:11:45.426Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 141,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 110,
+      "name": "Syrian Pound",
+      "code": "SYP",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:11:49.626Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 142,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 111,
+      "name": "Taiwan New Dollar",
+      "code": "TWD",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:11:53.539Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 143,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 112,
+      "name": "Tajikistani Somoni",
+      "code": "TJS",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:11:57.369Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 144,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 36,
+      "name": "Tanzanian Shilling",
+      "code": "TZS",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:12:02.100Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 145,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 148,
+      "name": "Tongan Pa'anga",
+      "code": "TOP",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:12:09.197Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 146,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 37,
+      "name": "Tunisian Dinar",
+      "code": "TND",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:12:12.625Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 147,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 67,
+      "name": "US Dollar",
+      "code": "USD",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:12:16.443Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 148,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 139,
+      "name": "Ukrainian Hryvnia",
+      "code": "UAH",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:12:20.779Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 149,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 68,
+      "name": "Uruguayan Peso",
+      "code": "UYU",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:12:25.604Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 150,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 69,
+      "name": "Venezuelan Bolovar",
+      "code": "VEF",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:12:32.538Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 151,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 117,
+      "name": "Vietnamese Dong",
+      "code": "VND",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:12:37.667Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 152,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 118,
+      "name": "Yemeni Rial",
+      "code": "YER",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:12:40.771Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "id": 153,
+    "order": 100,
+    "year": 2030,
+    "createdAt": "2023-02-24T20:01:45.423Z",
+    "updatedAt": "2023-02-24T20:01:45.423Z",
+    "currency": {
+      "id": 40,
+      "name": "Zambian Kwacha",
+      "code": "ZMW",
+      "mostRecentEdition": 100,
+      "createdAt": "2023-02-22T06:03:09.054Z",
+      "updatedAt": "2023-02-24T20:12:45.403Z"
+    },
+    "pieces": {
+      "count": 0
+    },
+    "createdBy": null,
+    "updatedBy": null
+  }
+]

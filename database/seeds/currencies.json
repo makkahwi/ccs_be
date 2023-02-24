@@ -31,7 +31,7 @@
     "id": 2,
     "name": "Angolan Kwanza",
     "code": "AOA",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:03:51.812Z",
     "country": {
@@ -59,7 +59,7 @@
     "id": 3,
     "name": "Botswana Pula",
     "code": "BWP",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:04:02.928Z",
     "country": {
@@ -87,7 +87,7 @@
     "id": 4,
     "name": "Burundian Franc",
     "code": "BIF",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:04:12.634Z",
     "country": {
@@ -115,7 +115,7 @@
     "id": 5,
     "name": "Cape Verdean Escudo",
     "code": "CVE",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:04:20.745Z",
     "country": {
@@ -143,7 +143,7 @@
     "id": 6,
     "name": "Central African CFA Franc BEAC",
     "code": "XAF",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:04:27.387Z",
     "country": {
@@ -171,7 +171,7 @@
     "id": 7,
     "name": "Comorian Franc",
     "code": "KMF",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:04:35.072Z",
     "country": {
@@ -199,7 +199,7 @@
     "id": 8,
     "name": "Congolese Franc",
     "code": "CDF",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:04:43.258Z",
     "country": {
@@ -227,7 +227,7 @@
     "id": 9,
     "name": "Djiboutian Franc",
     "code": "DJF",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:04:49.503Z",
     "country": {
@@ -255,7 +255,7 @@
     "id": 10,
     "name": "Egyptian Pound",
     "code": "EGP",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:04:53.870Z",
     "country": {
@@ -283,7 +283,7 @@
     "id": 11,
     "name": "Eritrean Nakfa",
     "code": "ERN",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:05:07.498Z",
     "country": {
@@ -311,7 +311,7 @@
     "id": 12,
     "name": "Ethiopian Birr",
     "code": "ETB",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:05:11.841Z",
     "country": {
@@ -339,7 +339,7 @@
     "id": 13,
     "name": "Gambian Dalasi",
     "code": "GMD",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:05:17.949Z",
     "country": {
@@ -395,7 +395,7 @@
     "id": 15,
     "name": "Guinean Franc",
     "code": "GNF",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:05:32.306Z",
     "country": {
@@ -423,7 +423,7 @@
     "id": 16,
     "name": "Kenyan Shilling",
     "code": "KES",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:05:38.879Z",
     "country": {
@@ -451,7 +451,7 @@
     "id": 17,
     "name": "Liberian Dollar",
     "code": "LRD",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:05:45.251Z",
     "country": {
@@ -479,7 +479,7 @@
     "id": 18,
     "name": "Libyan Dinar",
     "code": "LYD",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:05:52.890Z",
     "country": {
@@ -507,7 +507,7 @@
     "id": 19,
     "name": "Malagasy Ariary",
     "code": "MGA",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:06:31.375Z",
     "country": {
@@ -535,7 +535,7 @@
     "id": 20,
     "name": "Malawian Kwacha",
     "code": "MWK",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:06:16.765Z",
     "country": {
@@ -563,7 +563,7 @@
     "id": 21,
     "name": "Mauritanian Ouguiya",
     "code": "MRU",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:06:39.469Z",
     "country": {
@@ -591,7 +591,7 @@
     "id": 22,
     "name": "Mauritian Rupee",
     "code": "MUR",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:06:48.370Z",
     "country": {
@@ -675,7 +675,7 @@
     "id": 25,
     "name": "Namibian Dollar",
     "code": "NAD",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:07:15.128Z",
     "country": {
@@ -703,7 +703,7 @@
     "id": 26,
     "name": "Nigerian Naira",
     "code": "NGN",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:07:22.618Z",
     "country": {
@@ -731,7 +731,7 @@
     "id": 27,
     "name": "Rwandan Franc",
     "code": "RWF",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:07:28.472Z",
     "country": {
@@ -759,7 +759,7 @@
     "id": 28,
     "name": "Sao Tomean Dobra",
     "code": "STN",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:07:33.877Z",
     "country": {
@@ -787,7 +787,7 @@
     "id": 29,
     "name": "Sierra Leonean Leone",
     "code": "SLL",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:07:40.335Z",
     "country": {
@@ -815,7 +815,7 @@
     "id": 30,
     "name": "Somali Shilling",
     "code": "SOS",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:07:48.197Z",
     "country": {
@@ -843,7 +843,7 @@
     "id": 31,
     "name": "Seychellois Rupee",
     "code": "SCR",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:09:17.496Z",
     "country": {
@@ -899,7 +899,7 @@
     "id": 33,
     "name": "South Sudanese Pound",
     "code": "SSP",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:09:31.801Z",
     "country": {
@@ -955,7 +955,7 @@
     "id": 35,
     "name": "Swazi Lilangeni",
     "code": "SZL",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:09:43.229Z",
     "country": {
@@ -983,7 +983,7 @@
     "id": 36,
     "name": "Tanzanian Shilling",
     "code": "TZS",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:09:57.749Z",
     "country": {
@@ -1011,7 +1011,7 @@
     "id": 37,
     "name": "Tunisian Dinar",
     "code": "TND",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:10:05.204Z",
     "country": {
@@ -1067,7 +1067,7 @@
     "id": 39,
     "name": "CFA Franc",
     "code": "XOF",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:10:30.681Z",
     "country": {
@@ -1095,7 +1095,7 @@
     "id": 40,
     "name": "Zambian Kwacha",
     "code": "ZMW",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:10:37.583Z",
     "country": {
@@ -1151,7 +1151,7 @@
     "id": 42,
     "name": "Aruban or Dutch Guilder",
     "code": "AWG",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:10:51.736Z",
     "country": {
@@ -1179,7 +1179,7 @@
     "id": 43,
     "name": "Bahamian Dollar",
     "code": "BSD",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:10:58.620Z",
     "country": {
@@ -1207,7 +1207,7 @@
     "id": 44,
     "name": "Barbadian or Bajan Dollar",
     "code": "BBD",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:11:03.540Z",
     "country": {
@@ -1235,7 +1235,7 @@
     "id": 45,
     "name": "Belizean Dollar",
     "code": "BZD",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:11:20.763Z",
     "country": {
@@ -1263,7 +1263,7 @@
     "id": 46,
     "name": "Bermudian Dollar",
     "code": "BMD",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:11:28.727Z",
     "country": {
@@ -1291,7 +1291,7 @@
     "id": 47,
     "name": "Bolivian Boloviano",
     "code": "BOB",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:11:49.038Z",
     "country": {
@@ -1347,7 +1347,7 @@
     "id": 49,
     "name": "Canadian Dollar",
     "code": "CAD",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:12:01.693Z",
     "country": {
@@ -1375,7 +1375,7 @@
     "id": 50,
     "name": "Caymanian Dollar",
     "code": "KYD",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:12:06.950Z",
     "country": {
@@ -1403,7 +1403,7 @@
     "id": 51,
     "name": "Chilean Peso",
     "code": "CLP",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:12:29.872Z",
     "country": {
@@ -1431,7 +1431,7 @@
     "id": 52,
     "name": "Colombian Peso",
     "code": "COP",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:12:36.864Z",
     "country": {
@@ -1459,7 +1459,7 @@
     "id": 53,
     "name": "Costa Rican Colon",
     "code": "CRC",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:12:42.661Z",
     "country": {
@@ -1487,7 +1487,7 @@
     "id": 54,
     "name": "Cuban Peso",
     "code": "CUP",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:12:49.568Z",
     "country": {
@@ -1515,7 +1515,7 @@
     "id": 55,
     "name": "Dominican Peso",
     "code": "DOP",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:12:55.384Z",
     "country": {
@@ -1543,7 +1543,7 @@
     "id": 56,
     "name": "Guatemalan Quetzal",
     "code": "GTQ",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:13:01.784Z",
     "country": {
@@ -1571,7 +1571,7 @@
     "id": 57,
     "name": "Guyanese Dollar",
     "code": "GYD",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:13:06.972Z",
     "country": {
@@ -1599,7 +1599,7 @@
     "id": 58,
     "name": "Haitian Gourde",
     "code": "HTG",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:13:12.895Z",
     "country": {
@@ -1627,7 +1627,7 @@
     "id": 59,
     "name": "Honduran Lempira",
     "code": "HNL",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:13:19.640Z",
     "country": {
@@ -1655,7 +1655,7 @@
     "id": 60,
     "name": "Jamaican Dollar",
     "code": "JMD",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:13:26.199Z",
     "country": {
@@ -1711,7 +1711,7 @@
     "id": 62,
     "name": "Nicaraguan Cordoba",
     "code": "NIO",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:13:38.784Z",
     "country": {
@@ -1739,7 +1739,7 @@
     "id": 63,
     "name": "Panamanian Balboa",
     "code": "PAB",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:13:43.198Z",
     "country": {
@@ -1767,7 +1767,7 @@
     "id": 64,
     "name": "Paraguayan Guarani",
     "code": "PYG",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:13:47.904Z",
     "country": {
@@ -1795,7 +1795,7 @@
     "id": 65,
     "name": "Peruvian Sol",
     "code": "PEN",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:13:52.608Z",
     "country": {
@@ -1823,7 +1823,7 @@
     "id": 66,
     "name": "Surinamese Dollar",
     "code": "SRD",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:13:57.143Z",
     "country": {
@@ -1851,7 +1851,7 @@
     "id": 67,
     "name": "US Dollar",
     "code": "USD",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:14:04.216Z",
     "country": {
@@ -1879,7 +1879,7 @@
     "id": 68,
     "name": "Uruguayan Peso",
     "code": "UYU",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:14:18.065Z",
     "country": {
@@ -1907,7 +1907,7 @@
     "id": 69,
     "name": "Venezuelan Bolovar",
     "code": "VEF",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:14:25.664Z",
     "country": {
@@ -1935,7 +1935,7 @@
     "id": 70,
     "name": "Afghan Afghani",
     "code": "AFN",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:14:32.984Z",
     "country": {
@@ -2131,7 +2131,7 @@
     "id": 77,
     "name": "Cambodian Riel",
     "code": "KHR",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:15:12.016Z",
     "country": {
@@ -2159,7 +2159,7 @@
     "id": 78,
     "name": "Chinese Yuan Renminbi",
     "code": "CNY",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:15:17.817Z",
     "country": {
@@ -2215,7 +2215,7 @@
     "id": 80,
     "name": "Georgian Lari",
     "code": "GEL",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:15:32.513Z",
     "country": {
@@ -2243,7 +2243,7 @@
     "id": 81,
     "name": "Hong Kong Dollar",
     "code": "HKD",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:15:41.352Z",
     "country": {
@@ -2271,7 +2271,7 @@
     "id": 82,
     "name": "Indian Rupee",
     "code": "INR",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:15:47.162Z",
     "country": {
@@ -2411,7 +2411,7 @@
     "id": 87,
     "name": "Japanese Yen",
     "code": "JPY",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:16:09.851Z",
     "country": {
@@ -2439,7 +2439,7 @@
     "id": 88,
     "name": "Jordanian Dinar",
     "code": "JOD",
-    "mostRecentEdition": 4,
+    "mostRecentEdition": 5,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:16:14.520Z",
     "country": {
@@ -2551,7 +2551,7 @@
     "id": 92,
     "name": "Lao Kip",
     "code": "LAK",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:16:37.425Z",
     "country": {
@@ -2579,7 +2579,7 @@
     "id": 93,
     "name": "Lebanese Pound",
     "code": "LBP",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:16:44.520Z",
     "country": {
@@ -2691,7 +2691,7 @@
     "id": 97,
     "name": "Mongolian Tughrik",
     "code": "MNT",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:17:17.144Z",
     "country": {
@@ -2719,7 +2719,7 @@
     "id": 98,
     "name": "Burmese Kyat",
     "code": "MMK",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:17:24.585Z",
     "country": {
@@ -2747,7 +2747,7 @@
     "id": 99,
     "name": "Nepalese Rupee",
     "code": "NPR",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:17:30.273Z",
     "country": {
@@ -2775,7 +2775,7 @@
     "id": 100,
     "name": "North Korean Won",
     "code": "KPW",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:17:35.690Z",
     "country": {
@@ -2831,7 +2831,7 @@
     "id": 102,
     "name": "Pakistani Rupee",
     "code": "PKR",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:17:47.048Z",
     "country": {
@@ -2859,7 +2859,7 @@
     "id": 103,
     "name": "Philippine Peso",
     "code": "PHP",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:17:52.353Z",
     "country": {
@@ -2915,7 +2915,7 @@
     "id": 105,
     "name": "Russian Ruble",
     "code": "RUB",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:18:05.432Z",
     "country": {
@@ -2999,7 +2999,7 @@
     "id": 108,
     "name": "South Korean Won",
     "code": "KRW",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:18:21.296Z",
     "country": {
@@ -3027,7 +3027,7 @@
     "id": 109,
     "name": "Sri Lankan Rupee",
     "code": "LKR",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:18:26.127Z",
     "country": {
@@ -3055,7 +3055,7 @@
     "id": 110,
     "name": "Syrian Pound",
     "code": "SYP",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:18:31.378Z",
     "country": {
@@ -3083,7 +3083,7 @@
     "id": 111,
     "name": "Taiwan New Dollar",
     "code": "TWD",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:18:37.191Z",
     "country": {
@@ -3111,7 +3111,7 @@
     "id": 112,
     "name": "Tajikistani Somoni",
     "code": "TJS",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:18:50.361Z",
     "country": {
@@ -3251,7 +3251,7 @@
     "id": 117,
     "name": "Vietnamese Dong",
     "code": "VND",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:19:26.145Z",
     "country": {
@@ -3279,7 +3279,7 @@
     "id": 118,
     "name": "Yemeni Rial",
     "code": "YER",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:19:31.416Z",
     "country": {
@@ -3391,7 +3391,7 @@
     "id": 122,
     "name": "Bulgarian Lev",
     "code": "BGN",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:19:53.209Z",
     "country": {
@@ -3419,7 +3419,7 @@
     "id": 123,
     "name": "Croatian Kuna",
     "code": "HRK",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:19:57.760Z",
     "country": {
@@ -3447,7 +3447,7 @@
     "id": 124,
     "name": "Czech Koruna",
     "code": "CZK",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:20:02.800Z",
     "country": {
@@ -3475,7 +3475,7 @@
     "id": 125,
     "name": "Danish Krone",
     "code": "DKK",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:20:08.633Z",
     "country": {
@@ -3531,7 +3531,7 @@
     "id": 127,
     "name": "Falkland Island Pound",
     "code": "FKP",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:20:17.928Z",
     "country": {
@@ -3559,7 +3559,7 @@
     "id": 128,
     "name": "Gibraltar Pound",
     "code": "GIP",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:20:23.145Z",
     "country": {
@@ -3587,7 +3587,7 @@
     "id": 129,
     "name": "Hungarian Forint",
     "code": "HUF",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:20:30.952Z",
     "country": {
@@ -3615,7 +3615,7 @@
     "id": 130,
     "name": "Icelandic Krona",
     "code": "ISK",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:20:35.343Z",
     "country": {
@@ -3643,7 +3643,7 @@
     "id": 131,
     "name": "Macedonian Denar",
     "code": "MKD",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:20:43.800Z",
     "country": {
@@ -3671,7 +3671,7 @@
     "id": 132,
     "name": "Moldovan Leu",
     "code": "MDL",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:20:48.592Z",
     "country": {
@@ -3699,7 +3699,7 @@
     "id": 133,
     "name": "Norwegian Krone",
     "code": "NOK",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:20:54.976Z",
     "country": {
@@ -3727,7 +3727,7 @@
     "id": 134,
     "name": "Polish Zloty",
     "code": "PLN",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:21:02.284Z",
     "country": {
@@ -3755,7 +3755,7 @@
     "id": 135,
     "name": "Romanian Leu",
     "code": "RON",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:21:08.000Z",
     "country": {
@@ -3783,7 +3783,7 @@
     "id": 136,
     "name": "Serbian Dinar",
     "code": "RSD",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:21:12.473Z",
     "country": {
@@ -3811,7 +3811,7 @@
     "id": 137,
     "name": "Swedish Krona",
     "code": "SEK",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:21:19.578Z",
     "country": {
@@ -3867,7 +3867,7 @@
     "id": 139,
     "name": "Ukrainian Hryvnia",
     "code": "UAH",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:21:33.216Z",
     "country": {
@@ -3895,7 +3895,7 @@
     "id": 140,
     "name": "British Pound",
     "code": "GBP",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:21:39.426Z",
     "country": {
@@ -3951,7 +3951,7 @@
     "id": 142,
     "name": "CFP Franc",
     "code": "XPF",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:22:02.152Z",
     "country": {
@@ -3979,7 +3979,7 @@
     "id": 143,
     "name": "Fijian Dollar",
     "code": "FJD",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:22:07.152Z",
     "country": {
@@ -4035,7 +4035,7 @@
     "id": 145,
     "name": "Papua New Guinean Kina",
     "code": "PGK",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:22:16.681Z",
     "country": {
@@ -4063,7 +4063,7 @@
     "id": 146,
     "name": "Samoan Tala",
     "code": "WST",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:22:23.586Z",
     "country": {
@@ -4091,7 +4091,7 @@
     "id": 147,
     "name": "Solomon Islander Dollar",
     "code": "SBD",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:22:27.984Z",
     "country": {
@@ -4119,7 +4119,7 @@
     "id": 148,
     "name": "Tongan Pa'anga",
     "code": "TOP",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:22:33.449Z",
     "country": {
@@ -4147,7 +4147,7 @@
     "id": 149,
     "name": "Ni-Vanuatu Vatu",
     "code": "VUV",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:22:38.859Z",
     "country": {
@@ -4175,7 +4175,7 @@
     "id": 150,
     "name": "Hong Kong Dollar (BoC)",
     "code": "HKD",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:28:31.485Z",
     "updatedAt": "2023-02-22T06:28:31.485Z",
     "country": {
@@ -4208,7 +4208,7 @@
     "id": 151,
     "name": "Hong Kong Dollar (HSBC)",
     "code": "HKD",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:28:55.419Z",
     "updatedAt": "2023-02-22T06:28:55.419Z",
     "country": {
@@ -4241,7 +4241,7 @@
     "id": 152,
     "name": "Hong Kong Dollar (SCB)",
     "code": "HKD",
-    "mostRecentEdition": 111,
+    "mostRecentEdition": 100,
     "createdAt": "2023-02-22T06:29:11.332Z",
     "updatedAt": "2023-02-22T06:29:11.332Z",
     "country": {
