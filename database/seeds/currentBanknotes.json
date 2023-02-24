@@ -12,7 +12,7 @@
     "collected3": 2000,
     "toCollect1": 100,
     "toCollect2": 200,
-    "date": "01 Jul 2018"
+    "date": "01/07/2018"
   },
   {
     "continent": "Africa",
@@ -32,7 +32,7 @@
     "toCollect6": 1000,
     "toCollect7": 2000,
     "toCollect8": 5000,
-    "date": "01 Feb 2020"
+    "date": "01/02/2020"
   },
   {
     "continent": "Africa",
@@ -109,7 +109,7 @@
     "toCollect2": 2000,
     "toCollect3": 5000,
     "toCollect4": 10000,
-    "date": "01 Feb 2020"
+    "date": "01/02/2020"
   },
   {
     "continent": "Africa",
@@ -162,7 +162,7 @@
     "collected7": 50,
     "collected8": 100,
     "collected9": 200,
-    "date": "01 May 2018"
+    "date": "01/05/2018"
   },
   {
     "continent": "Africa",
@@ -192,7 +192,7 @@
     "collected3": 50,
     "toCollect1": 1,
     "toCollect2": 100,
-    "date": "01 Jan 2020"
+    "date": "01/01/2020"
   },
   {
     "continent": "Africa",
@@ -224,7 +224,7 @@
     "toCollect1": 1,
     "toCollect2": 2,
     "toCollect3": 50,
-    "date": "01 Jul 2018"
+    "date": "01/07/2018"
   },
   {
     "continent": "Africa",
@@ -285,7 +285,7 @@
     "collected3": 10,
     "collected4": 20,
     "toCollect1": 50,
-    "date": "01 Jul 2018"
+    "date": "01/07/2018"
   },
   {
     "continent": "Africa",
@@ -319,7 +319,7 @@
     "toCollect4": 500,
     "toCollect5": 1000,
     "toCollect6": 2000,
-    "date": "01 Feb 2020"
+    "date": "01/02/2020"
   },
   {
     "continent": "Africa",
@@ -365,7 +365,7 @@
     "collected2": 50,
     "collected3": 100,
     "collected4": 200,
-    "date": "01 Feb 2018"
+    "date": "01/02/2018"
   },
   {
     "continent": "Africa",
@@ -412,7 +412,7 @@
     "toCollect1": 5,
     "toCollect2": 10,
     "toCollect3": 100,
-    "date": "01 Jul 2019"
+    "date": "01/07/2019"
   },
   {
     "continent": "Africa",
@@ -497,7 +497,7 @@
     "toCollect2": 50,
     "toCollect3": 100,
     "toCollect4": 200,
-    "date": "01 Feb 2018"
+    "date": "01/02/2018"
   },
   {
     "continent": "Africa",
@@ -514,7 +514,7 @@
     "toCollect4": 20,
     "toCollect5": 100,
     "toCollect6": 500,
-    "date": "01 Feb 2020"
+    "date": "01/02/2020"
   },
   {
     "continent": "Africa",
@@ -533,7 +533,7 @@
     "toCollect2": 200,
     "toCollect3": 500,
     "toCollect4": 1000,
-    "date": "01 Jul 2018"
+    "date": "01/07/2018"
   },
   {
     "continent": "Africa",
@@ -575,7 +575,7 @@
     "toCollect1": 5,
     "toCollect2": 10,
     "toCollect3": 50,
-    "date": "01 Dec 2017"
+    "date": "01/12/2017"
   },
   {
     "continent": "Africa",
@@ -637,7 +637,7 @@
     "toCollect3": 20,
     "toCollect4": 200,
     "toCollect5": 500,
-    "date": "01 Aug 2019"
+    "date": "01/08/2019"
   },
   {
     "continent": "Americas",
@@ -744,7 +744,7 @@
     "toCollect3": 10,
     "toCollect4": 20,
     "toCollect5": 50,
-    "date": "01 Aug 2019"
+    "date": "01/08/2019"
   },
   {
     "continent": "Americas",
@@ -760,7 +760,7 @@
     "collected4": 20,
     "toCollect14": 50,
     "toCollect15": 100,
-    "date": "01 May 2018"
+    "date": "01/05/2018"
   },
   {
     "continent": "Americas",
@@ -790,7 +790,7 @@
     "toCollect1": 2000,
     "toCollect2": 5000,
     "toCollect3": 20000,
-    "date": "01 Aug 2019"
+    "date": "01/08/2019"
   },
   {
     "continent": "Americas",
@@ -806,7 +806,7 @@
     "toCollect2": 5000,
     "toCollect3": 20000,
     "toCollect4": 100000,
-    "date": "01 Aug 2019"
+    "date": "01/08/2019"
   },
   {
     "continent": "Americas",
@@ -873,7 +873,7 @@
     "toCollect2": 50,
     "toCollect3": 100,
     "toCollect4": 200,
-    "date": "01 Aug 2019"
+    "date": "01/08/2019"
   },
   {
     "continent": "Americas",
@@ -954,7 +954,7 @@
     "collected4": 500,
     "toCollect1": 50,
     "toCollect14": 1000,
-    "date": "01 Jul 2018"
+    "date": "01/07/2018"
   },
   {
     "continent": "Americas",
@@ -1009,7 +1009,7 @@
     "collected3": 50,
     "collected4": 100,
     "toCollect14": 200,
-    "date": "01 Aug 2019"
+    "date": "01/08/2019"
   },
   {
     "continent": "Americas",
@@ -1088,7 +1088,7 @@
     "toCollect3": 5,
     "toCollect4": 10,
     "toCollect5": 20,
-    "date": "01 Jul 2019"
+    "date": "01/07/2019"
   },
   {
     "continent": "Asia",
@@ -1138,7 +1138,7 @@
     "collected3": 5,
     "collected4": 10,
     "toCollect14": 20,
-    "date": "01 May 2018"
+    "date": "01/05/2018"
   },
   {
     "continent": "Asia",
@@ -1156,7 +1156,7 @@
     "collected6": 500,
     "collected7": 1000,
     "toCollect1": 2,
-    "date": "01 Nov 2017"
+    "date": "01/11/2017"
   },
   {
     "continent": "Asia",
@@ -1187,7 +1187,7 @@
     "collected2": 5,
     "collected3": 10,
     "toCollect14": 50,
-    "date": "01 May 2018"
+    "date": "01/05/2018"
   },
   {
     "continent": "Asia",
@@ -1207,7 +1207,7 @@
     "collected8": 50000,
     "toCollect1": 50,
     "toCollect2": 100000,
-    "date": "01 Apr 2018"
+    "date": "01/04/2018"
   },
   {
     "continent": "Asia",
@@ -1223,7 +1223,7 @@
     "collected4": 20,
     "collected5": 50,
     "collected6": 100,
-    "date": "01 Sep 2017"
+    "date": "01/09/2017"
   },
   {
     "continent": "Asia",
@@ -1241,7 +1241,7 @@
     "toCollect14": 200,
     "toCollect15": 500,
     "toCollect16": 1000,
-    "date": "01 Jul 2002"
+    "date": "01/07/2002"
   },
   {
     "continent": "Asia",
@@ -1269,7 +1269,7 @@
     "mostRecentEdition": 100,
     "year": 2030,
     "collected1": 10,
-    "date": "01 Jul 2018"
+    "date": "01/07/2018"
   },
   {
     "continent": "Asia",
@@ -1284,7 +1284,7 @@
     "toCollect1": 50,
     "toCollect14": 500,
     "toCollect15": 1000,
-    "date": "01 Feb 2018"
+    "date": "01/02/2018"
   },
   {
     "continent": "Asia",
@@ -1299,7 +1299,7 @@
     "collected3": 100,
     "toCollect14": 500,
     "toCollect15": 1000,
-    "date": "01 Feb 2018"
+    "date": "01/02/2018"
   },
   {
     "continent": "Asia",
@@ -1330,7 +1330,7 @@
     "collected5": 200,
     "collected6": 500,
     "toCollect1": 2000,
-    "date": "01 Feb 2018"
+    "date": "01/02/2018"
   },
   {
     "continent": "Asia",
@@ -1347,7 +1347,7 @@
     "collected5": 20000,
     "collected6": 50000,
     "collected7": 100000,
-    "date": "01 Dec 2017"
+    "date": "01/12/2017"
   },
   {
     "continent": "Asia",
@@ -1366,7 +1366,7 @@
     "toCollect1": 1000,
     "toCollect2": 500000,
     "toCollect3": 1000000,
-    "date": "01 Jul 2018"
+    "date": "01/07/2018"
   },
   {
     "continent": "Asia",
@@ -1383,7 +1383,7 @@
     "toCollect1": 250,
     "toCollect2": 500,
     "toCollect14": 50000,
-    "date": "01 Jul 2018"
+    "date": "01/07/2018"
   },
   {
     "continent": "Asia",
@@ -1397,7 +1397,7 @@
     "collected2": 50,
     "toCollect14": 100,
     "toCollect15": 200,
-    "date": "01 Apr 2018"
+    "date": "01/04/2018"
   },
   {
     "continent": "Asia",
@@ -1411,7 +1411,7 @@
     "toCollect1": 2000,
     "toCollect14": 5000,
     "toCollect15": 10000,
-    "date": "01 Feb 2018"
+    "date": "01/02/2018"
   },
   {
     "continent": "Asia",
@@ -1426,7 +1426,7 @@
     "collected3": 10,
     "collected4": 20,
     "collected5": 50,
-    "date": "01 Sep 2017"
+    "date": "01/09/2017"
   },
   {
     "continent": "Asia",
@@ -1442,7 +1442,7 @@
     "toCollect3": 5000,
     "toCollect4": 10000,
     "toCollect14": 20000,
-    "date": "01 Feb 2020"
+    "date": "01/02/2020"
   },
   {
     "continent": "Asia",
@@ -1458,7 +1458,7 @@
     "collected4": 5,
     "collected5": 10,
     "toCollect14": 20,
-    "date": "01 Jun 2018"
+    "date": "01/06/2018"
   },
   {
     "continent": "Asia",
@@ -1493,7 +1493,7 @@
     "toCollect2": 5000,
     "toCollect3": 10000,
     "toCollect4": 100000,
-    "date": "01 Aug 2019"
+    "date": "01/08/2019"
   },
   {
     "continent": "Asia",
@@ -1509,7 +1509,7 @@
     "collected4": 20000,
     "toCollect14": 50000,
     "toCollect15": 100000,
-    "date": "01 Jul 2018"
+    "date": "01/07/2018"
   },
   {
     "continent": "Asia",
@@ -1525,7 +1525,7 @@
     "toCollect2": 50,
     "toCollect14": 500,
     "toCollect15": 1000,
-    "date": "01 May 2018"
+    "date": "01/05/2018"
   },
   {
     "continent": "Asia",
@@ -1541,7 +1541,7 @@
     "toCollect1": 10,
     "toCollect14": 500,
     "toCollect15": 1000,
-    "date": "01 May 2018"
+    "date": "01/05/2018"
   },
   {
     "continent": "Asia",
@@ -1557,7 +1557,7 @@
     "collected4": 20,
     "collected5": 50,
     "collected6": 100,
-    "date": "01 Nov 2012"
+    "date": "01/11/2012"
   },
   {
     "continent": "Asia",
@@ -1574,7 +1574,7 @@
     "collected5": 100,
     "toCollect14": 500,
     "toCollect15": 1000,
-    "date": "01 May 2019"
+    "date": "01/05/2019"
   },
   {
     "continent": "Asia",
@@ -1616,7 +1616,7 @@
     "toCollect4": 10,
     "toCollect5": 20,
     "toCollect6": 50,
-    "date": "01 Aug 2019"
+    "date": "01/08/2019"
   },
   {
     "continent": "Asia",
@@ -1633,7 +1633,7 @@
     "collected5": 1000,
     "toCollect1": 5,
     "toCollect2": 10,
-    "date": "01 May 2018"
+    "date": "01/05/2018"
   },
   {
     "continent": "Asia",
@@ -1682,7 +1682,7 @@
     "collected5": 500,
     "collected6": 1000,
     "toCollect14": 5000,
-    "date": "01 Mar 2018"
+    "date": "01/03/2018"
   },
   {
     "continent": "Asia",
@@ -1698,7 +1698,7 @@
     "collected4": 200,
     "collected5": 500,
     "collected6": 1000,
-    "date": "01 Feb 2018"
+    "date": "01/02/2018"
   },
   {
     "continent": "Asia",
@@ -1748,7 +1748,7 @@
     "toCollect1": 20,
     "toCollect14": 200,
     "toCollect15": 500,
-    "date": "01 Jan 2018"
+    "date": "01/01/2018"
   },
   {
     "continent": "Asia",
@@ -1763,7 +1763,7 @@
     "collected3": 10,
     "toCollect14": 50,
     "toCollect15": 100,
-    "date": "01 Feb 2018"
+    "date": "01/02/2018"
   },
   {
     "continent": "Asia",
@@ -1777,7 +1777,7 @@
     "collected2": 5000,
     "collected3": 10000,
     "toCollect14": 50000,
-    "date": "01 Dec 2017"
+    "date": "01/12/2017"
   },
   {
     "continent": "Asia",
@@ -1793,7 +1793,7 @@
     "collected4": 500,
     "collected5": 1000,
     "toCollect1": 5000,
-    "date": "01 May 2018"
+    "date": "01/05/2018"
   },
   {
     "continent": "Asia",
@@ -1824,7 +1824,7 @@
     "collected3": 500,
     "toCollect14": 1000,
     "toCollect15": 2000,
-    "date": "01 Dec 2017"
+    "date": "01/12/2017"
   },
   {
     "continent": "Asia",
@@ -1857,7 +1857,7 @@
     "toCollect1": 20,
     "toCollect2": 500,
     "toCollect14": 1000,
-    "date": "01 Dec 2018"
+    "date": "01/12/2018"
   },
   {
     "continent": "Asia",
@@ -1873,7 +1873,7 @@
     "collected4": 50,
     "collected5": 100,
     "collected6": 200,
-    "date": "01 Jun 2011"
+    "date": "01/06/2011"
   },
   {
     "continent": "Asia",
@@ -1904,7 +1904,7 @@
     "toCollect3": 5000,
     "toCollect4": 10000,
     "toCollect5": 50000,
-    "date": "01 Feb 2020"
+    "date": "01/02/2020"
   },
   {
     "continent": "Asia",
@@ -1920,7 +1920,7 @@
     "collected4": 100000,
     "collected5": 200000,
     "collected6": 500000,
-    "date": "01 Sep 2016"
+    "date": "01/09/2016"
   },
   {
     "continent": "Asia",
@@ -1935,7 +1935,7 @@
     "collected3": 1000,
     "toCollect1": 100,
     "toCollect2": 200,
-    "date": "01 Jul 2018"
+    "date": "01/07/2018"
   },
   {
     "continent": "Europe",
@@ -2028,7 +2028,7 @@
     "toCollect14": 1000,
     "toCollect15": 2000,
     "toCollect16": 5000,
-    "date": "01 Nov 2019"
+    "date": "01/11/2019"
   },
   {
     "continent": "Europe",
@@ -2043,7 +2043,7 @@
     "toCollect14": 200,
     "toCollect15": 500,
     "toCollect16": 1000,
-    "date": "01 May 2018"
+    "date": "01/05/2018"
   },
   {
     "continent": "Europe",
@@ -2060,7 +2060,7 @@
     "toCollect15": 100,
     "toCollect16": 200,
     "toCollect17": 500,
-    "date": "01 Feb 2018"
+    "date": "01/02/2018"
   },
   {
     "continent": "Europe",
@@ -2103,7 +2103,7 @@
     "toCollect2": 5000,
     "toCollect14": 10000,
     "toCollect15": 20000,
-    "date": "01 Jul 2018"
+    "date": "01/07/2018"
   },
   {
     "continent": "Europe",
@@ -2134,7 +2134,7 @@
     "toCollect2": 500,
     "toCollect3": 1000,
     "toCollect14": 2000,
-    "date": "01 Nov 2019"
+    "date": "01/11/2019"
   },
   {
     "continent": "Europe",
@@ -2167,7 +2167,7 @@
     "collected3": 200,
     "toCollect14": 500,
     "toCollect15": 1000,
-    "date": "01 May 2018"
+    "date": "01/05/2018"
   },
   {
     "continent": "Europe",
@@ -2232,7 +2232,7 @@
     "toCollect1": 50,
     "toCollect14": 500,
     "toCollect15": 1000,
-    "date": "01 Aug 2019"
+    "date": "01/08/2019"
   },
   {
     "continent": "Europe",
@@ -2247,7 +2247,7 @@
     "toCollect14": 50,
     "toCollect15": 100,
     "toCollect16": 200,
-    "date": "01 May 2018"
+    "date": "01/05/2018"
   },
   {
     "continent": "Europe",
@@ -2267,7 +2267,7 @@
     "toCollect3": 100,
     "toCollect4": 500,
     "toCollect14": 1000,
-    "date": "01 Jul 2018"
+    "date": "01/07/2018"
   },
   {
     "continent": "Europe",
@@ -2281,7 +2281,7 @@
     "collected2": 10,
     "collected3": 20,
     "toCollect14": 50,
-    "date": "01 May 2018"
+    "date": "01/05/2018"
   },
   {
     "continent": "Oceania",
@@ -2296,16 +2296,7 @@
     "collected3": 20,
     "toCollect3": 50,
     "toCollect4": 100,
-    "toCollect6": "Flexible",
-    "toCollect7": 1.33,
-    "toCollect8": 0.75,
-    "toCollect9": 35,
-    "toCollect10": 26.41,
-    "toCollect11": 0,
-    "toCollect12": 0,
-    "toCollect13": 150,
-    "toCollect14": 113.2,
-    "toCollect15": "Feb 2018"
+    "date": "Feb 2018"
   },
   {
     "continent": "Oceania",
@@ -2318,16 +2309,7 @@
     "collected6": 500,
     "collected7": 1000,
     "toCollect3": 5000,
-    "toCollect4": 10000,
-    "toCollect6": "Flexible",
-    "toCollect7": 108.56,
-    "toCollect8": 0.01,
-    "toCollect9": 0,
-    "toCollect10": 0,
-    "toCollect11": 1500,
-    "toCollect12": 13.82,
-    "toCollect13": 15000,
-    "toCollect14": 138.18
+    "toCollect4": 10000
   },
   {
     "continent": "Oceania",
@@ -2341,16 +2323,7 @@
     "collected2": 10,
     "collected3": 20,
     "collected4": 50,
-    "toCollect3": 100,
-    "toCollect6": "Flexible",
-    "toCollect7": 2.08,
-    "toCollect8": 0.48,
-    "toCollect9": 85,
-    "toCollect10": 40.79,
-    "toCollect11": 0,
-    "toCollect12": 0,
-    "toCollect13": 100,
-    "toCollect14": 47.99
+    "toCollect3": 100
   },
   {
     "continent": "Oceania",
@@ -2365,16 +2338,7 @@
     "collected3": 20,
     "toCollect3": 50,
     "toCollect4": 100,
-    "toCollect6": "Flexible",
-    "toCollect7": 1.44,
-    "toCollect8": 0.7,
-    "toCollect9": 35,
-    "toCollect10": 24.37,
-    "toCollect11": 0,
-    "toCollect12": 0,
-    "toCollect13": 150,
-    "toCollect14": 104.43,
-    "toCollect15": "Feb 2018"
+    "date": "01/02/2018"
   },
   {
     "continent": "Oceania",
@@ -2389,16 +2353,7 @@
     "collected8": 10,
     "collected9": 20,
     "collected10": 50,
-    "toCollect1": 100,
-    "toCollect6": "Flexible",
-    "toCollect7": 3.51,
-    "toCollect8": 0.28,
-    "toCollect9": 0,
-    "toCollect10": 0,
-    "toCollect11": 187,
-    "toCollect12": 53.26,
-    "toCollect13": 0,
-    "toCollect14": 0
+    "toCollect1": 100
   },
   {
     "continent": "Oceania",
@@ -2413,16 +2368,7 @@
     "collected3": 20,
     "collected4": 50,
     "collected6": 2,
-    "toCollect3": 100,
-    "toCollect6": "Flexible",
-    "toCollect7": 2.58,
-    "toCollect8": 0.39,
-    "toCollect9": 85,
-    "toCollect10": 33.01,
-    "toCollect11": 2,
-    "toCollect12": 0.78,
-    "toCollect13": 100,
-    "toCollect14": 38.83
+    "toCollect3": 100
   },
   {
     "continent": "Oceania",
@@ -2436,16 +2382,7 @@
     "collected7": 10,
     "collected8": 20,
     "collected9": 50,
-    "collected10": 100,
-    "toCollect6": "Flexible",
-    "toCollect7": 8.08,
-    "toCollect8": 0.12,
-    "toCollect9": 0,
-    "toCollect10": 0,
-    "toCollect11": 185,
-    "toCollect12": 22.9,
-    "toCollect13": 0,
-    "toCollect14": 0
+    "collected10": 100
   },
   {
     "continent": "Oceania",
@@ -2461,16 +2398,7 @@
     "collected4": 50,
     "collected6": 1,
     "collected7": 10,
-    "toCollect3": 100,
-    "toCollect6": "Flexible",
-    "toCollect7": 2.25,
-    "toCollect8": 0.44,
-    "toCollect9": 77,
-    "toCollect10": 34.22,
-    "toCollect11": 11,
-    "toCollect12": 4.89,
-    "toCollect13": 100,
-    "toCollect14": 44.44
+    "toCollect3": 100
   },
   {
     "continent": "Oceania",
@@ -2485,15 +2413,6 @@
     "collected6": 200,
     "collected7": 500,
     "collected8": 2000,
-    "toCollect3": 10000,
-    "toCollect6": "Flexible",
-    "toCollect7": 111.3,
-    "toCollect8": 0.01,
-    "toCollect9": 6000,
-    "toCollect10": 53.91,
-    "toCollect11": 2700,
-    "toCollect12": 24.26,
-    "toCollect13": 10000,
-    "toCollect14": 89.85
+    "toCollect3": 10000
   }
 ]
