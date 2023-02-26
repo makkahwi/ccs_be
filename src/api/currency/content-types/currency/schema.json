@@ -26,6 +26,14 @@
       "required": true,
       "min": 1
     },
+    "fractionName": {
+      "type": "string",
+      "required": true
+    },
+    "fraction": {
+      "type": "integer",
+      "required": true
+    },
     "country": {
       "type": "relation",
       "relation": "manyToOne",
