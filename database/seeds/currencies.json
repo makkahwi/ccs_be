@@ -4,8 +4,6 @@
     "name": "Algerian Dinar",
     "code": "DZD",
     "mostRecentEdition": 4,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:03:45.988Z",
     "country": {
       "id": 1,
       "name": "Algeria",
@@ -14,17 +12,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -32,8 +19,6 @@
     "name": "Angolan Kwanza",
     "code": "AOA",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:03:51.812Z",
     "country": {
       "id": 2,
       "name": "Angola",
@@ -42,17 +27,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -60,8 +34,6 @@
     "name": "Botswana Pula",
     "code": "BWP",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:04:02.928Z",
     "country": {
       "id": 3,
       "name": "Botswana",
@@ -70,17 +42,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -88,8 +49,6 @@
     "name": "Burundian Franc",
     "code": "BIF",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:04:12.634Z",
     "country": {
       "id": 4,
       "name": "Burundi",
@@ -98,17 +57,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -116,8 +64,6 @@
     "name": "Cape Verdean Escudo",
     "code": "CVE",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:04:20.745Z",
     "country": {
       "id": 5,
       "name": "Cape Verde",
@@ -126,17 +72,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -144,8 +79,6 @@
     "name": "Central African CFA Franc BEAC",
     "code": "XAF",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:04:27.387Z",
     "country": {
       "id": 6,
       "name": "Central Africa",
@@ -154,17 +87,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -172,8 +94,6 @@
     "name": "Comorian Franc",
     "code": "KMF",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:04:35.072Z",
     "country": {
       "id": 7,
       "name": "Comoros",
@@ -182,17 +102,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -200,8 +109,6 @@
     "name": "Congolese Franc",
     "code": "CDF",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:04:43.258Z",
     "country": {
       "id": 8,
       "name": "Congo",
@@ -210,17 +117,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -228,8 +124,6 @@
     "name": "Djiboutian Franc",
     "code": "DJF",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:04:49.503Z",
     "country": {
       "id": 9,
       "name": "Djibouti",
@@ -238,17 +132,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -256,8 +139,6 @@
     "name": "Egyptian Pound",
     "code": "EGP",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:04:53.870Z",
     "country": {
       "id": 10,
       "name": "Egypt",
@@ -266,17 +147,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -284,8 +154,6 @@
     "name": "Eritrean Nakfa",
     "code": "ERN",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:05:07.498Z",
     "country": {
       "id": 11,
       "name": "Eritrea",
@@ -294,17 +162,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -312,8 +169,6 @@
     "name": "Ethiopian Birr",
     "code": "ETB",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:05:11.841Z",
     "country": {
       "id": 12,
       "name": "Ethiopia",
@@ -322,17 +177,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -340,8 +184,6 @@
     "name": "Gambian Dalasi",
     "code": "GMD",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:05:17.949Z",
     "country": {
       "id": 13,
       "name": "Gambia",
@@ -350,17 +192,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -368,8 +199,6 @@
     "name": "Ghanaian Cedi",
     "code": "GHS",
     "mostRecentEdition": 5,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:05:23.407Z",
     "country": {
       "id": 14,
       "name": "Ghana",
@@ -378,17 +207,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -396,8 +214,6 @@
     "name": "Guinean Franc",
     "code": "GNF",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:05:32.306Z",
     "country": {
       "id": 15,
       "name": "Guinea",
@@ -406,17 +222,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -424,8 +229,6 @@
     "name": "Kenyan Shilling",
     "code": "KES",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:05:38.879Z",
     "country": {
       "id": 16,
       "name": "Kenya",
@@ -434,17 +237,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -452,8 +244,6 @@
     "name": "Liberian Dollar",
     "code": "LRD",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:05:45.251Z",
     "country": {
       "id": 17,
       "name": "Liberia",
@@ -462,17 +252,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -480,8 +259,6 @@
     "name": "Libyan Dinar",
     "code": "LYD",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:05:52.890Z",
     "country": {
       "id": 18,
       "name": "Libya",
@@ -490,17 +267,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -508,8 +274,6 @@
     "name": "Malagasy Ariary",
     "code": "MGA",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:06:31.375Z",
     "country": {
       "id": 19,
       "name": "Madagascar",
@@ -518,17 +282,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -536,8 +289,6 @@
     "name": "Malawian Kwacha",
     "code": "MWK",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:06:16.765Z",
     "country": {
       "id": 20,
       "name": "Malawi",
@@ -546,17 +297,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -564,8 +304,6 @@
     "name": "Mauritanian Ouguiya",
     "code": "MRU",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:06:39.469Z",
     "country": {
       "id": 21,
       "name": "Mauritania",
@@ -574,17 +312,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -592,8 +319,6 @@
     "name": "Mauritian Rupee",
     "code": "MUR",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:06:48.370Z",
     "country": {
       "id": 22,
       "name": "Mauritius",
@@ -602,17 +327,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -620,8 +334,6 @@
     "name": "Moroccan Dirham",
     "code": "MAD",
     "mostRecentEdition": 4,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:06:55.142Z",
     "country": {
       "id": 23,
       "name": "Morocco",
@@ -630,17 +342,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -648,8 +349,6 @@
     "name": "Mozambican Metical",
     "code": "MZN",
     "mostRecentEdition": 3,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:07:00.761Z",
     "country": {
       "id": 24,
       "name": "Mozambique",
@@ -658,17 +357,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -676,8 +364,6 @@
     "name": "Namibian Dollar",
     "code": "NAD",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:07:15.128Z",
     "country": {
       "id": 25,
       "name": "Namibia",
@@ -686,17 +372,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -704,8 +379,6 @@
     "name": "Nigerian Naira",
     "code": "NGN",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:07:22.618Z",
     "country": {
       "id": 26,
       "name": "Nigeria",
@@ -714,17 +387,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -732,8 +394,6 @@
     "name": "Rwandan Franc",
     "code": "RWF",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:07:28.472Z",
     "country": {
       "id": 27,
       "name": "Rwanda",
@@ -742,17 +402,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -760,8 +409,6 @@
     "name": "Sao Tomean Dobra",
     "code": "STN",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:07:33.877Z",
     "country": {
       "id": 28,
       "name": "Sao Tome",
@@ -770,17 +417,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -788,8 +424,6 @@
     "name": "Sierra Leonean Leone",
     "code": "SLL",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:07:40.335Z",
     "country": {
       "id": 29,
       "name": "Sierra Leone",
@@ -798,17 +432,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -816,8 +439,6 @@
     "name": "Somali Shilling",
     "code": "SOS",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:07:48.197Z",
     "country": {
       "id": 30,
       "name": "Somalia",
@@ -826,17 +447,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -844,8 +454,6 @@
     "name": "Seychellois Rupee",
     "code": "SCR",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:09:17.496Z",
     "country": {
       "id": 31,
       "name": "Seychelles",
@@ -854,17 +462,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -872,8 +469,6 @@
     "name": "South African Rand",
     "code": "ZAR",
     "mostRecentEdition": 8,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:09:24.474Z",
     "country": {
       "id": 32,
       "name": "South Africa",
@@ -882,17 +477,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -900,8 +484,6 @@
     "name": "South Sudanese Pound",
     "code": "SSP",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:09:31.801Z",
     "country": {
       "id": 33,
       "name": "South Sudan",
@@ -910,17 +492,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -928,7 +499,6 @@
     "name": "Sudanese Pound",
     "code": "SDG",
     "mostRecentEdition": 3,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:09:37.817Z",
     "country": {
       "id": 34,
@@ -938,17 +508,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -956,7 +515,6 @@
     "name": "Swazi Lilangeni",
     "code": "SZL",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:09:43.229Z",
     "country": {
       "id": 35,
@@ -966,17 +524,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -984,7 +531,6 @@
     "name": "Tanzanian Shilling",
     "code": "TZS",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:09:57.749Z",
     "country": {
       "id": 36,
@@ -994,17 +540,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1012,7 +547,6 @@
     "name": "Tunisian Dinar",
     "code": "TND",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:10:05.204Z",
     "country": {
       "id": 37,
@@ -1022,17 +556,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1040,7 +563,6 @@
     "name": "Ugandan Shilling",
     "code": "UGX",
     "mostRecentEdition": 2,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:10:11.139Z",
     "country": {
       "id": 38,
@@ -1050,17 +572,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1068,7 +579,6 @@
     "name": "CFA Franc",
     "code": "XOF",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:10:30.681Z",
     "country": {
       "id": 6,
@@ -1078,17 +588,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1096,7 +595,6 @@
     "name": "Zambian Kwacha",
     "code": "ZMW",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:10:37.583Z",
     "country": {
       "id": 40,
@@ -1106,17 +604,6 @@
       "continent": "Africa",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1124,7 +611,6 @@
     "name": "Argentine Peso",
     "code": "ARS",
     "mostRecentEdition": 4,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:10:45.945Z",
     "country": {
       "id": 41,
@@ -1134,17 +620,6 @@
       "continent": "Americas",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1152,7 +627,6 @@
     "name": "Aruban or Dutch Guilder",
     "code": "AWG",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:10:51.736Z",
     "country": {
       "id": 42,
@@ -1162,17 +636,6 @@
       "continent": "Americas",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1180,7 +643,6 @@
     "name": "Bahamian Dollar",
     "code": "BSD",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:10:58.620Z",
     "country": {
       "id": 43,
@@ -1190,17 +652,6 @@
       "continent": "Americas",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1208,7 +659,6 @@
     "name": "Barbadian or Bajan Dollar",
     "code": "BBD",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:11:03.540Z",
     "country": {
       "id": 44,
@@ -1218,17 +668,6 @@
       "continent": "Americas",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1236,7 +675,6 @@
     "name": "Belizean Dollar",
     "code": "BZD",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:11:20.763Z",
     "country": {
       "id": 45,
@@ -1246,17 +684,6 @@
       "continent": "Americas",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1264,7 +691,6 @@
     "name": "Bermudian Dollar",
     "code": "BMD",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:11:28.727Z",
     "country": {
       "id": 46,
@@ -1274,17 +700,6 @@
       "continent": "Americas",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1292,7 +707,6 @@
     "name": "Bolivian Boloviano",
     "code": "BOB",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:11:49.038Z",
     "country": {
       "id": 47,
@@ -1302,17 +716,6 @@
       "continent": "Americas",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1320,7 +723,6 @@
     "name": "Brazilian Real",
     "code": "BRL",
     "mostRecentEdition": 2,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:11:55.873Z",
     "country": {
       "id": 48,
@@ -1330,17 +732,6 @@
       "continent": "Americas",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1348,7 +739,6 @@
     "name": "Canadian Dollar",
     "code": "CAD",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:12:01.693Z",
     "country": {
       "id": 49,
@@ -1358,17 +748,6 @@
       "continent": "Americas",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1376,7 +755,6 @@
     "name": "Caymanian Dollar",
     "code": "KYD",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:12:06.950Z",
     "country": {
       "id": 50,
@@ -1386,17 +764,6 @@
       "continent": "Americas",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1404,7 +771,6 @@
     "name": "Chilean Peso",
     "code": "CLP",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:12:29.872Z",
     "country": {
       "id": 51,
@@ -1414,17 +780,6 @@
       "continent": "Americas",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1432,7 +787,6 @@
     "name": "Colombian Peso",
     "code": "COP",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:12:36.864Z",
     "country": {
       "id": 52,
@@ -1442,17 +796,6 @@
       "continent": "Americas",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1460,7 +803,6 @@
     "name": "Costa Rican Colon",
     "code": "CRC",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:12:42.661Z",
     "country": {
       "id": 53,
@@ -1470,17 +812,6 @@
       "continent": "Americas",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1488,7 +819,6 @@
     "name": "Cuban Peso",
     "code": "CUP",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:12:49.568Z",
     "country": {
       "id": 54,
@@ -1498,17 +828,6 @@
       "continent": "Americas",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1516,7 +835,6 @@
     "name": "Dominican Peso",
     "code": "DOP",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:12:55.384Z",
     "country": {
       "id": 55,
@@ -1526,17 +844,6 @@
       "continent": "Americas",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1544,7 +851,6 @@
     "name": "Guatemalan Quetzal",
     "code": "GTQ",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:13:01.784Z",
     "country": {
       "id": 56,
@@ -1554,17 +860,6 @@
       "continent": "Americas",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1572,7 +867,6 @@
     "name": "Guyanese Dollar",
     "code": "GYD",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:13:06.972Z",
     "country": {
       "id": 57,
@@ -1582,17 +876,6 @@
       "continent": "Americas",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1600,7 +883,6 @@
     "name": "Haitian Gourde",
     "code": "HTG",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:13:12.895Z",
     "country": {
       "id": 58,
@@ -1610,17 +892,6 @@
       "continent": "Americas",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1628,7 +899,6 @@
     "name": "Honduran Lempira",
     "code": "HNL",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:13:19.640Z",
     "country": {
       "id": 59,
@@ -1638,17 +908,6 @@
       "continent": "Americas",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1656,7 +915,6 @@
     "name": "Jamaican Dollar",
     "code": "JMD",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:13:26.199Z",
     "country": {
       "id": 60,
@@ -1666,17 +924,6 @@
       "continent": "Americas",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1684,7 +931,6 @@
     "name": "Mexican Peso",
     "code": "MXN",
     "mostRecentEdition": 4,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:13:33.315Z",
     "country": {
       "id": 61,
@@ -1694,17 +940,6 @@
       "continent": "Americas",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1712,7 +947,6 @@
     "name": "Nicaraguan Cordoba",
     "code": "NIO",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:13:38.784Z",
     "country": {
       "id": 62,
@@ -1722,17 +956,6 @@
       "continent": "Americas",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1740,7 +963,6 @@
     "name": "Panamanian Balboa",
     "code": "PAB",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:13:43.198Z",
     "country": {
       "id": 63,
@@ -1750,17 +972,6 @@
       "continent": "Americas",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1768,7 +979,6 @@
     "name": "Paraguayan Guarani",
     "code": "PYG",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:13:47.904Z",
     "country": {
       "id": 64,
@@ -1778,17 +988,6 @@
       "continent": "Americas",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1796,7 +995,6 @@
     "name": "Peruvian Sol",
     "code": "PEN",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:13:52.608Z",
     "country": {
       "id": 65,
@@ -1806,17 +1004,6 @@
       "continent": "Americas",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1824,7 +1011,6 @@
     "name": "Surinamese Dollar",
     "code": "SRD",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:13:57.143Z",
     "country": {
       "id": 66,
@@ -1834,17 +1020,6 @@
       "continent": "Americas",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1852,7 +1027,6 @@
     "name": "US Dollar",
     "code": "USD",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:14:04.216Z",
     "country": {
       "id": 67,
@@ -1862,17 +1036,6 @@
       "continent": "Americas",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1880,7 +1043,6 @@
     "name": "Uruguayan Peso",
     "code": "UYU",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:14:18.065Z",
     "country": {
       "id": 68,
@@ -1890,17 +1052,6 @@
       "continent": "Americas",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1908,7 +1059,6 @@
     "name": "Venezuelan Bolovar",
     "code": "VEF",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:14:25.664Z",
     "country": {
       "id": 69,
@@ -1918,17 +1068,6 @@
       "continent": "Americas",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1936,7 +1075,6 @@
     "name": "Afghan Afghani",
     "code": "AFN",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:14:32.984Z",
     "country": {
       "id": 70,
@@ -1946,17 +1084,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1964,7 +1091,6 @@
     "name": "Armenian Dram",
     "code": "AMD",
     "mostRecentEdition": 3,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:14:40.536Z",
     "country": {
       "id": 71,
@@ -1974,17 +1100,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -1992,7 +1107,6 @@
     "name": "Azerbaijan Manat",
     "code": "AZN",
     "mostRecentEdition": 3,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:14:44.648Z",
     "country": {
       "id": 72,
@@ -2002,17 +1116,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2020,7 +1123,6 @@
     "name": "Bahraini Dinar",
     "code": "BHD",
     "mostRecentEdition": 4,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:14:50.256Z",
     "country": {
       "id": 73,
@@ -2030,17 +1132,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2048,7 +1139,6 @@
     "name": "Bangladeshi Taka",
     "code": "BDT",
     "mostRecentEdition": 4,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:14:55.067Z",
     "country": {
       "id": 74,
@@ -2058,17 +1148,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2076,7 +1155,6 @@
     "name": "Bhutanese Ngultrum",
     "code": "BTN",
     "mostRecentEdition": 2,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:14:59.825Z",
     "country": {
       "id": 75,
@@ -2086,17 +1164,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2104,7 +1171,6 @@
     "name": "Bruneian Dollar",
     "code": "BND",
     "mostRecentEdition": 6,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:15:06.960Z",
     "country": {
       "id": 76,
@@ -2114,17 +1180,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2132,7 +1187,6 @@
     "name": "Cambodian Riel",
     "code": "KHR",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:15:12.016Z",
     "country": {
       "id": 77,
@@ -2142,17 +1196,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2160,7 +1203,6 @@
     "name": "Chinese Yuan Renminbi",
     "code": "CNY",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:15:17.817Z",
     "country": {
       "id": 78,
@@ -2170,17 +1212,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2188,7 +1219,6 @@
     "name": "Emirati Dirham",
     "code": "AED",
     "mostRecentEdition": 3,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:15:25.585Z",
     "country": {
       "id": 79,
@@ -2198,17 +1228,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2216,7 +1235,6 @@
     "name": "Georgian Lari",
     "code": "GEL",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:15:32.513Z",
     "country": {
       "id": 80,
@@ -2226,17 +1244,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2244,7 +1251,6 @@
     "name": "Hong Kong Dollar",
     "code": "HKD",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:15:41.352Z",
     "country": {
       "id": 81,
@@ -2254,17 +1260,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2272,7 +1267,6 @@
     "name": "Indian Rupee",
     "code": "INR",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:15:47.162Z",
     "country": {
       "id": 82,
@@ -2282,17 +1276,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2300,7 +1283,6 @@
     "name": "Indonesian Rupiah",
     "code": "IDR",
     "mostRecentEdition": 9,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:15:52.168Z",
     "country": {
       "id": 83,
@@ -2310,17 +1292,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2328,7 +1299,6 @@
     "name": "Iranian Rial",
     "code": "IRR",
     "mostRecentEdition": 3,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:15:55.880Z",
     "country": {
       "id": 84,
@@ -2338,17 +1308,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2356,7 +1315,6 @@
     "name": "Iraqi Dinar",
     "code": "IQD",
     "mostRecentEdition": 3,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:16:00.623Z",
     "country": {
       "id": 85,
@@ -2366,17 +1324,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2384,7 +1331,6 @@
     "name": "Israeli Shekel",
     "code": "ILS",
     "mostRecentEdition": 3,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:16:05.401Z",
     "country": {
       "id": 86,
@@ -2394,17 +1340,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2412,7 +1347,6 @@
     "name": "Japanese Yen",
     "code": "JPY",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:16:09.851Z",
     "country": {
       "id": 87,
@@ -2422,17 +1356,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2440,7 +1363,6 @@
     "name": "Jordanian Dinar",
     "code": "JOD",
     "mostRecentEdition": 5,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:16:14.520Z",
     "country": {
       "id": 88,
@@ -2450,17 +1372,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2468,7 +1379,6 @@
     "name": "Kazakhstani Tenge",
     "code": "KZT",
     "mostRecentEdition": 3,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:16:19.192Z",
     "country": {
       "id": 89,
@@ -2478,17 +1388,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2496,7 +1395,6 @@
     "name": "Kuwaiti Dinar",
     "code": "KWD",
     "mostRecentEdition": 6,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:16:23.785Z",
     "country": {
       "id": 90,
@@ -2506,17 +1404,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2524,7 +1411,6 @@
     "name": "Kyrgyzstani Som",
     "code": "KGS",
     "mostRecentEdition": 4,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:16:32.090Z",
     "country": {
       "id": 91,
@@ -2534,17 +1420,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2552,7 +1427,6 @@
     "name": "Lao Kip",
     "code": "LAK",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:16:37.425Z",
     "country": {
       "id": 92,
@@ -2562,17 +1436,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2580,7 +1443,6 @@
     "name": "Lebanese Pound",
     "code": "LBP",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:16:44.520Z",
     "country": {
       "id": 93,
@@ -2590,17 +1452,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2608,7 +1459,6 @@
     "name": "Macau Pataca",
     "code": "MOP",
     "mostRecentEdition": 2,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:16:49.391Z",
     "country": {
       "id": 94,
@@ -2618,17 +1468,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2636,7 +1475,6 @@
     "name": "Malaysian Ringgit",
     "code": "MYR",
     "mostRecentEdition": 4,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:17:02.046Z",
     "country": {
       "id": 95,
@@ -2646,17 +1484,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2664,7 +1491,6 @@
     "name": "Maldivian Rufiyaa",
     "code": "MVR",
     "mostRecentEdition": 3,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:17:11.864Z",
     "country": {
       "id": 96,
@@ -2674,17 +1500,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2692,7 +1507,6 @@
     "name": "Mongolian Tughrik",
     "code": "MNT",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:17:17.144Z",
     "country": {
       "id": 97,
@@ -2702,17 +1516,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2720,7 +1523,6 @@
     "name": "Burmese Kyat",
     "code": "MMK",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:17:24.585Z",
     "country": {
       "id": 98,
@@ -2730,17 +1532,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2748,7 +1539,6 @@
     "name": "Nepalese Rupee",
     "code": "NPR",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:17:30.273Z",
     "country": {
       "id": 99,
@@ -2758,17 +1548,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2776,7 +1555,6 @@
     "name": "North Korean Won",
     "code": "KPW",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:17:35.690Z",
     "country": {
       "id": 100,
@@ -2786,17 +1564,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2804,7 +1571,6 @@
     "name": "Omani Rial",
     "code": "OMR",
     "mostRecentEdition": 6,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:17:42.456Z",
     "country": {
       "id": 101,
@@ -2814,17 +1580,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2832,7 +1587,6 @@
     "name": "Pakistani Rupee",
     "code": "PKR",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:17:47.048Z",
     "country": {
       "id": 102,
@@ -2842,17 +1596,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2860,7 +1603,6 @@
     "name": "Philippine Peso",
     "code": "PHP",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:17:52.353Z",
     "country": {
       "id": 103,
@@ -2870,17 +1612,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2888,7 +1619,6 @@
     "name": "Qatari Riyal",
     "code": "QAR",
     "mostRecentEdition": 4,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:17:56.288Z",
     "country": {
       "id": 104,
@@ -2898,17 +1628,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2916,7 +1635,6 @@
     "name": "Russian Ruble",
     "code": "RUB",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:18:05.432Z",
     "country": {
       "id": 105,
@@ -2926,17 +1644,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2944,7 +1651,6 @@
     "name": "Saudi Arabian Riyal",
     "code": "SAR",
     "mostRecentEdition": 6,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:18:10.831Z",
     "country": {
       "id": 106,
@@ -2954,17 +1660,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -2972,7 +1667,6 @@
     "name": "Singapore Dollar",
     "code": "SGD",
     "mostRecentEdition": 4,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:18:15.321Z",
     "country": {
       "id": 107,
@@ -2982,17 +1676,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3000,7 +1683,6 @@
     "name": "South Korean Won",
     "code": "KRW",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:18:21.296Z",
     "country": {
       "id": 108,
@@ -3010,17 +1692,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3028,7 +1699,6 @@
     "name": "Sri Lankan Rupee",
     "code": "LKR",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:18:26.127Z",
     "country": {
       "id": 109,
@@ -3038,17 +1708,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3056,7 +1715,6 @@
     "name": "Syrian Pound",
     "code": "SYP",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:18:31.378Z",
     "country": {
       "id": 110,
@@ -3066,17 +1724,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3084,7 +1731,6 @@
     "name": "Taiwan New Dollar",
     "code": "TWD",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:18:37.191Z",
     "country": {
       "id": 111,
@@ -3094,17 +1740,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3112,7 +1747,6 @@
     "name": "Tajikistani Somoni",
     "code": "TJS",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:18:50.361Z",
     "country": {
       "id": 112,
@@ -3122,17 +1756,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3140,7 +1763,6 @@
     "name": "Thai Baht",
     "code": "THB",
     "mostRecentEdition": 17,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:18:59.096Z",
     "country": {
       "id": 113,
@@ -3150,17 +1772,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3168,7 +1779,6 @@
     "name": "Turkish Lira",
     "code": "TRY",
     "mostRecentEdition": 9,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:19:05.096Z",
     "country": {
       "id": 114,
@@ -3178,17 +1788,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3196,7 +1795,6 @@
     "name": "Turkmenistani Manat",
     "code": "TMT",
     "mostRecentEdition": 3,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:19:14.873Z",
     "country": {
       "id": 115,
@@ -3206,17 +1804,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3224,7 +1811,6 @@
     "name": "Uzbekistani Som",
     "code": "UZS",
     "mostRecentEdition": 2,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:19:20.168Z",
     "country": {
       "id": 116,
@@ -3234,17 +1820,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3252,7 +1827,6 @@
     "name": "Vietnamese Dong",
     "code": "VND",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:19:26.145Z",
     "country": {
       "id": 117,
@@ -3262,17 +1836,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3280,7 +1843,6 @@
     "name": "Yemeni Rial",
     "code": "YER",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:19:31.416Z",
     "country": {
       "id": 118,
@@ -3290,17 +1852,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3308,7 +1859,6 @@
     "name": "Albanian Lek",
     "code": "ALL",
     "mostRecentEdition": 3,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:19:37.090Z",
     "country": {
       "id": 119,
@@ -3318,17 +1868,6 @@
       "continent": "Europe",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3336,7 +1875,6 @@
     "name": "Belarusian Ruble",
     "code": "BYN",
     "mostRecentEdition": 3,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:19:42.120Z",
     "country": {
       "id": 120,
@@ -3346,17 +1884,6 @@
       "continent": "Europe",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3364,7 +1891,6 @@
     "name": "Bosnian Convertible Mark",
     "code": "BAM",
     "mostRecentEdition": 1,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:19:48.697Z",
     "country": {
       "id": 121,
@@ -3374,17 +1900,6 @@
       "continent": "Europe",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3392,7 +1907,6 @@
     "name": "Bulgarian Lev",
     "code": "BGN",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:19:53.209Z",
     "country": {
       "id": 122,
@@ -3402,17 +1916,6 @@
       "continent": "Europe",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3420,7 +1923,6 @@
     "name": "Croatian Kuna",
     "code": "HRK",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:19:57.760Z",
     "country": {
       "id": 123,
@@ -3430,17 +1932,6 @@
       "continent": "Europe",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3448,7 +1939,6 @@
     "name": "Czech Koruna",
     "code": "CZK",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:20:02.800Z",
     "country": {
       "id": 124,
@@ -3458,17 +1948,6 @@
       "continent": "Europe",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3476,7 +1955,6 @@
     "name": "Danish Krone",
     "code": "DKK",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:20:08.633Z",
     "country": {
       "id": 125,
@@ -3486,17 +1964,6 @@
       "continent": "Europe",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3504,7 +1971,6 @@
     "name": "Euro",
     "code": "EUR",
     "mostRecentEdition": 2,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:20:14.105Z",
     "country": {
       "id": 126,
@@ -3514,17 +1980,6 @@
       "continent": "Europe",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3532,7 +1987,6 @@
     "name": "Falkland Island Pound",
     "code": "FKP",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:20:17.928Z",
     "country": {
       "id": 127,
@@ -3542,17 +1996,6 @@
       "continent": "Europe",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3560,7 +2003,6 @@
     "name": "Gibraltar Pound",
     "code": "GIP",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:20:23.145Z",
     "country": {
       "id": 128,
@@ -3570,17 +2012,6 @@
       "continent": "Europe",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3588,7 +2019,6 @@
     "name": "Hungarian Forint",
     "code": "HUF",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:20:30.952Z",
     "country": {
       "id": 129,
@@ -3598,17 +2028,6 @@
       "continent": "Europe",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3616,7 +2035,6 @@
     "name": "Icelandic Krona",
     "code": "ISK",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:20:35.343Z",
     "country": {
       "id": 130,
@@ -3626,17 +2044,6 @@
       "continent": "Europe",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3644,7 +2051,6 @@
     "name": "Macedonian Denar",
     "code": "MKD",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:20:43.800Z",
     "country": {
       "id": 131,
@@ -3654,17 +2060,6 @@
       "continent": "Europe",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3672,7 +2067,6 @@
     "name": "Moldovan Leu",
     "code": "MDL",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:20:48.592Z",
     "country": {
       "id": 132,
@@ -3682,17 +2076,6 @@
       "continent": "Europe",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3700,7 +2083,6 @@
     "name": "Norwegian Krone",
     "code": "NOK",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:20:54.976Z",
     "country": {
       "id": 133,
@@ -3710,17 +2092,6 @@
       "continent": "Europe",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3728,7 +2099,6 @@
     "name": "Polish Zloty",
     "code": "PLN",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:21:02.284Z",
     "country": {
       "id": 134,
@@ -3738,17 +2108,6 @@
       "continent": "Europe",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3756,7 +2115,6 @@
     "name": "Romanian Leu",
     "code": "RON",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:21:08.000Z",
     "country": {
       "id": 135,
@@ -3766,17 +2124,6 @@
       "continent": "Europe",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3784,7 +2131,6 @@
     "name": "Serbian Dinar",
     "code": "RSD",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:21:12.473Z",
     "country": {
       "id": 136,
@@ -3794,17 +2140,6 @@
       "continent": "Europe",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3812,7 +2147,6 @@
     "name": "Swedish Krona",
     "code": "SEK",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:21:19.578Z",
     "country": {
       "id": 137,
@@ -3822,17 +2156,6 @@
       "continent": "Europe",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3840,7 +2163,6 @@
     "name": "Swiss Franc",
     "code": "CHF",
     "mostRecentEdition": 9,
-    "createdAt": "2023-02-22T06:03:09.054Z",
     "updatedAt": "2023-02-22T06:21:28.576Z",
     "country": {
       "id": 138,
@@ -3850,17 +2172,6 @@
       "continent": "Europe",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3868,8 +2179,6 @@
     "name": "Ukrainian Hryvnia",
     "code": "UAH",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:21:33.216Z",
     "country": {
       "id": 139,
       "name": "Ukraine",
@@ -3878,17 +2187,6 @@
       "continent": "Europe",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3896,8 +2194,6 @@
     "name": "British Pound",
     "code": "GBP",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:21:39.426Z",
     "country": {
       "id": 140,
       "name": "United Kingdom",
@@ -3906,17 +2202,6 @@
       "continent": "Europe",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3924,8 +2209,6 @@
     "name": "Australian Dollar",
     "code": "AUD",
     "mostRecentEdition": 4,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:21:49.002Z",
     "country": {
       "id": 141,
       "name": "Australia",
@@ -3934,17 +2217,6 @@
       "continent": "Oceania",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3952,8 +2224,6 @@
     "name": "CFP Franc",
     "code": "XPF",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:22:02.152Z",
     "country": {
       "id": 142,
       "name": "Central Pacific",
@@ -3962,17 +2232,6 @@
       "continent": "Oceania",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -3980,8 +2239,6 @@
     "name": "Fijian Dollar",
     "code": "FJD",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:22:07.152Z",
     "country": {
       "id": 143,
       "name": "Fiji",
@@ -3990,17 +2247,6 @@
       "continent": "Oceania",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -4008,8 +2254,6 @@
     "name": "New Zealand Dollar",
     "code": "NZD",
     "mostRecentEdition": 7,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:22:11.463Z",
     "country": {
       "id": 144,
       "name": "New Zealand",
@@ -4018,17 +2262,6 @@
       "continent": "Oceania",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -4036,8 +2269,6 @@
     "name": "Papua New Guinean Kina",
     "code": "PGK",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:22:16.681Z",
     "country": {
       "id": 145,
       "name": "Papua New Guinea",
@@ -4046,17 +2277,6 @@
       "continent": "Oceania",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -4064,8 +2284,6 @@
     "name": "Samoan Tala",
     "code": "WST",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:22:23.586Z",
     "country": {
       "id": 146,
       "name": "Samoa",
@@ -4074,17 +2292,6 @@
       "continent": "Oceania",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -4092,8 +2299,6 @@
     "name": "Solomon Islander Dollar",
     "code": "SBD",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:22:27.984Z",
     "country": {
       "id": 147,
       "name": "Solomon Islands",
@@ -4102,17 +2307,6 @@
       "continent": "Oceania",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -4120,8 +2314,6 @@
     "name": "Tongan Pa'anga",
     "code": "TOP",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:22:33.449Z",
     "country": {
       "id": 148,
       "name": "Tonga",
@@ -4130,17 +2322,6 @@
       "continent": "Oceania",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -4148,8 +2329,6 @@
     "name": "Ni-Vanuatu Vatu",
     "code": "VUV",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:03:09.054Z",
-    "updatedAt": "2023-02-22T06:22:38.859Z",
     "country": {
       "id": 149,
       "name": "Vanuatu",
@@ -4158,17 +2337,6 @@
       "continent": "Oceania",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": null,
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -4176,8 +2344,6 @@
     "name": "Hong Kong Dollar (BoC)",
     "code": "HKD",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:28:31.485Z",
-    "updatedAt": "2023-02-22T06:28:31.485Z",
     "country": {
       "id": 81,
       "name": "Hong Kong",
@@ -4186,22 +2352,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    },
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -4209,8 +2359,6 @@
     "name": "Hong Kong Dollar (HSBC)",
     "code": "HKD",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:28:55.419Z",
-    "updatedAt": "2023-02-22T06:28:55.419Z",
     "country": {
       "id": 81,
       "name": "Hong Kong",
@@ -4219,22 +2367,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    },
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -4242,8 +2374,6 @@
     "name": "Hong Kong Dollar (SCB)",
     "code": "HKD",
     "mostRecentEdition": 100,
-    "createdAt": "2023-02-22T06:29:11.332Z",
-    "updatedAt": "2023-02-22T06:29:11.332Z",
     "country": {
       "id": 81,
       "name": "Hong Kong",
@@ -4252,22 +2382,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    },
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   },
   {
@@ -4275,8 +2389,6 @@
     "name": "Macau Pataca (BoC)",
     "code": "MOP",
     "mostRecentEdition": 2,
-    "createdAt": "2023-02-22T06:29:49.110Z",
-    "updatedAt": "2023-02-22T06:29:49.110Z",
     "country": {
       "id": 94,
       "name": "Macau",
@@ -4285,22 +2397,6 @@
       "continent": "Asia",
       "createdAt": "2023-02-22T06:01:07.423Z",
       "updatedAt": "2023-02-22T06:01:07.423Z"
-    },
-    "exchange_rate": null,
-    "editions": {
-      "count": 0
-    },
-    "createdBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
-    },
-    "updatedBy": {
-      "id": 1,
-      "firstname": "Suhaib",
-      "lastname": "Ahmad",
-      "username": null
     }
   }
 ]
