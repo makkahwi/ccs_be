@@ -21,7 +21,9 @@
       "required": true
     },
     "mapCode": {
-      "type": "string"
+      "type": "string",
+      "unique": true,
+      "required": true
     },
     "continent": {
       "type": "enumeration",
