@@ -34,12 +34,6 @@
       "type": "integer",
       "required": true
     },
-    "country": {
-      "type": "relation",
-      "relation": "manyToOne",
-      "target": "api::country.country",
-      "inversedBy": "currencies"
-    },
     "exchange_rate": {
       "type": "relation",
       "relation": "oneToOne",
@@ -51,6 +45,12 @@
       "relation": "oneToMany",
       "target": "api::currency-edition.currency-edition",
       "mappedBy": "currency"
+    },
+    "currency_zone": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::currency-zone.currency-zone",
+      "inversedBy": "currencies"
     }
   }
 }

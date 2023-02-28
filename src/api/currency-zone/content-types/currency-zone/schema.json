@@ -1,11 +1,10 @@
 {
   "kind": "collectionType",
-  "collectionName": "countries",
+  "collectionName": "currency_zones",
   "info": {
-    "singularName": "country",
-    "pluralName": "countries",
-    "displayName": "Country",
-    "description": ""
+    "singularName": "currency-zone",
+    "pluralName": "currency-zones",
+    "displayName": "CurrencyZone"
   },
   "options": {
     "draftAndPublish": false
@@ -20,27 +19,27 @@
       "type": "string",
       "required": true
     },
-    "mapCode": {
-      "type": "string",
-      "unique": true,
-      "required": true
-    },
     "continent": {
       "type": "enumeration",
       "enum": [
         "Africa",
-        "Asia",
         "Americas",
+        "Asia",
         "Europe",
         "Oceania"
       ],
       "required": true
     },
+    "mapCode": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    },
     "currencies": {
       "type": "relation",
       "relation": "oneToMany",
       "target": "api::currency.currency",
-      "mappedBy": "country"
+      "mappedBy": "currency_zone"
     }
   }
 }
