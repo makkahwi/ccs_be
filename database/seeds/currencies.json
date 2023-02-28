@@ -4,14 +4,14 @@
     "name": "Algerian Dinar",
     "code": "DZD",
     "mostRecentEdition": 4,
+    "fractionName": "Centime",
+    "fraction": 100,
     "country": {
       "id": 1,
       "name": "Algeria",
       "fullName": "People's Democratic Republic of Algeria",
       "mapCode": "dz",
-      "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "continent": "Africa"
     }
   },
   {
@@ -19,14 +19,14 @@
     "name": "Angolan Kwanza",
     "code": "AOA",
     "mostRecentEdition": 100,
-    "country": {
+    "fractionName": "Centimo",
+    "fraction": 100,
+    "currency_zone": {
       "id": 2,
       "name": "Angola",
       "fullName": "Republic of Angola",
-      "mapCode": "ao",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "ao"
     }
   },
   {
@@ -34,14 +34,14 @@
     "name": "Botswana Pula",
     "code": "BWP",
     "mostRecentEdition": 100,
-    "country": {
+    "fractionName": "Thebe",
+    "fraction": 100,
+    "currency_zone": {
       "id": 3,
       "name": "Botswana",
       "fullName": "Republic of Botswana",
-      "mapCode": "bw",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "bw"
     }
   },
   {
@@ -49,14 +49,14 @@
     "name": "Burundian Franc",
     "code": "BIF",
     "mostRecentEdition": 100,
-    "country": {
+    "fractionName": "Centime",
+    "fraction": 100,
+    "currency_zone": {
       "id": 4,
       "name": "Burundi",
       "fullName": "Republic of Burundi",
-      "mapCode": "bi",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "bi"
     }
   },
   {
@@ -64,29 +64,29 @@
     "name": "Cape Verdean Escudo",
     "code": "CVE",
     "mostRecentEdition": 100,
-    "country": {
+    "fractionName": "Centavo",
+    "fraction": 100,
+    "currency_zone": {
       "id": 5,
       "name": "Cape Verde",
       "fullName": "Republic of Cabo Verde",
-      "mapCode": "cv",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "noCode"
     }
   },
   {
     "id": 6,
-    "name": "Central African CFA Franc BEAC",
+    "name": "Central African CFA Franc",
     "code": "XAF",
     "mostRecentEdition": 100,
-    "country": {
+    "fractionName": "Centime",
+    "fraction": 100,
+    "currency_zone": {
       "id": 6,
       "name": "Central Africa",
       "fullName": "Central Africa",
-      "mapCode": "cf",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "cf"
     }
   },
   {
@@ -94,14 +94,14 @@
     "name": "Comorian Franc",
     "code": "KMF",
     "mostRecentEdition": 100,
-    "country": {
+    "fractionName": "Centime",
+    "fraction": 100,
+    "currency_zone": {
       "id": 7,
       "name": "Comoros",
       "fullName": "Union of the Comoros",
-      "mapCode": "km",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "km"
     }
   },
   {
@@ -109,14 +109,14 @@
     "name": "Congolese Franc",
     "code": "CDF",
     "mostRecentEdition": 100,
-    "country": {
+    "fractionName": "Centime",
+    "fraction": 100,
+    "currency_zone": {
       "id": 8,
       "name": "Congo",
       "fullName": "Democratic Republic of the Congo",
-      "mapCode": "cg",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "cg"
     }
   },
   {
@@ -124,14 +124,14 @@
     "name": "Djiboutian Franc",
     "code": "DJF",
     "mostRecentEdition": 100,
-    "country": {
+    "fractionName": "Centime",
+    "fraction": 100,
+    "currency_zone": {
       "id": 9,
       "name": "Djibouti",
       "fullName": "Republic of Djibouti",
-      "mapCode": "dj",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "dj"
     }
   },
   {
@@ -139,14 +139,14 @@
     "name": "Egyptian Pound",
     "code": "EGP",
     "mostRecentEdition": 100,
-    "country": {
+    "fractionName": "Piastre",
+    "fraction": 100,
+    "currency_zone": {
       "id": 10,
       "name": "Egypt",
       "fullName": "Arab Republic of Egypt",
-      "mapCode": "eg",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "eg"
     }
   },
   {
@@ -154,14 +154,14 @@
     "name": "Eritrean Nakfa",
     "code": "ERN",
     "mostRecentEdition": 100,
-    "country": {
+    "fractionName": "Cent",
+    "fraction": 100,
+    "currency_zone": {
       "id": 11,
       "name": "Eritrea",
       "fullName": "State of Eritrea",
-      "mapCode": "er",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "er"
     }
   },
   {
@@ -169,14 +169,14 @@
     "name": "Ethiopian Birr",
     "code": "ETB",
     "mostRecentEdition": 100,
-    "country": {
+    "fractionName": "Santim",
+    "fraction": 100,
+    "currency_zone": {
       "id": 12,
       "name": "Ethiopia",
       "fullName": "Federal Democratic Republic of Ethiopia",
-      "mapCode": "et",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "et"
     }
   },
   {
@@ -184,14 +184,14 @@
     "name": "Gambian Dalasi",
     "code": "GMD",
     "mostRecentEdition": 100,
-    "country": {
+    "fractionName": "Butut",
+    "fraction": 100,
+    "currency_zone": {
       "id": 13,
       "name": "Gambia",
       "fullName": "Republic of The Gambia",
-      "mapCode": "gm",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "gm"
     }
   },
   {
@@ -199,14 +199,14 @@
     "name": "Ghanaian Cedi",
     "code": "GHS",
     "mostRecentEdition": 5,
-    "country": {
+    "fractionName": "Pesewa",
+    "fraction": 100,
+    "currency_zone": {
       "id": 14,
       "name": "Ghana",
       "fullName": "Republic of Ghana",
-      "mapCode": "gh",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "gh"
     }
   },
   {
@@ -214,14 +214,14 @@
     "name": "Guinean Franc",
     "code": "GNF",
     "mostRecentEdition": 100,
-    "country": {
+    "fractionName": "Centime",
+    "fraction": 100,
+    "currency_zone": {
       "id": 15,
       "name": "Guinea",
       "fullName": "Republic of Guinea",
-      "mapCode": "gn",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "gn"
     }
   },
   {
@@ -229,14 +229,14 @@
     "name": "Kenyan Shilling",
     "code": "KES",
     "mostRecentEdition": 100,
-    "country": {
+    "fractionName": "Cent",
+    "fraction": 100,
+    "currency_zone": {
       "id": 16,
       "name": "Kenya",
       "fullName": "Republic of Kenya",
-      "mapCode": "ke",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "ke"
     }
   },
   {
@@ -244,14 +244,14 @@
     "name": "Liberian Dollar",
     "code": "LRD",
     "mostRecentEdition": 100,
-    "country": {
+    "fractionName": "Cent",
+    "fraction": 100,
+    "currency_zone": {
       "id": 17,
       "name": "Liberia",
       "fullName": "Republic of Liberia",
-      "mapCode": "lr",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "lr"
     }
   },
   {
@@ -259,14 +259,14 @@
     "name": "Libyan Dinar",
     "code": "LYD",
     "mostRecentEdition": 100,
-    "country": {
+    "fractionName": "Dirham",
+    "fraction": 1000,
+    "currency_zone": {
       "id": 18,
       "name": "Libya",
       "fullName": "State of Libya",
-      "mapCode": "ly",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "ly"
     }
   },
   {
@@ -274,14 +274,14 @@
     "name": "Malagasy Ariary",
     "code": "MGA",
     "mostRecentEdition": 100,
-    "country": {
+    "fractionName": "Iraimbilanja",
+    "fraction": 100,
+    "currency_zone": {
       "id": 19,
       "name": "Madagascar",
       "fullName": "Republic of Madagascar",
-      "mapCode": "mg",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "mg"
     }
   },
   {
@@ -289,14 +289,14 @@
     "name": "Malawian Kwacha",
     "code": "MWK",
     "mostRecentEdition": 100,
-    "country": {
+    "fractionName": "Tambala",
+    "fraction": 100,
+    "currency_zone": {
       "id": 20,
       "name": "Malawi",
       "fullName": "Republic of Malawi",
-      "mapCode": "mw",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "mw"
     }
   },
   {
@@ -304,14 +304,14 @@
     "name": "Mauritanian Ouguiya",
     "code": "MRU",
     "mostRecentEdition": 100,
-    "country": {
+    "fractionName": "Khoums",
+    "fraction": 100,
+    "currency_zone": {
       "id": 21,
       "name": "Mauritania",
       "fullName": "Islamic Republic of Mauritania",
-      "mapCode": "mr",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "mr"
     }
   },
   {
@@ -319,14 +319,14 @@
     "name": "Mauritian Rupee",
     "code": "MUR",
     "mostRecentEdition": 100,
-    "country": {
+    "fractionName": "Cent",
+    "fraction": 100,
+    "currency_zone": {
       "id": 22,
       "name": "Mauritius",
       "fullName": "Republic of Mauritius",
-      "mapCode": "mu",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "mu"
     }
   },
   {
@@ -334,14 +334,14 @@
     "name": "Moroccan Dirham",
     "code": "MAD",
     "mostRecentEdition": 4,
-    "country": {
+    "fractionName": "Centime",
+    "fraction": 100,
+    "currency_zone": {
       "id": 23,
       "name": "Morocco",
       "fullName": "Kingdom of Morocco",
-      "mapCode": "ma",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "ma"
     }
   },
   {
@@ -349,14 +349,14 @@
     "name": "Mozambican Metical",
     "code": "MZN",
     "mostRecentEdition": 3,
-    "country": {
+    "fractionName": "Centavo",
+    "fraction": 100,
+    "currency_zone": {
       "id": 24,
       "name": "Mozambique",
       "fullName": "Republic of Mozambique",
-      "mapCode": "mz",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "mz"
     }
   },
   {
@@ -364,14 +364,14 @@
     "name": "Namibian Dollar",
     "code": "NAD",
     "mostRecentEdition": 100,
-    "country": {
+    "fractionName": "Cent",
+    "fraction": 100,
+    "currency_zone": {
       "id": 25,
       "name": "Namibia",
       "fullName": "Republic of Namibia",
-      "mapCode": "na",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "na"
     }
   },
   {
@@ -379,14 +379,14 @@
     "name": "Nigerian Naira",
     "code": "NGN",
     "mostRecentEdition": 100,
-    "country": {
+    "fractionName": "Kobo",
+    "fraction": 100,
+    "currency_zone": {
       "id": 26,
       "name": "Nigeria",
       "fullName": "Federal Republic of Nigeria",
-      "mapCode": "ng",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "ng"
     }
   },
   {
@@ -394,14 +394,14 @@
     "name": "Rwandan Franc",
     "code": "RWF",
     "mostRecentEdition": 100,
-    "country": {
+    "fractionName": "Centime",
+    "fraction": 100,
+    "currency_zone": {
       "id": 27,
       "name": "Rwanda",
       "fullName": "Republic of Rwanda",
-      "mapCode": "rw",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "rw"
     }
   },
   {
@@ -409,14 +409,14 @@
     "name": "Sao Tomean Dobra",
     "code": "STN",
     "mostRecentEdition": 100,
-    "country": {
+    "fractionName": "Centimo",
+    "fraction": 100,
+    "currency_zone": {
       "id": 28,
       "name": "Sao Tome",
       "fullName": "Democratic Republic of Sao Tome and Principe",
-      "mapCode": "st",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "noCode"
     }
   },
   {
@@ -424,14 +424,14 @@
     "name": "Sierra Leonean Leone",
     "code": "SLL",
     "mostRecentEdition": 100,
-    "country": {
+    "fractionName": "Cent",
+    "fraction": 100,
+    "currency_zone": {
       "id": 29,
       "name": "Sierra Leone",
       "fullName": "Republic of Sierra Leone",
-      "mapCode": "sl",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "sl"
     }
   },
   {
@@ -439,14 +439,14 @@
     "name": "Somali Shilling",
     "code": "SOS",
     "mostRecentEdition": 100,
-    "country": {
+    "fractionName": "Cent",
+    "fraction": 100,
+    "currency_zone": {
       "id": 30,
       "name": "Somalia",
       "fullName": "Federal Republic of Somalia",
-      "mapCode": "so",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "so"
     }
   },
   {
@@ -454,14 +454,14 @@
     "name": "Seychellois Rupee",
     "code": "SCR",
     "mostRecentEdition": 100,
-    "country": {
+    "fractionName": "Cent",
+    "fraction": 100,
+    "currency_zone": {
       "id": 31,
       "name": "Seychelles",
       "fullName": "Republic of Seychelles",
-      "mapCode": "sc",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "sc"
     }
   },
   {
@@ -469,14 +469,14 @@
     "name": "South African Rand",
     "code": "ZAR",
     "mostRecentEdition": 8,
-    "country": {
+    "fractionName": "Cent",
+    "fraction": 100,
+    "currency_zone": {
       "id": 32,
       "name": "South Africa",
       "fullName": "Republic of South Africa",
-      "mapCode": "za",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "za"
     }
   },
   {
@@ -484,14 +484,14 @@
     "name": "South Sudanese Pound",
     "code": "SSP",
     "mostRecentEdition": 100,
-    "country": {
+    "fractionName": "Piaster",
+    "fraction": 100,
+    "currency_zone": {
       "id": 33,
       "name": "South Sudan",
       "fullName": "Republic of South Sudan",
-      "mapCode": "ss",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "ss"
     }
   },
   {
@@ -499,15 +499,14 @@
     "name": "Sudanese Pound",
     "code": "SDG",
     "mostRecentEdition": 3,
-    "updatedAt": "2023-02-22T06:09:37.817Z",
-    "country": {
+    "fractionName": "Piastre",
+    "fraction": 100,
+    "currency_zone": {
       "id": 34,
       "name": "Sudan",
       "fullName": "Republic of the Sudan",
-      "mapCode": "sd",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "sd"
     }
   },
   {
@@ -515,15 +514,14 @@
     "name": "Swazi Lilangeni",
     "code": "SZL",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:09:43.229Z",
-    "country": {
+    "fractionName": "Cent",
+    "fraction": 100,
+    "currency_zone": {
       "id": 35,
       "name": "Swaziland",
       "fullName": "Kingdom of Swaziland",
-      "mapCode": "sz",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "noCode"
     }
   },
   {
@@ -531,15 +529,14 @@
     "name": "Tanzanian Shilling",
     "code": "TZS",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:09:57.749Z",
-    "country": {
+    "fractionName": "Cent",
+    "fraction": 100,
+    "currency_zone": {
       "id": 36,
       "name": "Tanzania",
       "fullName": "The United Republic Of Tanzania",
-      "mapCode": "tz",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "noCode"
     }
   },
   {
@@ -547,15 +544,14 @@
     "name": "Tunisian Dinar",
     "code": "TND",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:10:05.204Z",
-    "country": {
+    "fractionName": "Millime",
+    "fraction": 1000,
+    "currency_zone": {
       "id": 37,
       "name": "Tunisia",
       "fullName": "Republic of Tunisia",
-      "mapCode": "tn",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "tn"
     }
   },
   {
@@ -563,15 +559,14 @@
     "name": "Ugandan Shilling",
     "code": "UGX",
     "mostRecentEdition": 2,
-    "updatedAt": "2023-02-22T06:10:11.139Z",
-    "country": {
+    "fractionName": "Cent",
+    "fraction": 100,
+    "currency_zone": {
       "id": 38,
       "name": "Uganda",
       "fullName": "Republic of Uganda",
-      "mapCode": "ug",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "ug"
     }
   },
   {
@@ -579,15 +574,14 @@
     "name": "CFA Franc",
     "code": "XOF",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:10:30.681Z",
-    "country": {
-      "id": 6,
-      "name": "Central Africa",
-      "fullName": "Central Africa",
-      "mapCode": "cf",
+    "fractionName": "Centime",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 39,
+      "name": "West Africa",
+      "fullName": "West Africa",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "noCode"
     }
   },
   {
@@ -595,15 +589,14 @@
     "name": "Zambian Kwacha",
     "code": "ZMW",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:10:37.583Z",
-    "country": {
+    "fractionName": "Ngwee",
+    "fraction": 100,
+    "currency_zone": {
       "id": 40,
       "name": "Zambia",
       "fullName": "Republic of Zambia",
-      "mapCode": "zm",
       "continent": "Africa",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "zm"
     }
   },
   {
@@ -611,15 +604,14 @@
     "name": "Argentine Peso",
     "code": "ARS",
     "mostRecentEdition": 4,
-    "updatedAt": "2023-02-22T06:10:45.945Z",
-    "country": {
+    "fractionName": "Centavo",
+    "fraction": 100,
+    "currency_zone": {
       "id": 41,
       "name": "Argentina",
       "fullName": "Argentine Republic",
-      "mapCode": "ar",
       "continent": "Americas",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "ar"
     }
   },
   {
@@ -627,15 +619,14 @@
     "name": "Aruban or Dutch Guilder",
     "code": "AWG",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:10:51.736Z",
-    "country": {
+    "fractionName": "Cent",
+    "fraction": 100,
+    "currency_zone": {
       "id": 42,
       "name": "Aruba",
       "fullName": "Aruba",
-      "mapCode": "aw",
       "continent": "Americas",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "aw"
     }
   },
   {
@@ -643,31 +634,29 @@
     "name": "Bahamian Dollar",
     "code": "BSD",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:10:58.620Z",
-    "country": {
+    "fractionName": "Cent",
+    "fraction": 100,
+    "currency_zone": {
       "id": 43,
       "name": "Bahamas",
       "fullName": "Commonwealth of the Bahamas",
-      "mapCode": "bs",
       "continent": "Americas",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "bs"
     }
   },
   {
     "id": 44,
-    "name": "Barbadian or Bajan Dollar",
+    "name": "Barbadian or Ba01/Dollar",
     "code": "BBD",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:11:03.540Z",
-    "country": {
+    "fractionName": "Cent",
+    "fraction": 100,
+    "currency_zone": {
       "id": 44,
       "name": "Barbados",
       "fullName": "Barbados",
-      "mapCode": "bb",
       "continent": "Americas",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "bb"
     }
   },
   {
@@ -675,15 +664,14 @@
     "name": "Belizean Dollar",
     "code": "BZD",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:11:20.763Z",
-    "country": {
+    "fractionName": "Cent",
+    "fraction": 100,
+    "currency_zone": {
       "id": 45,
       "name": "Belize",
       "fullName": "Belize",
-      "mapCode": "bz",
       "continent": "Americas",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "bz"
     }
   },
   {
@@ -691,31 +679,29 @@
     "name": "Bermudian Dollar",
     "code": "BMD",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:11:28.727Z",
-    "country": {
+    "fractionName": "Cent",
+    "fraction": 100,
+    "currency_zone": {
       "id": 46,
       "name": "Bermuda",
       "fullName": "Bermuda",
-      "mapCode": "bm",
       "continent": "Americas",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "bm"
     }
   },
   {
     "id": 47,
-    "name": "Bolivian Boloviano",
+    "name": "Bolivian Boliviano",
     "code": "BOB",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:11:49.038Z",
-    "country": {
+    "fractionName": "Centavo",
+    "fraction": 100,
+    "currency_zone": {
       "id": 47,
       "name": "Bolivia",
       "fullName": "Plurinational State of Bolivia",
-      "mapCode": "bo",
       "continent": "Americas",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "bo"
     }
   },
   {
@@ -723,15 +709,14 @@
     "name": "Brazilian Real",
     "code": "BRL",
     "mostRecentEdition": 2,
-    "updatedAt": "2023-02-22T06:11:55.873Z",
-    "country": {
+    "fractionName": "Centavo",
+    "fraction": 100,
+    "currency_zone": {
       "id": 48,
       "name": "Brazil",
       "fullName": "Federative Republic of Brazil",
-      "mapCode": "br",
       "continent": "Americas",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "br"
     }
   },
   {
@@ -739,15 +724,14 @@
     "name": "Canadian Dollar",
     "code": "CAD",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:12:01.693Z",
-    "country": {
+    "fractionName": "Cent",
+    "fraction": 100,
+    "currency_zone": {
       "id": 49,
       "name": "Canada",
       "fullName": "Canada",
-      "mapCode": "ca",
       "continent": "Americas",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "ca"
     }
   },
   {
@@ -755,15 +739,14 @@
     "name": "Caymanian Dollar",
     "code": "KYD",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:12:06.950Z",
-    "country": {
+    "fractionName": "Cent",
+    "fraction": 100,
+    "currency_zone": {
       "id": 50,
       "name": "Cayman Islands",
       "fullName": "Cayman Islands",
-      "mapCode": "ky",
       "continent": "Americas",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "ky"
     }
   },
   {
@@ -771,15 +754,14 @@
     "name": "Chilean Peso",
     "code": "CLP",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:12:29.872Z",
-    "country": {
+    "fractionName": "Centavo",
+    "fraction": 100,
+    "currency_zone": {
       "id": 51,
       "name": "Chile",
       "fullName": "Republic of Chile",
-      "mapCode": "cl",
       "continent": "Americas",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "cl"
     }
   },
   {
@@ -787,15 +769,14 @@
     "name": "Colombian Peso",
     "code": "COP",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:12:36.864Z",
-    "country": {
+    "fractionName": "Centavo",
+    "fraction": 100,
+    "currency_zone": {
       "id": 52,
       "name": "Colombia",
       "fullName": "Republic of Colombia",
-      "mapCode": "co",
       "continent": "Americas",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "co"
     }
   },
   {
@@ -803,15 +784,14 @@
     "name": "Costa Rican Colon",
     "code": "CRC",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:12:42.661Z",
-    "country": {
+    "fractionName": "Centimo",
+    "fraction": 100,
+    "currency_zone": {
       "id": 53,
       "name": "Costa Rica",
       "fullName": "Republic of Costa Rica",
-      "mapCode": "cr",
       "continent": "Americas",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "cr"
     }
   },
   {
@@ -819,15 +799,14 @@
     "name": "Cuban Peso",
     "code": "CUP",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:12:49.568Z",
-    "country": {
+    "fractionName": "Centavo",
+    "fraction": 100,
+    "currency_zone": {
       "id": 54,
       "name": "Cuba",
       "fullName": "Republic of Cuba",
-      "mapCode": "cu",
       "continent": "Americas",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "cu"
     }
   },
   {
@@ -835,15 +814,14 @@
     "name": "Dominican Peso",
     "code": "DOP",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:12:55.384Z",
-    "country": {
+    "fractionName": "Centavo",
+    "fraction": 100,
+    "currency_zone": {
       "id": 55,
       "name": "Dominican Republic",
       "fullName": "Dominican Republic",
-      "mapCode": "do",
       "continent": "Americas",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "do"
     }
   },
   {
@@ -851,15 +829,14 @@
     "name": "Guatemalan Quetzal",
     "code": "GTQ",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:13:01.784Z",
-    "country": {
+    "fractionName": "Centavo",
+    "fraction": 100,
+    "currency_zone": {
       "id": 56,
       "name": "Guatemala",
       "fullName": "Republic of Guatemala",
-      "mapCode": "gt",
       "continent": "Americas",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "gt"
     }
   },
   {
@@ -867,15 +844,14 @@
     "name": "Guyanese Dollar",
     "code": "GYD",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:13:06.972Z",
-    "country": {
+    "fractionName": "Cent",
+    "fraction": 100,
+    "currency_zone": {
       "id": 57,
       "name": "Guyana",
       "fullName": "Co-operative Republic of Guyana",
-      "mapCode": "gy",
       "continent": "Americas",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "gy"
     }
   },
   {
@@ -883,15 +859,14 @@
     "name": "Haitian Gourde",
     "code": "HTG",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:13:12.895Z",
-    "country": {
+    "fractionName": "Centime",
+    "fraction": 100,
+    "currency_zone": {
       "id": 58,
       "name": "Haiti",
       "fullName": "Republic of Haiti",
-      "mapCode": "ht",
       "continent": "Americas",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "ht"
     }
   },
   {
@@ -899,15 +874,14 @@
     "name": "Honduran Lempira",
     "code": "HNL",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:13:19.640Z",
-    "country": {
+    "fractionName": "Centavo",
+    "fraction": 100,
+    "currency_zone": {
       "id": 59,
       "name": "Honduras",
       "fullName": "Republic of Honduras",
-      "mapCode": "hn",
       "continent": "Americas",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "hn"
     }
   },
   {
@@ -915,15 +889,14 @@
     "name": "Jamaican Dollar",
     "code": "JMD",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:13:26.199Z",
-    "country": {
+    "fractionName": "Cent",
+    "fraction": 100,
+    "currency_zone": {
       "id": 60,
       "name": "Jamaica",
       "fullName": "Jamaica",
-      "mapCode": "jm",
       "continent": "Americas",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "jm"
     }
   },
   {
@@ -931,15 +904,14 @@
     "name": "Mexican Peso",
     "code": "MXN",
     "mostRecentEdition": 4,
-    "updatedAt": "2023-02-22T06:13:33.315Z",
-    "country": {
+    "fractionName": "Centavo",
+    "fraction": 100,
+    "currency_zone": {
       "id": 61,
       "name": "Mexico",
       "fullName": "United Mexican States",
-      "mapCode": "mx",
       "continent": "Americas",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "mx"
     }
   },
   {
@@ -947,15 +919,14 @@
     "name": "Nicaraguan Cordoba",
     "code": "NIO",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:13:38.784Z",
-    "country": {
+    "fractionName": "Centavo",
+    "fraction": 100,
+    "currency_zone": {
       "id": 62,
       "name": "Nicaragua",
       "fullName": "Republic of Paraguay",
-      "mapCode": "ni",
       "continent": "Americas",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "ni"
     }
   },
   {
@@ -963,15 +934,14 @@
     "name": "Panamanian Balboa",
     "code": "PAB",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:13:43.198Z",
-    "country": {
+    "fractionName": "Centesimo",
+    "fraction": 100,
+    "currency_zone": {
       "id": 63,
       "name": "Panama",
       "fullName": "Republic of Panama",
-      "mapCode": "pa",
       "continent": "Americas",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "pa"
     }
   },
   {
@@ -979,15 +949,14 @@
     "name": "Paraguayan Guarani",
     "code": "PYG",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:13:47.904Z",
-    "country": {
+    "fractionName": "Centimo",
+    "fraction": 100,
+    "currency_zone": {
       "id": 64,
       "name": "Paraguay",
       "fullName": "Republic of Paraguay",
-      "mapCode": "py",
       "continent": "Americas",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "py"
     }
   },
   {
@@ -995,15 +964,14 @@
     "name": "Peruvian Sol",
     "code": "PEN",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:13:52.608Z",
-    "country": {
+    "fractionName": "Centimo",
+    "fraction": 100,
+    "currency_zone": {
       "id": 65,
       "name": "Peru",
       "fullName": "Republic of Peru",
-      "mapCode": "pe",
       "continent": "Americas",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "pe"
     }
   },
   {
@@ -1011,15 +979,14 @@
     "name": "Surinamese Dollar",
     "code": "SRD",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:13:57.143Z",
-    "country": {
+    "fractionName": "Cent",
+    "fraction": 100,
+    "currency_zone": {
       "id": 66,
       "name": "Suriname",
       "fullName": "Republic of Suriname",
-      "mapCode": "sr",
       "continent": "Americas",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "sr"
     }
   },
   {
@@ -1027,15 +994,14 @@
     "name": "US Dollar",
     "code": "USD",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:14:04.216Z",
-    "country": {
+    "fractionName": "Cent",
+    "fraction": 100,
+    "currency_zone": {
       "id": 67,
       "name": "United States of America",
       "fullName": "United States of America",
-      "mapCode": "us",
       "continent": "Americas",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "us"
     }
   },
   {
@@ -1043,31 +1009,29 @@
     "name": "Uruguayan Peso",
     "code": "UYU",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:14:18.065Z",
-    "country": {
+    "fractionName": "Centesimo",
+    "fraction": 100,
+    "currency_zone": {
       "id": 68,
       "name": "Uruguay",
       "fullName": "Oriental Republic of Uruguay",
-      "mapCode": "uy",
       "continent": "Americas",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "uy"
     }
   },
   {
     "id": 69,
-    "name": "Venezuelan Bolovar",
+    "name": "Venezuelan Bolivar",
     "code": "VEF",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:14:25.664Z",
-    "country": {
+    "fractionName": "Centimo",
+    "fraction": 100,
+    "currency_zone": {
       "id": 69,
       "name": "Venezuela",
       "fullName": "Bolivarian Republic of Venezuela",
-      "mapCode": "vn",
       "continent": "Americas",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "noCode"
     }
   },
   {
@@ -1075,15 +1039,14 @@
     "name": "Afghan Afghani",
     "code": "AFN",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:14:32.984Z",
-    "country": {
+    "fractionName": "Pul",
+    "fraction": 100,
+    "currency_zone": {
       "id": 70,
       "name": "Afghanistan",
       "fullName": "Islamic Republic of Afghanistan",
-      "mapCode": "af",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "af"
     }
   },
   {
@@ -1091,31 +1054,29 @@
     "name": "Armenian Dram",
     "code": "AMD",
     "mostRecentEdition": 3,
-    "updatedAt": "2023-02-22T06:14:40.536Z",
-    "country": {
+    "fractionName": "Luma",
+    "fraction": 100,
+    "currency_zone": {
       "id": 71,
       "name": "Armenia",
       "fullName": "Republic of Armenia",
-      "mapCode": "am",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "am"
     }
   },
   {
     "id": 72,
-    "name": "Azerbaijan Manat",
+    "name": "Azerbai01/Manat",
     "code": "AZN",
     "mostRecentEdition": 3,
-    "updatedAt": "2023-02-22T06:14:44.648Z",
-    "country": {
+    "fractionName": "Gapik",
+    "fraction": 100,
+    "currency_zone": {
       "id": 72,
       "name": "Azerbaijan",
       "fullName": "Republic of Azerbaijan",
-      "mapCode": "az",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "az"
     }
   },
   {
@@ -1123,15 +1084,14 @@
     "name": "Bahraini Dinar",
     "code": "BHD",
     "mostRecentEdition": 4,
-    "updatedAt": "2023-02-22T06:14:50.256Z",
-    "country": {
+    "fractionName": "Fils",
+    "fraction": 1000,
+    "currency_zone": {
       "id": 73,
       "name": "Bahrain",
       "fullName": "Kingdom of Bahrain",
-      "mapCode": "bh",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "bh"
     }
   },
   {
@@ -1139,15 +1099,14 @@
     "name": "Bangladeshi Taka",
     "code": "BDT",
     "mostRecentEdition": 4,
-    "updatedAt": "2023-02-22T06:14:55.067Z",
-    "country": {
+    "fractionName": "Poisha",
+    "fraction": 100,
+    "currency_zone": {
       "id": 74,
       "name": "Bangladesh",
       "fullName": "People's Republic of Bangladesh",
-      "mapCode": "bd",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "bd"
     }
   },
   {
@@ -1155,15 +1114,14 @@
     "name": "Bhutanese Ngultrum",
     "code": "BTN",
     "mostRecentEdition": 2,
-    "updatedAt": "2023-02-22T06:14:59.825Z",
-    "country": {
+    "fractionName": "Chetrum",
+    "fraction": 100,
+    "currency_zone": {
       "id": 75,
       "name": "Bhutan",
       "fullName": "Kingdom of Bhutan",
-      "mapCode": "bt",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "bt"
     }
   },
   {
@@ -1171,15 +1129,14 @@
     "name": "Bruneian Dollar",
     "code": "BND",
     "mostRecentEdition": 6,
-    "updatedAt": "2023-02-22T06:15:06.960Z",
-    "country": {
+    "fractionName": "Sen",
+    "fraction": 100,
+    "currency_zone": {
       "id": 76,
       "name": "Brunei",
       "fullName": "Negara Brunei Darussalam",
-      "mapCode": "bn",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "bn"
     }
   },
   {
@@ -1187,15 +1144,14 @@
     "name": "Cambodian Riel",
     "code": "KHR",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:15:12.016Z",
-    "country": {
+    "fractionName": "Sen",
+    "fraction": 100,
+    "currency_zone": {
       "id": 77,
       "name": "Cambodia",
       "fullName": "Kingdom of Cambodia",
-      "mapCode": "kh",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "kh"
     }
   },
   {
@@ -1203,15 +1159,14 @@
     "name": "Chinese Yuan Renminbi",
     "code": "CNY",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:15:17.817Z",
-    "country": {
+    "fractionName": "Fen",
+    "fraction": 100,
+    "currency_zone": {
       "id": 78,
       "name": "China",
       "fullName": "People's Republic of China",
-      "mapCode": "cn",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "cn"
     }
   },
   {
@@ -1219,15 +1174,14 @@
     "name": "Emirati Dirham",
     "code": "AED",
     "mostRecentEdition": 3,
-    "updatedAt": "2023-02-22T06:15:25.585Z",
-    "country": {
+    "fractionName": "Fils",
+    "fraction": 100,
+    "currency_zone": {
       "id": 79,
       "name": "Emirates",
       "fullName": "United Arab Emirates",
-      "mapCode": "ae",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "noCode"
     }
   },
   {
@@ -1235,15 +1189,14 @@
     "name": "Georgian Lari",
     "code": "GEL",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:15:32.513Z",
-    "country": {
+    "fractionName": "Tetri",
+    "fraction": 100,
+    "currency_zone": {
       "id": 80,
       "name": "Georgia",
       "fullName": "Georgia",
-      "mapCode": "ge",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "ge"
     }
   },
   {
@@ -1251,1152 +1204,1066 @@
     "name": "Hong Kong Dollar",
     "code": "HKD",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:15:41.352Z",
-    "country": {
+    "fractionName": "Cent",
+    "fraction": 100,
+    "currency_zone": {
       "id": 81,
       "name": "Hong Kong",
       "fullName": "Hong Kong Special Administrative Region",
-      "mapCode": "hk",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "hk"
     }
   },
   {
     "id": 82,
-    "name": "Indian Rupee",
-    "code": "INR",
+    "name": "Hong Kong Dollar (BoC)",
+    "code": "HKD",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:15:47.162Z",
-    "country": {
-      "id": 82,
-      "name": "India",
-      "fullName": "Republic of India",
-      "mapCode": "in",
-      "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
-    }
+    "fractionName": "Cent",
+    "fraction": 100
   },
   {
     "id": 83,
-    "name": "Indonesian Rupiah",
-    "code": "IDR",
-    "mostRecentEdition": 9,
-    "updatedAt": "2023-02-22T06:15:52.168Z",
-    "country": {
-      "id": 83,
-      "name": "Indonesia",
-      "fullName": "Republic of Indonesia",
-      "mapCode": "nevermind6",
-      "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
-    }
+    "name": "Hong Kong Dollar (HSBC)",
+    "code": "HKD",
+    "mostRecentEdition": 100,
+    "fractionName": "Cent",
+    "fraction": 100
   },
   {
     "id": 84,
-    "name": "Iranian Rial",
-    "code": "IRR",
-    "mostRecentEdition": 3,
-    "updatedAt": "2023-02-22T06:15:55.880Z",
-    "country": {
-      "id": 84,
-      "name": "Iran",
-      "fullName": "Islamic Republic of Iran",
-      "mapCode": "ir",
-      "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
-    }
+    "name": "Hong Kong Dollar (SCB)",
+    "code": "HKD",
+    "mostRecentEdition": 100,
+    "fractionName": "Cent",
+    "fraction": 100
   },
   {
     "id": 85,
-    "name": "Iraqi Dinar",
-    "code": "IQD",
-    "mostRecentEdition": 3,
-    "updatedAt": "2023-02-22T06:16:00.623Z",
-    "country": {
-      "id": 85,
-      "name": "Iraq",
-      "fullName": "Republic of Iraq",
-      "mapCode": "iq",
+    "name": "Indian Rupee",
+    "code": "INR",
+    "mostRecentEdition": 100,
+    "fractionName": "Paisa",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 82,
+      "name": "India",
+      "fullName": "Republic of India",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "in"
     }
   },
   {
     "id": 86,
-    "name": "Israeli Shekel",
-    "code": "ILS",
-    "mostRecentEdition": 3,
-    "updatedAt": "2023-02-22T06:16:05.401Z",
-    "country": {
-      "id": 86,
-      "name": "Israel",
-      "fullName": "State of Israel",
-      "mapCode": "il",
+    "name": "Indonesian Rupiah",
+    "code": "IDR",
+    "mostRecentEdition": 9,
+    "fractionName": "Sen",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 83,
+      "name": "Indonesia",
+      "fullName": "Republic of Indonesia",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "id"
     }
   },
   {
     "id": 87,
-    "name": "Japanese Yen",
-    "code": "JPY",
-    "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:16:09.851Z",
-    "country": {
-      "id": 87,
-      "name": "Japan",
-      "fullName": "Japan",
-      "mapCode": "jp",
+    "name": "Iranian Rial",
+    "code": "IRR",
+    "mostRecentEdition": 3,
+    "fractionName": "Dinar",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 84,
+      "name": "Iran",
+      "fullName": "Islamic Republic of Iran",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "noCode"
     }
   },
   {
     "id": 88,
-    "name": "Jordanian Dinar",
-    "code": "JOD",
-    "mostRecentEdition": 5,
-    "updatedAt": "2023-02-22T06:16:14.520Z",
-    "country": {
-      "id": 88,
-      "name": "Jordan",
-      "fullName": "The Hashemite Kingdom of Jordan",
-      "mapCode": "jo",
+    "name": "Iraqi Dinar",
+    "code": "IQD",
+    "mostRecentEdition": 3,
+    "fractionName": "Fils",
+    "fraction": 1000,
+    "currency_zone": {
+      "id": 85,
+      "name": "Iraq",
+      "fullName": "Republic of Iraq",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "iq"
     }
   },
   {
     "id": 89,
-    "name": "Kazakhstani Tenge",
-    "code": "KZT",
+    "name": "Israeli Shekel",
+    "code": "ILS",
     "mostRecentEdition": 3,
-    "updatedAt": "2023-02-22T06:16:19.192Z",
-    "country": {
-      "id": 89,
-      "name": "Kazakhstan",
-      "fullName": "Republic of Kazakhstan",
-      "mapCode": "kz",
+    "fractionName": "Agora",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 86,
+      "name": "Israel",
+      "fullName": "State of Israel",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "il"
     }
   },
   {
     "id": 90,
-    "name": "Kuwaiti Dinar",
-    "code": "KWD",
-    "mostRecentEdition": 6,
-    "updatedAt": "2023-02-22T06:16:23.785Z",
-    "country": {
-      "id": 90,
-      "name": "Kuwait",
-      "fullName": "State of Kuwait",
-      "mapCode": "kw",
+    "name": "Japanese Yen",
+    "code": "JPY",
+    "mostRecentEdition": 100,
+    "fractionName": "Sen",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 87,
+      "name": "Japan",
+      "fullName": "Japan",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "jp"
     }
   },
   {
     "id": 91,
-    "name": "Kyrgyzstani Som",
-    "code": "KGS",
+    "name": "Jordanian Dinar",
+    "code": "JOD",
     "mostRecentEdition": 4,
-    "updatedAt": "2023-02-22T06:16:32.090Z",
-    "country": {
-      "id": 91,
-      "name": "Kyrgyzstan",
-      "fullName": "Kyrgyz Republic",
-      "mapCode": "kg",
+    "fractionName": "Piastre",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 88,
+      "name": "Jordan",
+      "fullName": "The Hashemite Kingdom of Jordan",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "jo"
     }
   },
   {
     "id": 92,
-    "name": "Lao Kip",
-    "code": "LAK",
-    "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:16:37.425Z",
-    "country": {
-      "id": 92,
-      "name": "Laos",
-      "fullName": "Lao People's Democratic Republic",
-      "mapCode": "la",
+    "name": "Kazakhstani Tenge",
+    "code": "KZT",
+    "mostRecentEdition": 3,
+    "fractionName": "Tiyn",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 89,
+      "name": "Kazakhstan",
+      "fullName": "Republic of Kazakhstan",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "kz"
     }
   },
   {
     "id": 93,
-    "name": "Lebanese Pound",
-    "code": "LBP",
-    "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:16:44.520Z",
-    "country": {
-      "id": 93,
-      "name": "Lebanon",
-      "fullName": "Lebanese Republic",
-      "mapCode": "lb",
+    "name": "Kuwaiti Dinar",
+    "code": "KWD",
+    "mostRecentEdition": 6,
+    "fractionName": "Fils",
+    "fraction": 1000,
+    "currency_zone": {
+      "id": 90,
+      "name": "Kuwait",
+      "fullName": "State of Kuwait",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "kw"
     }
   },
   {
     "id": 94,
-    "name": "Macau Pataca",
-    "code": "MOP",
-    "mostRecentEdition": 2,
-    "updatedAt": "2023-02-22T06:16:49.391Z",
-    "country": {
-      "id": 94,
-      "name": "Macau",
-      "fullName": "Macao Special Administrative Region of the People's Republic of China",
-      "mapCode": "mo",
+    "name": "Kyrgyzstani Som",
+    "code": "KGS",
+    "mostRecentEdition": 4,
+    "fractionName": "Tyiyn",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 91,
+      "name": "Kyrgyzstan",
+      "fullName": "Kyrgyz Republic",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "kg"
     }
   },
   {
     "id": 95,
-    "name": "Malaysian Ringgit",
-    "code": "MYR",
-    "mostRecentEdition": 4,
-    "updatedAt": "2023-02-22T06:17:02.046Z",
-    "country": {
-      "id": 95,
-      "name": "Malaysia",
-      "fullName": "Malaysia",
-      "mapCode": "my",
+    "name": "Lao Kip",
+    "code": "LAK",
+    "mostRecentEdition": 100,
+    "fractionName": "Att",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 92,
+      "name": "Laos",
+      "fullName": "Lao People's Democratic Republic",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "noCode"
     }
   },
   {
     "id": 96,
-    "name": "Maldivian Rufiyaa",
-    "code": "MVR",
-    "mostRecentEdition": 3,
-    "updatedAt": "2023-02-22T06:17:11.864Z",
-    "country": {
-      "id": 96,
-      "name": "Maldives",
-      "fullName": "Republic of Maldives",
-      "mapCode": "mv",
+    "name": "Lebanese Pound",
+    "code": "LBP",
+    "mostRecentEdition": 100,
+    "fractionName": "Piastre",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 93,
+      "name": "Lebanon",
+      "fullName": "Lebanese Republic",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "lb"
     }
   },
   {
     "id": 97,
-    "name": "Mongolian Tughrik",
-    "code": "MNT",
-    "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:17:17.144Z",
-    "country": {
-      "id": 97,
-      "name": "Mongolia",
-      "fullName": "Mongolia",
-      "mapCode": "mn",
+    "name": "Macau Pataca",
+    "code": "MOP",
+    "mostRecentEdition": 2,
+    "fractionName": "Avo",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 94,
+      "name": "Macau",
+      "fullName": "Macao Special Administrative Region of the People's Republic of China",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "noCode"
     }
   },
   {
     "id": 98,
-    "name": "Burmese Kyat",
-    "code": "MMK",
-    "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:17:24.585Z",
-    "country": {
-      "id": 98,
-      "name": "Myanmar",
-      "fullName": "Republic of the Union of Myanmar",
-      "mapCode": "mm",
-      "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
-    }
+    "name": "Macau Pataca (BoC)",
+    "code": "MOP",
+    "mostRecentEdition": 2,
+    "fractionName": "Avo",
+    "fraction": 100
   },
   {
     "id": 99,
-    "name": "Nepalese Rupee",
-    "code": "NPR",
-    "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:17:30.273Z",
-    "country": {
-      "id": 99,
-      "name": "Nepal",
-      "fullName": "Federal Democratic Republic of Nepal",
-      "mapCode": "np",
+    "name": "Malaysian Ringgit",
+    "code": "MYR",
+    "mostRecentEdition": 4,
+    "fractionName": "Sen",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 95,
+      "name": "Malaysia",
+      "fullName": "Malaysia",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "my"
     }
   },
   {
     "id": 100,
-    "name": "North Korean Won",
-    "code": "KPW",
-    "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:17:35.690Z",
-    "country": {
-      "id": 100,
-      "name": "North Korea",
-      "fullName": "Democratic People's Republic of Korea",
-      "mapCode": "kp",
+    "name": "Maldivian Rufiyaa",
+    "code": "MVR",
+    "mostRecentEdition": 3,
+    "fractionName": "Laari",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 96,
+      "name": "Maldives",
+      "fullName": "Republic of Maldives",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "mv"
     }
   },
   {
     "id": 101,
-    "name": "Omani Rial",
-    "code": "OMR",
-    "mostRecentEdition": 6,
-    "updatedAt": "2023-02-22T06:17:42.456Z",
-    "country": {
-      "id": 101,
-      "name": "Oman",
-      "fullName": "Sultanate of Oman",
-      "mapCode": "om",
+    "name": "Mongolian Tughrik",
+    "code": "MNT",
+    "mostRecentEdition": 100,
+    "fractionName": "Mongo",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 97,
+      "name": "Mongolia",
+      "fullName": "Mongolia",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "mn"
     }
   },
   {
     "id": 102,
-    "name": "Pakistani Rupee",
-    "code": "PKR",
+    "name": "Burmese Kyat",
+    "code": "MMK",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:17:47.048Z",
-    "country": {
-      "id": 102,
-      "name": "Pakistan",
-      "fullName": "Islamic Republic of Pakistan",
-      "mapCode": "pk",
+    "fractionName": "Pya",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 98,
+      "name": "Myanmar",
+      "fullName": "Republic of the Union of Myanmar",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "mm"
     }
   },
   {
     "id": 103,
-    "name": "Philippine Peso",
-    "code": "PHP",
+    "name": "Nepalese Rupee",
+    "code": "NPR",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:17:52.353Z",
-    "country": {
-      "id": 103,
-      "name": "Philippine",
-      "fullName": "Republic of the Philippines",
-      "mapCode": "ph",
+    "fractionName": "Paisa",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 99,
+      "name": "Nepal",
+      "fullName": "Federal Democratic Republic of Nepal",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "np"
     }
   },
   {
     "id": 104,
-    "name": "Qatari Riyal",
-    "code": "QAR",
-    "mostRecentEdition": 4,
-    "updatedAt": "2023-02-22T06:17:56.288Z",
-    "country": {
-      "id": 104,
-      "name": "Qatar",
-      "fullName": "State of Qatar",
-      "mapCode": "qa",
+    "name": "North Korean Won",
+    "code": "KPW",
+    "mostRecentEdition": 100,
+    "fractionName": "Chon",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 100,
+      "name": "North Korea",
+      "fullName": "Democratic People's Republic of Korea",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "noCode"
     }
   },
   {
     "id": 105,
-    "name": "Russian Ruble",
-    "code": "RUB",
-    "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:18:05.432Z",
-    "country": {
-      "id": 105,
-      "name": "Russia",
-      "fullName": "Russian Federation",
-      "mapCode": "ru",
+    "name": "Omani Rial",
+    "code": "OMR",
+    "mostRecentEdition": 6,
+    "fractionName": "Baisa",
+    "fraction": 1000,
+    "currency_zone": {
+      "id": 101,
+      "name": "Oman",
+      "fullName": "Sultanate of Oman",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "om"
     }
   },
   {
     "id": 106,
-    "name": "Saudi Arabian Riyal",
-    "code": "SAR",
-    "mostRecentEdition": 6,
-    "updatedAt": "2023-02-22T06:18:10.831Z",
-    "country": {
-      "id": 106,
-      "name": "Saudi Arabia",
-      "fullName": "Kingdom of Saudi Arabia",
-      "mapCode": "sa",
+    "name": "Pakistani Rupee",
+    "code": "PKR",
+    "mostRecentEdition": 100,
+    "fractionName": "Paisa",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 102,
+      "name": "Pakistan",
+      "fullName": "Islamic Republic of Pakistan",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "pk"
     }
   },
   {
     "id": 107,
-    "name": "Singapore Dollar",
-    "code": "SGD",
-    "mostRecentEdition": 4,
-    "updatedAt": "2023-02-22T06:18:15.321Z",
-    "country": {
-      "id": 107,
-      "name": "Singapore",
-      "fullName": "Republic of Singapore",
-      "mapCode": "sg",
+    "name": "Philippine Peso",
+    "code": "PHP",
+    "mostRecentEdition": 100,
+    "fractionName": "Sentimo",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 103,
+      "name": "Philippine",
+      "fullName": "Republic of the Philippines",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "noCode"
     }
   },
   {
     "id": 108,
-    "name": "South Korean Won",
-    "code": "KRW",
-    "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:18:21.296Z",
-    "country": {
-      "id": 108,
-      "name": "South Korea",
-      "fullName": "Republic of Korea",
-      "mapCode": "kr",
+    "name": "Qatari Riyal",
+    "code": "QAR",
+    "mostRecentEdition": 4,
+    "fractionName": "Dirham",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 104,
+      "name": "Qatar",
+      "fullName": "State of Qatar",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "qa"
     }
   },
   {
     "id": 109,
-    "name": "Sri Lankan Rupee",
-    "code": "LKR",
+    "name": "Russian Ruble",
+    "code": "RUB",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:18:26.127Z",
-    "country": {
-      "id": 109,
-      "name": "Sri Lanka",
-      "fullName": "Democratic Socialist Republic of Sri Lanka",
-      "mapCode": "lk",
+    "fractionName": "Kopek",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 105,
+      "name": "Russia",
+      "fullName": "Russian Federation",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "noCode"
     }
   },
   {
     "id": 110,
-    "name": "Syrian Pound",
-    "code": "SYP",
-    "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:18:31.378Z",
-    "country": {
-      "id": 110,
-      "name": "Syria",
-      "fullName": "Syrian Arab Republic",
-      "mapCode": "sy",
+    "name": "Saudi Arabian Riyal",
+    "code": "SAR",
+    "mostRecentEdition": 6,
+    "fractionName": "Halala",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 106,
+      "name": "Saudi Arabia",
+      "fullName": "Kingdom of Saudi Arabia",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "sa"
     }
   },
   {
     "id": 111,
-    "name": "Taiwan New Dollar",
-    "code": "TWD",
-    "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:18:37.191Z",
-    "country": {
-      "id": 111,
-      "name": "Taiwan",
-      "fullName": "Republic of China",
-      "mapCode": "tw",
+    "name": "Singapore Dollar",
+    "code": "SGD",
+    "mostRecentEdition": 4,
+    "fractionName": "Cent",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 107,
+      "name": "Singapore",
+      "fullName": "Republic of Singapore",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "sg"
     }
   },
   {
     "id": 112,
-    "name": "Tajikistani Somoni",
-    "code": "TJS",
+    "name": "South Korean Won",
+    "code": "KRW",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:18:50.361Z",
-    "country": {
-      "id": 112,
-      "name": "Tajikistan",
-      "fullName": "Republic of Tajikistan",
-      "mapCode": "tj",
+    "fractionName": "Jeon",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 108,
+      "name": "South Korea",
+      "fullName": "Republic of Korea",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "noCode"
     }
   },
   {
     "id": 113,
-    "name": "Thai Baht",
-    "code": "THB",
-    "mostRecentEdition": 17,
-    "updatedAt": "2023-02-22T06:18:59.096Z",
-    "country": {
-      "id": 113,
-      "name": "Thailand",
-      "fullName": "Kingdom of Thailand",
-      "mapCode": "th",
+    "name": "Sri Lankan Rupee",
+    "code": "LKR",
+    "mostRecentEdition": 100,
+    "fractionName": "Cent",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 109,
+      "name": "Sri Lanka",
+      "fullName": "Democratic Socialist Republic of Sri Lanka",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "lk"
     }
   },
   {
     "id": 114,
-    "name": "Turkish Lira",
-    "code": "TRY",
-    "mostRecentEdition": 9,
-    "updatedAt": "2023-02-22T06:19:05.096Z",
-    "country": {
-      "id": 114,
-      "name": "Turkey",
-      "fullName": "Republic of Turkey",
-      "mapCode": "tr",
+    "name": "Syrian Pound",
+    "code": "SYP",
+    "mostRecentEdition": 100,
+    "fractionName": "Piastre",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 110,
+      "name": "Syria",
+      "fullName": "Syrian Arab Republic",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "noCode"
     }
   },
   {
     "id": 115,
-    "name": "Turkmenistani Manat",
-    "code": "TMT",
-    "mostRecentEdition": 3,
-    "updatedAt": "2023-02-22T06:19:14.873Z",
-    "country": {
-      "id": 115,
-      "name": "Turkmenistan",
-      "fullName": "Turkmenistan",
-      "mapCode": "tm",
+    "name": "Taiwan New Dollar",
+    "code": "TWD",
+    "mostRecentEdition": 100,
+    "fractionName": "Fen",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 111,
+      "name": "Taiwan",
+      "fullName": "Republic of China",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "noCode"
     }
   },
   {
     "id": 116,
-    "name": "Uzbekistani Som",
-    "code": "UZS",
-    "mostRecentEdition": 2,
-    "updatedAt": "2023-02-22T06:19:20.168Z",
-    "country": {
-      "id": 116,
-      "name": "Uzbekistan",
-      "fullName": "Republic of Uzbekistan",
-      "mapCode": "uz",
+    "name": "Tajikistani Somoni",
+    "code": "TJS",
+    "mostRecentEdition": 100,
+    "fractionName": "Diram",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 112,
+      "name": "Tajikistan",
+      "fullName": "Republic of Tajikistan",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "tj"
     }
   },
   {
     "id": 117,
-    "name": "Vietnamese Dong",
-    "code": "VND",
-    "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:19:26.145Z",
-    "country": {
-      "id": 117,
-      "name": "Vietnam",
-      "fullName": "Socialist Republic of Vietnam",
-      "mapCode": "vn",
+    "name": "Thai Baht",
+    "code": "THB",
+    "mostRecentEdition": 17,
+    "fractionName": "Satang",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 113,
+      "name": "Thailand",
+      "fullName": "Kingdom of Thailand",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "th"
     }
   },
   {
     "id": 118,
-    "name": "Yemeni Rial",
-    "code": "YER",
-    "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:19:31.416Z",
-    "country": {
-      "id": 118,
-      "name": "Yemen",
-      "fullName": "Republic of Yemen",
-      "mapCode": "ye",
+    "name": "Turkish Lira",
+    "code": "TRY",
+    "mostRecentEdition": 9,
+    "fractionName": "Kurus",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 114,
+      "name": "Turkey",
+      "fullName": "Republic of Turkey",
       "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "tr"
     }
   },
   {
     "id": 119,
-    "name": "Albanian Lek",
-    "code": "ALL",
+    "name": "Turkmenistani Manat",
+    "code": "TMT",
     "mostRecentEdition": 3,
-    "updatedAt": "2023-02-22T06:19:37.090Z",
-    "country": {
-      "id": 119,
-      "name": "Albania",
-      "fullName": "Republic of Albania",
-      "mapCode": "al",
-      "continent": "Europe",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+    "fractionName": "Tennesi",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 115,
+      "name": "Turkmenistan",
+      "fullName": "Turkmenistan",
+      "continent": "Asia",
+      "mapCode": "tm"
     }
   },
   {
     "id": 120,
-    "name": "Belarusian Ruble",
-    "code": "BYN",
-    "mostRecentEdition": 3,
-    "updatedAt": "2023-02-22T06:19:42.120Z",
-    "country": {
-      "id": 120,
-      "name": "Belarus",
-      "fullName": "Republic of Belarus",
-      "mapCode": "by",
-      "continent": "Europe",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+    "name": "Uzbekistani Som",
+    "code": "UZS",
+    "mostRecentEdition": 2,
+    "fractionName": "Tiyin",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 116,
+      "name": "Uzbekistan",
+      "fullName": "Republic of Uzbekistan",
+      "continent": "Asia",
+      "mapCode": "uz"
     }
   },
   {
     "id": 121,
-    "name": "Bosnian Convertible Mark",
-    "code": "BAM",
-    "mostRecentEdition": 1,
-    "updatedAt": "2023-02-22T06:19:48.697Z",
-    "country": {
-      "id": 121,
-      "name": "Bosnia",
-      "fullName": "Bosnia and Herzegovina",
-      "mapCode": "ba",
-      "continent": "Europe",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+    "name": "Vietnamese Dong",
+    "code": "VND",
+    "mostRecentEdition": 100,
+    "fractionName": "Xu",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 117,
+      "name": "Vietnam",
+      "fullName": "Socialist Republic of Vietnam",
+      "continent": "Asia",
+      "mapCode": "noCode"
     }
   },
   {
     "id": 122,
-    "name": "Bulgarian Lev",
-    "code": "BGN",
+    "name": "Yemeni Rial",
+    "code": "YER",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:19:53.209Z",
-    "country": {
-      "id": 122,
-      "name": "Bulgaria",
-      "fullName": "Republic of Bulgaria",
-      "mapCode": "bg",
-      "continent": "Europe",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+    "fractionName": "Fils",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 118,
+      "name": "Yemen",
+      "fullName": "Republic of Yemen",
+      "continent": "Asia",
+      "mapCode": "ye"
     }
   },
   {
     "id": 123,
-    "name": "Croatian Kuna",
-    "code": "HRK",
-    "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:19:57.760Z",
-    "country": {
-      "id": 123,
-      "name": "Croatia",
-      "fullName": "Republic of Croatia",
-      "mapCode": "hr",
+    "name": "Albanian Lek",
+    "code": "ALL",
+    "mostRecentEdition": 3,
+    "fractionName": "Qindarki",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 119,
+      "name": "Albania",
+      "fullName": "Republic of Albania",
       "continent": "Europe",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "al"
     }
   },
   {
     "id": 124,
-    "name": "Czech Koruna",
-    "code": "CZK",
-    "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:20:02.800Z",
-    "country": {
-      "id": 124,
-      "name": "Czech",
-      "fullName": "Czech Republic",
-      "mapCode": "cz",
+    "name": "Belarusian Ruble",
+    "code": "BYN",
+    "mostRecentEdition": 3,
+    "fractionName": "Kapyeyka",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 120,
+      "name": "Belarus",
+      "fullName": "Republic of Belarus",
       "continent": "Europe",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "by"
     }
   },
   {
     "id": 125,
-    "name": "Danish Krone",
-    "code": "DKK",
-    "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:20:08.633Z",
-    "country": {
-      "id": 125,
-      "name": "Denmark",
-      "fullName": "Kingdom of Denmark",
-      "mapCode": "dk",
+    "name": "Bosnian Convertible Mark",
+    "code": "BAM",
+    "mostRecentEdition": 1,
+    "fractionName": "Fening",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 121,
+      "name": "Bosnia",
+      "fullName": "Bosnia and Herzegovina",
       "continent": "Europe",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "ba"
     }
   },
   {
     "id": 126,
-    "name": "Euro",
-    "code": "EUR",
-    "mostRecentEdition": 2,
-    "updatedAt": "2023-02-22T06:20:14.105Z",
-    "country": {
-      "id": 126,
-      "name": "European Union",
-      "fullName": "European Union",
-      "mapCode": "eu",
+    "name": "Bulgarian Lev",
+    "code": "BGN",
+    "mostRecentEdition": 100,
+    "fractionName": "Stotinka",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 122,
+      "name": "Bulgaria",
+      "fullName": "Republic of Bulgaria",
       "continent": "Europe",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "bg"
     }
   },
   {
     "id": 127,
-    "name": "Falkland Island Pound",
-    "code": "FKP",
+    "name": "Croatian Kuna",
+    "code": "HRK",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:20:17.928Z",
-    "country": {
-      "id": 127,
-      "name": "Falkland Islands",
-      "fullName": "Falkland Islands",
-      "mapCode": "fk",
+    "fractionName": "Lipa",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 123,
+      "name": "Croatia",
+      "fullName": "Republic of Croatia",
       "continent": "Europe",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "hr"
     }
   },
   {
     "id": 128,
-    "name": "Gibraltar Pound",
-    "code": "GIP",
+    "name": "Czech Koruna",
+    "code": "CZK",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:20:23.145Z",
-    "country": {
-      "id": 128,
-      "name": "Gibraltar",
-      "fullName": "Gibraltar",
-      "mapCode": "gi",
+    "fractionName": "Haler",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 124,
+      "name": "Czech",
+      "fullName": "Czech Republic",
       "continent": "Europe",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "noCode"
     }
   },
   {
     "id": 129,
-    "name": "Hungarian Forint",
-    "code": "HUF",
+    "name": "Danish Krone",
+    "code": "DKK",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:20:30.952Z",
-    "country": {
-      "id": 129,
-      "name": "Hungary",
-      "fullName": "Hungary",
-      "mapCode": "hu",
+    "fractionName": "Ore",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 125,
+      "name": "Denmark",
+      "fullName": "Kingdom of Denmark",
       "continent": "Europe",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "dk"
     }
   },
   {
     "id": 130,
-    "name": "Icelandic Krona",
-    "code": "ISK",
-    "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:20:35.343Z",
-    "country": {
-      "id": 130,
-      "name": "Iceland",
-      "fullName": "Iceland",
-      "mapCode": "is",
+    "name": "Euro",
+    "code": "EUR",
+    "mostRecentEdition": 2,
+    "fractionName": "Cent",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 126,
+      "name": "European Union",
+      "fullName": "European Union",
       "continent": "Europe",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "noCode"
     }
   },
   {
     "id": 131,
-    "name": "Macedonian Denar",
-    "code": "MKD",
+    "name": "Falkland Island Pound",
+    "code": "FKP",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:20:43.800Z",
-    "country": {
-      "id": 131,
-      "name": "Macedonia",
-      "fullName": "Republic of Macedonia",
-      "mapCode": "mk",
+    "fractionName": "Penny",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 127,
+      "name": "Falkland Islands",
+      "fullName": "Falkland Islands",
       "continent": "Europe",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "noCode"
     }
   },
   {
     "id": 132,
-    "name": "Moldovan Leu",
-    "code": "MDL",
+    "name": "Gibraltar Pound",
+    "code": "GIP",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:20:48.592Z",
-    "country": {
-      "id": 132,
-      "name": "Moldova",
-      "fullName": "Republic of Moldova",
-      "mapCode": "md",
+    "fractionName": "Penny",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 128,
+      "name": "Gibraltar",
+      "fullName": "Gibraltar",
       "continent": "Europe",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "gi"
     }
   },
   {
     "id": 133,
-    "name": "Norwegian Krone",
-    "code": "NOK",
+    "name": "Hungarian Forint",
+    "code": "HUF",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:20:54.976Z",
-    "country": {
-      "id": 133,
-      "name": "Norway",
-      "fullName": "Kingdom of Norway",
-      "mapCode": "no",
+    "fractionName": "Filler",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 129,
+      "name": "Hungary",
+      "fullName": "Hungary",
       "continent": "Europe",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "hu"
     }
   },
   {
     "id": 134,
-    "name": "Polish Zloty",
-    "code": "PLN",
+    "name": "Icelandic Krona",
+    "code": "ISK",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:21:02.284Z",
-    "country": {
-      "id": 134,
-      "name": "Poland",
-      "fullName": "Republic of Poland",
-      "mapCode": "pl",
+    "fractionName": "Eyrir",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 130,
+      "name": "Iceland",
+      "fullName": "Iceland",
       "continent": "Europe",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "is"
     }
   },
   {
     "id": 135,
-    "name": "Romanian Leu",
-    "code": "RON",
+    "name": "Macedonian Denar",
+    "code": "MKD",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:21:08.000Z",
-    "country": {
-      "id": 135,
-      "name": "Romania",
-      "fullName": "Romania",
-      "mapCode": "ro",
+    "fractionName": "Deni",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 131,
+      "name": "Macedonia",
+      "fullName": "Republic of Macedonia",
       "continent": "Europe",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "noCode"
     }
   },
   {
     "id": 136,
-    "name": "Serbian Dinar",
-    "code": "RSD",
+    "name": "Moldovan Leu",
+    "code": "MDL",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:21:12.473Z",
-    "country": {
-      "id": 136,
-      "name": "Serbia",
-      "fullName": "Republic of Serbia",
-      "mapCode": "rs",
+    "fractionName": "Ban",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 132,
+      "name": "Moldova",
+      "fullName": "Republic of Moldova",
       "continent": "Europe",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "noCode"
     }
   },
   {
     "id": 137,
-    "name": "Swedish Krona",
-    "code": "SEK",
+    "name": "Norwegian Krone",
+    "code": "NOK",
     "mostRecentEdition": 100,
-    "updatedAt": "2023-02-22T06:21:19.578Z",
-    "country": {
-      "id": 137,
-      "name": "Sweden",
-      "fullName": "Kingdom of Sweden",
-      "mapCode": "se",
+    "fractionName": "Ore",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 133,
+      "name": "Norway",
+      "fullName": "Kingdom of Norway",
       "continent": "Europe",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "no"
     }
   },
   {
     "id": 138,
-    "name": "Swiss Franc",
-    "code": "CHF",
-    "mostRecentEdition": 9,
-    "updatedAt": "2023-02-22T06:21:28.576Z",
-    "country": {
-      "id": 138,
-      "name": "Switzerland",
-      "fullName": "Swiss Confederation",
-      "mapCode": "ch",
+    "name": "Polish Zloty",
+    "code": "PLN",
+    "mostRecentEdition": 100,
+    "fractionName": "Grosz",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 134,
+      "name": "Poland",
+      "fullName": "Republic of Poland",
       "continent": "Europe",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "pl"
     }
   },
   {
     "id": 139,
-    "name": "Ukrainian Hryvnia",
-    "code": "UAH",
+    "name": "Romanian Leu",
+    "code": "RON",
     "mostRecentEdition": 100,
-    "country": {
-      "id": 139,
-      "name": "Ukraine",
-      "fullName": "Ukraine",
-      "mapCode": "ua",
+    "fractionName": "Ban",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 135,
+      "name": "Romania",
+      "fullName": "Romania",
       "continent": "Europe",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "ro"
     }
   },
   {
     "id": 140,
-    "name": "British Pound",
-    "code": "GBP",
+    "name": "Serbian Dinar",
+    "code": "RSD",
     "mostRecentEdition": 100,
-    "country": {
-      "id": 140,
-      "name": "United Kingdom",
-      "fullName": "United Kingdom of Great\nBritain and Northern Ireland",
-      "mapCode": "gb",
+    "fractionName": "Para",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 136,
+      "name": "Serbia",
+      "fullName": "Republic of Serbia",
       "continent": "Europe",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "rs"
     }
   },
   {
     "id": 141,
-    "name": "Australian Dollar",
-    "code": "AUD",
-    "mostRecentEdition": 4,
-    "country": {
-      "id": 141,
-      "name": "Australia",
-      "fullName": "Commonwealth of Australia",
-      "mapCode": "au",
-      "continent": "Oceania",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+    "name": "Swedish Krona",
+    "code": "SEK",
+    "mostRecentEdition": 100,
+    "fractionName": "Ore",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 137,
+      "name": "Sweden",
+      "fullName": "Kingdom of Sweden",
+      "continent": "Europe",
+      "mapCode": "se"
     }
   },
   {
     "id": 142,
-    "name": "CFP Franc",
-    "code": "XPF",
-    "mostRecentEdition": 100,
-    "country": {
-      "id": 142,
-      "name": "Central Pacific",
-      "fullName": "Central Pacific",
-      "mapCode": "cp",
-      "continent": "Oceania",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+    "name": "Swiss Franc",
+    "code": "CHF",
+    "mostRecentEdition": 9,
+    "fractionName": "Centime",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 138,
+      "name": "Switzerland",
+      "fullName": "Swiss Confederation",
+      "continent": "Europe",
+      "mapCode": "ch"
     }
   },
   {
     "id": 143,
-    "name": "Fijian Dollar",
-    "code": "FJD",
+    "name": "Ukrainian Hryvnia",
+    "code": "UAH",
     "mostRecentEdition": 100,
-    "country": {
-      "id": 143,
-      "name": "Fiji",
-      "fullName": "Republic of Fiji",
-      "mapCode": "fj",
-      "continent": "Oceania",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+    "fractionName": "Kopiyka",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 139,
+      "name": "Ukraine",
+      "fullName": "Ukraine",
+      "continent": "Europe",
+      "mapCode": "ua"
     }
   },
   {
     "id": 144,
-    "name": "New Zealand Dollar",
-    "code": "NZD",
-    "mostRecentEdition": 7,
-    "country": {
-      "id": 144,
-      "name": "New Zealand",
-      "fullName": "New Zealand",
-      "mapCode": "nz",
-      "continent": "Oceania",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+    "name": "British Pound",
+    "code": "GBP",
+    "mostRecentEdition": 100,
+    "fractionName": "Penny",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 140,
+      "name": "United Kingdom",
+      "fullName": "United Kingdom of Great Britain and Northern Ireland",
+      "continent": "Europe",
+      "mapCode": "noCode"
     }
   },
   {
     "id": 145,
-    "name": "Papua New Guinean Kina",
-    "code": "PGK",
-    "mostRecentEdition": 100,
-    "country": {
-      "id": 145,
-      "name": "Papua New Guinea",
-      "fullName": "Independent State of Papua New Guinea",
-      "mapCode": "pg",
+    "name": "Australian Dollar",
+    "code": "AUD",
+    "mostRecentEdition": 4,
+    "fractionName": "Cent",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 141,
+      "name": "Australia",
+      "fullName": "Commonwealth of Australia",
       "continent": "Oceania",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "au"
     }
   },
   {
     "id": 146,
-    "name": "Samoan Tala",
-    "code": "WST",
+    "name": "CFP Franc",
+    "code": "XPF",
     "mostRecentEdition": 100,
-    "country": {
-      "id": 146,
-      "name": "Samoa",
-      "fullName": "Independent State of Samoa",
-      "mapCode": "ws",
+    "fractionName": "Centime",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 142,
+      "name": "Central Pacific",
+      "fullName": "Central Pacific",
       "continent": "Oceania",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "noCode"
     }
   },
   {
     "id": 147,
-    "name": "Solomon Islander Dollar",
-    "code": "SBD",
+    "name": "Fijian Dollar",
+    "code": "FJD",
     "mostRecentEdition": 100,
-    "country": {
-      "id": 147,
-      "name": "Solomon Islands",
-      "fullName": "Solomon Islands",
-      "mapCode": "sb",
+    "fractionName": "Cent",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 143,
+      "name": "Fiji",
+      "fullName": "Republic of Fiji",
       "continent": "Oceania",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "fj"
     }
   },
   {
     "id": 148,
-    "name": "Tongan Pa'anga",
-    "code": "TOP",
-    "mostRecentEdition": 100,
-    "country": {
-      "id": 148,
-      "name": "Tonga",
-      "fullName": "Kingdom of Tonga",
-      "mapCode": "to",
+    "name": "New Zealand Dollar",
+    "code": "NZD",
+    "mostRecentEdition": 7,
+    "fractionName": "Cent",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 144,
+      "name": "New Zealand",
+      "fullName": "New Zealand",
       "continent": "Oceania",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "nz"
     }
   },
   {
     "id": 149,
-    "name": "Ni-Vanuatu Vatu",
-    "code": "VUV",
+    "name": "Papua New Guinean Kina",
+    "code": "PGK",
     "mostRecentEdition": 100,
-    "country": {
-      "id": 149,
-      "name": "Vanuatu",
-      "fullName": "Republic of Vanuatu",
-      "mapCode": "vu",
+    "fractionName": "Toea",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 145,
+      "name": "Papua New Guinea",
+      "fullName": "Independent State of Papua New Guinea",
       "continent": "Oceania",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+      "mapCode": "pg"
     }
   },
   {
     "id": 150,
-    "name": "Hong Kong Dollar (BoC)",
-    "code": "HKD",
+    "name": "Samoan Tala",
+    "code": "WST",
     "mostRecentEdition": 100,
-    "country": {
-      "id": 81,
-      "name": "Hong Kong",
-      "fullName": "Hong Kong Special Administrative Region",
-      "mapCode": "hk",
-      "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+    "fractionName": "Sene",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 146,
+      "name": "Samoa",
+      "fullName": "Independent State of Samoa",
+      "continent": "Oceania",
+      "mapCode": "ws"
     }
   },
   {
     "id": 151,
-    "name": "Hong Kong Dollar (HSBC)",
-    "code": "HKD",
+    "name": "Solomon Islander Dollar",
+    "code": "SBD",
     "mostRecentEdition": 100,
-    "country": {
-      "id": 81,
-      "name": "Hong Kong",
-      "fullName": "Hong Kong Special Administrative Region",
-      "mapCode": "hk",
-      "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+    "fractionName": "Cent",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 147,
+      "name": "Solomon Islands",
+      "fullName": "Solomon Islands",
+      "continent": "Oceania",
+      "mapCode": "sb"
     }
   },
   {
     "id": 152,
-    "name": "Hong Kong Dollar (SCB)",
-    "code": "HKD",
+    "name": "Tongan Pa'anga",
+    "code": "TOP",
     "mostRecentEdition": 100,
-    "country": {
-      "id": 81,
-      "name": "Hong Kong",
-      "fullName": "Hong Kong Special Administrative Region",
-      "mapCode": "hk",
-      "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+    "fractionName": "Seniti",
+    "fraction": 100,
+    "currency_zone": {
+      "id": 148,
+      "name": "Tonga",
+      "fullName": "Kingdom of Tonga",
+      "continent": "Oceania",
+      "mapCode": "to"
     }
   },
   {
     "id": 153,
-    "name": "Macau Pataca (BoC)",
-    "code": "MOP",
-    "mostRecentEdition": 2,
-    "country": {
-      "id": 94,
-      "name": "Macau",
-      "fullName": "Macao Special Administrative Region of the People's Republic of China",
-      "mapCode": "mo",
-      "continent": "Asia",
-      "createdAt": "2023-02-22T06:01:07.423Z",
-      "updatedAt": "2023-02-22T06:01:07.423Z"
+    "name": "Ni-Vanuatu Vatu",
+    "code": "VUV",
+    "mostRecentEdition": 100,
+    "fractionName": null,
+    "fraction": null,
+    "currency_zone": {
+      "id": 149,
+      "name": "Vanuatu",
+      "fullName": "Republic of Vanuatu",
+      "continent": "Oceania",
+      "mapCode": "vu"
     }
   }
 ]

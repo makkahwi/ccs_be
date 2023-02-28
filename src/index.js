@@ -1,8 +1,9 @@
 "use strict";
-// const list = require("../database/seeds/list.json");
-// const countries = require("../database/seeds/countries.json");
-// const currencies = require("../database/seeds/currencies.json");
-// const editions = require("../database/seeds/editions.json");
+const list = require("../database/seeds/list.json");
+const countries = require("../database/seeds/countries.json");
+const currencies = require("../database/seeds/currencies.json");
+const editions = require("../database/seeds/editions.json");
+const codes = require("../database/seeds/codes.json");
 
 module.exports = {
   /**
@@ -30,13 +31,20 @@ module.exports = {
   //   if (i < list.length) {
   //     console.log(i);
   //     const { name, fullName, continent } = list[i++];
-  //     await strapi.db.query("api::country.country").create({
-  //       data: { name, fullName, continent },
+  //     await strapi.db.query("api::currency-zone.currency-zone").create({
+  //       data: {
+  //         name,
+  //         fullName,
+  //         continent,
+  //         mapCode:
+  //           codes.find((code) => code.name === name)?.alpha2.toLowerCase() ||
+  //           "noCode",
+  //       },
   //     });
   //   } else {
   //     clearInterval(timer);
   //   }
-  // }, 1500);
+  // }, 750);
   // For Currency Creation
   // let i = 0;
   // let timer = setInterval(async () => {
@@ -57,30 +65,30 @@ module.exports = {
   //         mostRecentEdition: mostRecentEdition || 100,
   //         fractionName,
   //         fraction,
-  //         country: countries.find((c) => c.name === name)?.id,
+  //         currency_zone: countries.find((c) => c.name === name)?.id,
   //       },
   //     });
   //   } else {
   //     clearInterval(timer);
   //   }
-  // }, 1500);
+  // }, 750);
   // For CurrencyEdition Creation
   // let i = 0;
   // let timer = setInterval(async () => {
   //   if (i < list.length) {
   //     console.log(i);
   //     const { mostRecentEdition, year, currencyName } = list[i++];
-  //     await strapi.db.query("api::currency.currency").create({
+  //     await strapi.db.query("api::currency-edition.currency-edition").create({
   //       data: {
   //         order: mostRecentEdition || 100,
-  //         year,
+  //         year: year || 2030,
   //         currency: currencies.find((c) => c.name === currencyName)?.id,
   //       },
   //     });
   //   } else {
   //     clearInterval(timer);
   //   }
-  // }, 1500);
+  // }, 750);
   // For Pieces Creation
   // const final = list.reduce(
   //   (final, current) => [
@@ -91,10 +99,11 @@ module.exports = {
   //       )
   //       .map((key) => ({
   //         value: current[key],
-  //         type: key.includes("Coins") ? "Coin" : "Banknote",
+  //         type: key.includes("Coin") ? "Coin" : "Banknote",
   //         currency_edition: editions.find(
   //           (edition) => edition.currency.code === current.code
   //         )?.id,
+  //         collected: key.includes("collected"),
   //       }))
   //       .sort((a, b) => a.value - b.value),
   //   ],
@@ -104,12 +113,26 @@ module.exports = {
   // let timer = setInterval(async () => {
   //   if (i < final.length) {
   //     console.log(i);
-  //     await strapi.db.query("api::piece.piece").create({
+  //     await strapi.entityService.create("api::piece.piece", {
   //       data: final[i++],
   //     });
+  //     // console.log({ res });
+  //     // if (final[i].collected) {
+  //     //   await strapi.db.query("api::collection.collection").create({
+  //     //     data: {
+  //     //       ...final[i],
+  //     //       date: final[i].date || "2030-01-30",
+  //     //       count: 1,
+  //     //       piece: res.id,
+  //     //     },
+  //     //   });
+  //     //   i += 1;
+  //     // } else {
+  //     //   i += 1;
+  //     // }
   //   } else {
   //     clearInterval(timer);
   //   }
-  // }, 1500);
+  // }, 750);
   // },
 };

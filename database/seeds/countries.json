@@ -3,1043 +3,1043 @@
     "id": 1,
     "name": "Algeria",
     "fullName": "People's Democratic Republic of Algeria",
-    "mapCode": "dz",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "dz"
   },
   {
     "id": 2,
     "name": "Angola",
     "fullName": "Republic of Angola",
-    "mapCode": "ao",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "ao"
   },
   {
     "id": 3,
     "name": "Botswana",
     "fullName": "Republic of Botswana",
-    "mapCode": "bw",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "bw"
   },
   {
     "id": 4,
     "name": "Burundi",
     "fullName": "Republic of Burundi",
-    "mapCode": "bi",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "bi"
   },
   {
     "id": 5,
     "name": "Cape Verde",
     "fullName": "Republic of Cabo Verde",
-    "mapCode": "cv",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "noCode"
   },
   {
     "id": 6,
     "name": "Central Africa",
     "fullName": "Central Africa",
-    "mapCode": "cf",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "cf"
   },
   {
     "id": 7,
     "name": "Comoros",
     "fullName": "Union of the Comoros",
-    "mapCode": "km",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "km"
   },
   {
     "id": 8,
     "name": "Congo",
     "fullName": "Democratic Republic of the Congo",
-    "mapCode": "cg",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "cg"
   },
   {
     "id": 9,
     "name": "Djibouti",
     "fullName": "Republic of Djibouti",
-    "mapCode": "dj",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "dj"
   },
   {
     "id": 10,
     "name": "Egypt",
     "fullName": "Arab Republic of Egypt",
-    "mapCode": "eg",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "eg"
   },
   {
     "id": 11,
     "name": "Eritrea",
     "fullName": "State of Eritrea",
-    "mapCode": "er",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "er"
   },
   {
     "id": 12,
     "name": "Ethiopia",
     "fullName": "Federal Democratic Republic of Ethiopia",
-    "mapCode": "et",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "et"
   },
   {
     "id": 13,
     "name": "Gambia",
     "fullName": "Republic of The Gambia",
-    "mapCode": "gm",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "gm"
   },
   {
     "id": 14,
     "name": "Ghana",
     "fullName": "Republic of Ghana",
-    "mapCode": "gh",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "gh"
   },
   {
     "id": 15,
     "name": "Guinea",
     "fullName": "Republic of Guinea",
-    "mapCode": "gn",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "gn"
   },
   {
     "id": 16,
     "name": "Kenya",
     "fullName": "Republic of Kenya",
-    "mapCode": "ke",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "ke"
   },
   {
     "id": 17,
     "name": "Liberia",
     "fullName": "Republic of Liberia",
-    "mapCode": "lr",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "lr"
   },
   {
     "id": 18,
     "name": "Libya",
     "fullName": "State of Libya",
-    "mapCode": "ly",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "ly"
   },
   {
     "id": 19,
     "name": "Madagascar",
     "fullName": "Republic of Madagascar",
-    "mapCode": "mg",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "mg"
   },
   {
     "id": 20,
     "name": "Malawi",
     "fullName": "Republic of Malawi",
-    "mapCode": "mw",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "mw"
   },
   {
     "id": 21,
     "name": "Mauritania",
     "fullName": "Islamic Republic of Mauritania",
-    "mapCode": "mr",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "mr"
   },
   {
     "id": 22,
     "name": "Mauritius",
     "fullName": "Republic of Mauritius",
-    "mapCode": "mu",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "mu"
   },
   {
     "id": 23,
     "name": "Morocco",
     "fullName": "Kingdom of Morocco",
-    "mapCode": "ma",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "ma"
   },
   {
     "id": 24,
     "name": "Mozambique",
     "fullName": "Republic of Mozambique",
-    "mapCode": "mz",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "mz"
   },
   {
     "id": 25,
     "name": "Namibia",
     "fullName": "Republic of Namibia",
-    "mapCode": "na",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "na"
   },
   {
     "id": 26,
     "name": "Nigeria",
     "fullName": "Federal Republic of Nigeria",
-    "mapCode": "ng",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "ng"
   },
   {
     "id": 27,
     "name": "Rwanda",
     "fullName": "Republic of Rwanda",
-    "mapCode": "rw",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "rw"
   },
   {
     "id": 28,
     "name": "Sao Tome",
     "fullName": "Democratic Republic of Sao Tome and Principe",
-    "mapCode": "st",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "noCode"
   },
   {
     "id": 29,
     "name": "Sierra Leone",
     "fullName": "Republic of Sierra Leone",
-    "mapCode": "sl",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "sl"
   },
   {
     "id": 30,
     "name": "Somalia",
     "fullName": "Federal Republic of Somalia",
-    "mapCode": "so",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "so"
   },
   {
     "id": 31,
     "name": "Seychelles",
     "fullName": "Republic of Seychelles",
-    "mapCode": "sc",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "sc"
   },
   {
     "id": 32,
     "name": "South Africa",
     "fullName": "Republic of South Africa",
-    "mapCode": "za",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "za"
   },
   {
     "id": 33,
     "name": "South Sudan",
     "fullName": "Republic of South Sudan",
-    "mapCode": "ss",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "ss"
   },
   {
     "id": 34,
     "name": "Sudan",
     "fullName": "Republic of the Sudan",
-    "mapCode": "sd",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "sd"
   },
   {
     "id": 35,
     "name": "Swaziland",
     "fullName": "Kingdom of Swaziland",
-    "mapCode": "sz",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "noCode"
   },
   {
     "id": 36,
     "name": "Tanzania",
     "fullName": "The United Republic Of Tanzania",
-    "mapCode": "tz",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "noCode"
   },
   {
     "id": 37,
     "name": "Tunisia",
     "fullName": "Republic of Tunisia",
-    "mapCode": "tn",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "tn"
   },
   {
     "id": 38,
     "name": "Uganda",
     "fullName": "Republic of Uganda",
-    "mapCode": "ug",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "ug"
   },
   {
     "id": 39,
     "name": "West Africa",
     "fullName": "West Africa",
-    "mapCode": "wa",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "noCode"
   },
   {
     "id": 40,
     "name": "Zambia",
     "fullName": "Republic of Zambia",
-    "mapCode": "zm",
-    "continent": "Africa"
+    "continent": "Africa",
+    "mapCode": "zm"
   },
   {
     "id": 41,
     "name": "Argentina",
     "fullName": "Argentine Republic",
-    "mapCode": "ar",
-    "continent": "Americas"
+    "continent": "Americas",
+    "mapCode": "ar"
   },
   {
     "id": 42,
     "name": "Aruba",
     "fullName": "Aruba",
-    "mapCode": "aw",
-    "continent": "Americas"
+    "continent": "Americas",
+    "mapCode": "aw"
   },
   {
     "id": 43,
     "name": "Bahamas",
     "fullName": "Commonwealth of the Bahamas",
-    "mapCode": "bs",
-    "continent": "Americas"
+    "continent": "Americas",
+    "mapCode": "bs"
   },
   {
     "id": 44,
     "name": "Barbados",
     "fullName": "Barbados",
-    "mapCode": "bb",
-    "continent": "Americas"
+    "continent": "Americas",
+    "mapCode": "bb"
   },
   {
     "id": 45,
     "name": "Belize",
     "fullName": "Belize",
-    "mapCode": "bz",
-    "continent": "Americas"
+    "continent": "Americas",
+    "mapCode": "bz"
   },
   {
     "id": 46,
     "name": "Bermuda",
     "fullName": "Bermuda",
-    "mapCode": "bm",
-    "continent": "Americas"
+    "continent": "Americas",
+    "mapCode": "bm"
   },
   {
     "id": 47,
     "name": "Bolivia",
     "fullName": "Plurinational State of Bolivia",
-    "mapCode": "bo",
-    "continent": "Americas"
+    "continent": "Americas",
+    "mapCode": "bo"
   },
   {
     "id": 48,
     "name": "Brazil",
     "fullName": "Federative Republic of Brazil",
-    "mapCode": "br",
-    "continent": "Americas"
+    "continent": "Americas",
+    "mapCode": "br"
   },
   {
     "id": 49,
     "name": "Canada",
     "fullName": "Canada",
-    "mapCode": "ca",
-    "continent": "Americas"
+    "continent": "Americas",
+    "mapCode": "ca"
   },
   {
     "id": 50,
     "name": "Cayman Islands",
     "fullName": "Cayman Islands",
-    "mapCode": "ky",
-    "continent": "Americas"
+    "continent": "Americas",
+    "mapCode": "ky"
   },
   {
     "id": 51,
     "name": "Chile",
     "fullName": "Republic of Chile",
-    "mapCode": "cl",
-    "continent": "Americas"
+    "continent": "Americas",
+    "mapCode": "cl"
   },
   {
     "id": 52,
     "name": "Colombia",
     "fullName": "Republic of Colombia",
-    "mapCode": "co",
-    "continent": "Americas"
+    "continent": "Americas",
+    "mapCode": "co"
   },
   {
     "id": 53,
     "name": "Costa Rica",
     "fullName": "Republic of Costa Rica",
-    "mapCode": "cr",
-    "continent": "Americas"
+    "continent": "Americas",
+    "mapCode": "cr"
   },
   {
     "id": 54,
     "name": "Cuba",
     "fullName": "Republic of Cuba",
-    "mapCode": "cu",
-    "continent": "Americas"
+    "continent": "Americas",
+    "mapCode": "cu"
   },
   {
     "id": 55,
     "name": "Dominican Republic",
     "fullName": "Dominican Republic",
-    "mapCode": "do",
-    "continent": "Americas"
+    "continent": "Americas",
+    "mapCode": "do"
   },
   {
     "id": 56,
     "name": "Guatemala",
     "fullName": "Republic of Guatemala",
-    "mapCode": "gt",
-    "continent": "Americas"
+    "continent": "Americas",
+    "mapCode": "gt"
   },
   {
     "id": 57,
     "name": "Guyana",
     "fullName": "Co-operative Republic of Guyana",
-    "mapCode": "gy",
-    "continent": "Americas"
+    "continent": "Americas",
+    "mapCode": "gy"
   },
   {
     "id": 58,
     "name": "Haiti",
     "fullName": "Republic of Haiti",
-    "mapCode": "ht",
-    "continent": "Americas"
+    "continent": "Americas",
+    "mapCode": "ht"
   },
   {
     "id": 59,
     "name": "Honduras",
     "fullName": "Republic of Honduras",
-    "mapCode": "hn",
-    "continent": "Americas"
+    "continent": "Americas",
+    "mapCode": "hn"
   },
   {
     "id": 60,
     "name": "Jamaica",
     "fullName": "Jamaica",
-    "mapCode": "jm",
-    "continent": "Americas"
+    "continent": "Americas",
+    "mapCode": "jm"
   },
   {
     "id": 61,
     "name": "Mexico",
     "fullName": "United Mexican States",
-    "mapCode": "mx",
-    "continent": "Americas"
+    "continent": "Americas",
+    "mapCode": "mx"
   },
   {
     "id": 62,
     "name": "Nicaragua",
     "fullName": "Republic of Paraguay",
-    "mapCode": "ni",
-    "continent": "Americas"
+    "continent": "Americas",
+    "mapCode": "ni"
   },
   {
     "id": 63,
     "name": "Panama",
     "fullName": "Republic of Panama",
-    "mapCode": "pa",
-    "continent": "Americas"
+    "continent": "Americas",
+    "mapCode": "pa"
   },
   {
     "id": 64,
     "name": "Paraguay",
     "fullName": "Republic of Paraguay",
-    "mapCode": "py",
-    "continent": "Americas"
+    "continent": "Americas",
+    "mapCode": "py"
   },
   {
     "id": 65,
     "name": "Peru",
     "fullName": "Republic of Peru",
-    "mapCode": "pe",
-    "continent": "Americas"
+    "continent": "Americas",
+    "mapCode": "pe"
   },
   {
     "id": 66,
     "name": "Suriname",
     "fullName": "Republic of Suriname",
-    "mapCode": "sr",
-    "continent": "Americas"
+    "continent": "Americas",
+    "mapCode": "sr"
   },
   {
     "id": 67,
     "name": "United States of America",
     "fullName": "United States of America",
-    "mapCode": "us",
-    "continent": "Americas"
+    "continent": "Americas",
+    "mapCode": "us"
   },
   {
     "id": 68,
     "name": "Uruguay",
     "fullName": "Oriental Republic of Uruguay",
-    "mapCode": "uy",
-    "continent": "Americas"
+    "continent": "Americas",
+    "mapCode": "uy"
   },
   {
     "id": 69,
     "name": "Venezuela",
     "fullName": "Bolivarian Republic of Venezuela",
-    "mapCode": "vn",
-    "continent": "Americas"
+    "continent": "Americas",
+    "mapCode": "noCode"
   },
   {
     "id": 70,
     "name": "Afghanistan",
     "fullName": "Islamic Republic of Afghanistan",
-    "mapCode": "af",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "af"
   },
   {
     "id": 71,
     "name": "Armenia",
     "fullName": "Republic of Armenia",
-    "mapCode": "am",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "am"
   },
   {
     "id": 72,
     "name": "Azerbaijan",
     "fullName": "Republic of Azerbaijan",
-    "mapCode": "az",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "az"
   },
   {
     "id": 73,
     "name": "Bahrain",
     "fullName": "Kingdom of Bahrain",
-    "mapCode": "bh",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "bh"
   },
   {
     "id": 74,
     "name": "Bangladesh",
     "fullName": "People's Republic of Bangladesh",
-    "mapCode": "bd",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "bd"
   },
   {
     "id": 75,
     "name": "Bhutan",
     "fullName": "Kingdom of Bhutan",
-    "mapCode": "bt",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "bt"
   },
   {
     "id": 76,
     "name": "Brunei",
     "fullName": "Negara Brunei Darussalam",
-    "mapCode": "bn",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "bn"
   },
   {
     "id": 77,
     "name": "Cambodia",
     "fullName": "Kingdom of Cambodia",
-    "mapCode": "kh",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "kh"
   },
   {
     "id": 78,
     "name": "China",
     "fullName": "People's Republic of China",
-    "mapCode": "cn",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "cn"
   },
   {
     "id": 79,
     "name": "Emirates",
     "fullName": "United Arab Emirates",
-    "mapCode": "ae",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "noCode"
   },
   {
     "id": 80,
     "name": "Georgia",
     "fullName": "Georgia",
-    "mapCode": "ge",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "ge"
   },
   {
     "id": 81,
     "name": "Hong Kong",
     "fullName": "Hong Kong Special Administrative Region",
-    "mapCode": "hk",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "hk"
   },
   {
     "id": 82,
     "name": "India",
     "fullName": "Republic of India",
-    "mapCode": "in",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "in"
   },
   {
     "id": 83,
     "name": "Indonesia",
     "fullName": "Republic of Indonesia",
-    "mapCode": "nevermind6",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "id"
   },
   {
     "id": 84,
     "name": "Iran",
     "fullName": "Islamic Republic of Iran",
-    "mapCode": "ir",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "noCode"
   },
   {
     "id": 85,
     "name": "Iraq",
     "fullName": "Republic of Iraq",
-    "mapCode": "iq",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "iq"
   },
   {
     "id": 86,
     "name": "Israel",
     "fullName": "State of Israel",
-    "mapCode": "il",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "il"
   },
   {
     "id": 87,
     "name": "Japan",
     "fullName": "Japan",
-    "mapCode": "jp",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "jp"
   },
   {
     "id": 88,
     "name": "Jordan",
     "fullName": "The Hashemite Kingdom of Jordan",
-    "mapCode": "jo",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "jo"
   },
   {
     "id": 89,
     "name": "Kazakhstan",
     "fullName": "Republic of Kazakhstan",
-    "mapCode": "kz",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "kz"
   },
   {
     "id": 90,
     "name": "Kuwait",
     "fullName": "State of Kuwait",
-    "mapCode": "kw",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "kw"
   },
   {
     "id": 91,
     "name": "Kyrgyzstan",
     "fullName": "Kyrgyz Republic",
-    "mapCode": "kg",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "kg"
   },
   {
     "id": 92,
     "name": "Laos",
     "fullName": "Lao People's Democratic Republic",
-    "mapCode": "la",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "noCode"
   },
   {
     "id": 93,
     "name": "Lebanon",
     "fullName": "Lebanese Republic",
-    "mapCode": "lb",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "lb"
   },
   {
     "id": 94,
     "name": "Macau",
     "fullName": "Macao Special Administrative Region of the People's Republic of China",
-    "mapCode": "mo",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "noCode"
   },
   {
     "id": 95,
     "name": "Malaysia",
     "fullName": "Malaysia",
-    "mapCode": "my",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "my"
   },
   {
     "id": 96,
     "name": "Maldives",
     "fullName": "Republic of Maldives",
-    "mapCode": "mv",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "mv"
   },
   {
     "id": 97,
     "name": "Mongolia",
     "fullName": "Mongolia",
-    "mapCode": "mn",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "mn"
   },
   {
     "id": 98,
     "name": "Myanmar",
     "fullName": "Republic of the Union of Myanmar",
-    "mapCode": "mm",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "mm"
   },
   {
     "id": 99,
     "name": "Nepal",
     "fullName": "Federal Democratic Republic of Nepal",
-    "mapCode": "np",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "np"
   },
   {
     "id": 100,
     "name": "North Korea",
     "fullName": "Democratic People's Republic of Korea",
-    "mapCode": "kp",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "noCode"
   },
   {
     "id": 101,
     "name": "Oman",
     "fullName": "Sultanate of Oman",
-    "mapCode": "om",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "om"
   },
   {
     "id": 102,
     "name": "Pakistan",
     "fullName": "Islamic Republic of Pakistan",
-    "mapCode": "pk",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "pk"
   },
   {
     "id": 103,
     "name": "Philippine",
     "fullName": "Republic of the Philippines",
-    "mapCode": "ph",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "noCode"
   },
   {
     "id": 104,
     "name": "Qatar",
     "fullName": "State of Qatar",
-    "mapCode": "qa",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "qa"
   },
   {
     "id": 105,
     "name": "Russia",
     "fullName": "Russian Federation",
-    "mapCode": "ru",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "noCode"
   },
   {
     "id": 106,
     "name": "Saudi Arabia",
     "fullName": "Kingdom of Saudi Arabia",
-    "mapCode": "sa",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "sa"
   },
   {
     "id": 107,
     "name": "Singapore",
     "fullName": "Republic of Singapore",
-    "mapCode": "sg",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "sg"
   },
   {
     "id": 108,
     "name": "South Korea",
     "fullName": "Republic of Korea",
-    "mapCode": "kr",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "noCode"
   },
   {
     "id": 109,
     "name": "Sri Lanka",
     "fullName": "Democratic Socialist Republic of Sri Lanka",
-    "mapCode": "lk",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "lk"
   },
   {
     "id": 110,
     "name": "Syria",
     "fullName": "Syrian Arab Republic",
-    "mapCode": "sy",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "noCode"
   },
   {
     "id": 111,
     "name": "Taiwan",
     "fullName": "Republic of China",
-    "mapCode": "tw",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "noCode"
   },
   {
     "id": 112,
     "name": "Tajikistan",
     "fullName": "Republic of Tajikistan",
-    "mapCode": "tj",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "tj"
   },
   {
     "id": 113,
     "name": "Thailand",
     "fullName": "Kingdom of Thailand",
-    "mapCode": "th",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "th"
   },
   {
     "id": 114,
     "name": "Turkey",
     "fullName": "Republic of Turkey",
-    "mapCode": "tr",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "tr"
   },
   {
     "id": 115,
     "name": "Turkmenistan",
     "fullName": "Turkmenistan",
-    "mapCode": "tm",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "tm"
   },
   {
     "id": 116,
     "name": "Uzbekistan",
     "fullName": "Republic of Uzbekistan",
-    "mapCode": "uz",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "uz"
   },
   {
     "id": 117,
     "name": "Vietnam",
     "fullName": "Socialist Republic of Vietnam",
-    "mapCode": "vn",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "noCode"
   },
   {
     "id": 118,
     "name": "Yemen",
     "fullName": "Republic of Yemen",
-    "mapCode": "ye",
-    "continent": "Asia"
+    "continent": "Asia",
+    "mapCode": "ye"
   },
   {
     "id": 119,
     "name": "Albania",
     "fullName": "Republic of Albania",
-    "mapCode": "al",
-    "continent": "Europe"
+    "continent": "Europe",
+    "mapCode": "al"
   },
   {
     "id": 120,
     "name": "Belarus",
     "fullName": "Republic of Belarus",
-    "mapCode": "by",
-    "continent": "Europe"
+    "continent": "Europe",
+    "mapCode": "by"
   },
   {
     "id": 121,
     "name": "Bosnia",
     "fullName": "Bosnia and Herzegovina",
-    "mapCode": "ba",
-    "continent": "Europe"
+    "continent": "Europe",
+    "mapCode": "ba"
   },
   {
     "id": 122,
     "name": "Bulgaria",
     "fullName": "Republic of Bulgaria",
-    "mapCode": "bg",
-    "continent": "Europe"
+    "continent": "Europe",
+    "mapCode": "bg"
   },
   {
     "id": 123,
     "name": "Croatia",
     "fullName": "Republic of Croatia",
-    "mapCode": "hr",
-    "continent": "Europe"
+    "continent": "Europe",
+    "mapCode": "hr"
   },
   {
     "id": 124,
     "name": "Czech",
     "fullName": "Czech Republic",
-    "mapCode": "cz",
-    "continent": "Europe"
+    "continent": "Europe",
+    "mapCode": "noCode"
   },
   {
     "id": 125,
     "name": "Denmark",
     "fullName": "Kingdom of Denmark",
-    "mapCode": "dk",
-    "continent": "Europe"
+    "continent": "Europe",
+    "mapCode": "dk"
   },
   {
     "id": 126,
     "name": "European Union",
     "fullName": "European Union",
-    "mapCode": "eu",
-    "continent": "Europe"
+    "continent": "Europe",
+    "mapCode": "noCode"
   },
   {
     "id": 127,
     "name": "Falkland Islands",
     "fullName": "Falkland Islands",
-    "mapCode": "fk",
-    "continent": "Europe"
+    "continent": "Europe",
+    "mapCode": "noCode"
   },
   {
     "id": 128,
     "name": "Gibraltar",
     "fullName": "Gibraltar",
-    "mapCode": "gi",
-    "continent": "Europe"
+    "continent": "Europe",
+    "mapCode": "gi"
   },
   {
     "id": 129,
     "name": "Hungary",
     "fullName": "Hungary",
-    "mapCode": "hu",
-    "continent": "Europe"
+    "continent": "Europe",
+    "mapCode": "hu"
   },
   {
     "id": 130,
     "name": "Iceland",
     "fullName": "Iceland",
-    "mapCode": "is",
-    "continent": "Europe"
+    "continent": "Europe",
+    "mapCode": "is"
   },
   {
     "id": 131,
     "name": "Macedonia",
     "fullName": "Republic of Macedonia",
-    "mapCode": "mk",
-    "continent": "Europe"
+    "continent": "Europe",
+    "mapCode": "noCode"
   },
   {
     "id": 132,
     "name": "Moldova",
     "fullName": "Republic of Moldova",
-    "mapCode": "md",
-    "continent": "Europe"
+    "continent": "Europe",
+    "mapCode": "noCode"
   },
   {
     "id": 133,
     "name": "Norway",
     "fullName": "Kingdom of Norway",
-    "mapCode": "no",
-    "continent": "Europe"
+    "continent": "Europe",
+    "mapCode": "no"
   },
   {
     "id": 134,
     "name": "Poland",
     "fullName": "Republic of Poland",
-    "mapCode": "pl",
-    "continent": "Europe"
+    "continent": "Europe",
+    "mapCode": "pl"
   },
   {
     "id": 135,
     "name": "Romania",
     "fullName": "Romania",
-    "mapCode": "ro",
-    "continent": "Europe"
+    "continent": "Europe",
+    "mapCode": "ro"
   },
   {
     "id": 136,
     "name": "Serbia",
     "fullName": "Republic of Serbia",
-    "mapCode": "rs",
-    "continent": "Europe"
+    "continent": "Europe",
+    "mapCode": "rs"
   },
   {
     "id": 137,
     "name": "Sweden",
     "fullName": "Kingdom of Sweden",
-    "mapCode": "se",
-    "continent": "Europe"
+    "continent": "Europe",
+    "mapCode": "se"
   },
   {
     "id": 138,
     "name": "Switzerland",
     "fullName": "Swiss Confederation",
-    "mapCode": "ch",
-    "continent": "Europe"
+    "continent": "Europe",
+    "mapCode": "ch"
   },
   {
     "id": 139,
     "name": "Ukraine",
     "fullName": "Ukraine",
-    "mapCode": "ua",
-    "continent": "Europe"
+    "continent": "Europe",
+    "mapCode": "ua"
   },
   {
     "id": 140,
     "name": "United Kingdom",
     "fullName": "United Kingdom of Great\nBritain and Northern Ireland",
-    "mapCode": "gb",
-    "continent": "Europe"
+    "continent": "Europe",
+    "mapCode": "noCode"
   },
   {
     "id": 141,
     "name": "Australia",
     "fullName": "Commonwealth of Australia",
-    "mapCode": "au",
-    "continent": "Oceania"
+    "continent": "Oceania",
+    "mapCode": "au"
   },
   {
     "id": 142,
     "name": "Central Pacific",
     "fullName": "Central Pacific",
-    "mapCode": "cp",
-    "continent": "Oceania"
+    "continent": "Oceania",
+    "mapCode": "noCode"
   },
   {
     "id": 143,
     "name": "Fiji",
     "fullName": "Republic of Fiji",
-    "mapCode": "fj",
-    "continent": "Oceania"
+    "continent": "Oceania",
+    "mapCode": "fj"
   },
   {
     "id": 144,
     "name": "New Zealand",
     "fullName": "New Zealand",
-    "mapCode": "nz",
-    "continent": "Oceania"
+    "continent": "Oceania",
+    "mapCode": "nz"
   },
   {
     "id": 145,
     "name": "Papua New Guinea",
     "fullName": "Independent State of Papua New Guinea",
-    "mapCode": "pg",
-    "continent": "Oceania"
+    "continent": "Oceania",
+    "mapCode": "pg"
   },
   {
     "id": 146,
     "name": "Samoa",
     "fullName": "Independent State of Samoa",
-    "mapCode": "ws",
-    "continent": "Oceania"
+    "continent": "Oceania",
+    "mapCode": "ws"
   },
   {
     "id": 147,
     "name": "Solomon Islands",
     "fullName": "Solomon Islands",
-    "mapCode": "sb",
-    "continent": "Oceania"
+    "continent": "Oceania",
+    "mapCode": "sb"
   },
   {
     "id": 148,
     "name": "Tonga",
     "fullName": "Kingdom of Tonga",
-    "mapCode": "to",
-    "continent": "Oceania"
+    "continent": "Oceania",
+    "mapCode": "to"
   },
   {
     "id": 149,
     "name": "Vanuatu",
     "fullName": "Republic of Vanuatu",
-    "mapCode": "vu",
-    "continent": "Oceania"
+    "continent": "Oceania",
+    "mapCode": "vu"
   }
 ]
